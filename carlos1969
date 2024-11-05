@@ -721,6 +721,9 @@ http://3225928.net:80/649844320/z890800e/264962
 
 ########################################### CANAIS PREMIERE ############################################################
 
+#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere
+http://3225928.net:80/649844320/z890800e/494
+
 #EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere 1
 http://tv5.me:80/ItaloD/102030qaz/6938
 
