@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 26/12/2024 17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 27/12/2024 17:25:15
 
 ########################################### CANAIS GLOBO ##############################################################
 
@@ -8,19 +8,19 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 
-
+http://tv.fazoeli.co.za/m3u8/globorj.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
-http://cdn22.cc:80/Fred21/583590/354.ts
+http://84.16.252.219:2082/suspected-TR1-Mi7kLnCOyn/47O47gnLB6/511
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",MG
-http://cdn22.cc:80/Fred21/583590/362.ts
+
 
 
 ########################################### INFANTIL #########################################################
 
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
-http://cdn22.cc:80/Magalhaesps/101280/128.ts
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
 
 ########################################### SINHÁ MOÇA #########################################################
 
@@ -614,39 +614,39 @@ https://novelasflix.vip/storage5/OBA/OBA-010.mp4
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG
-http://cdn22.cc:80/Fred21/583590/123582.ts
+
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
-http://cdn22.cc:80/Fred21/583590/580.ts
+http://super-cdn.link/band/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ
-http://cdn22.cc:80/Fred21/583590/122447.ts
+
 
 
 ########################################### CANAIS RedeTV ########################################################
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV!
-http://cdn22.cc:80/Fred21/583590/48.ts 
+http://super-cdn.link/redetv/index.m3u8 
 
 ########################################### CANAIS SBT #########################################################
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT TV ALTEROSA MG
-http://ad77bet.com:80/live/142583189151/671235998740/2689814.m3u
+
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT SP
-http://cdn22.cc:80/Fred21/583590/580.ts
+http://super-cdn.link/sbt/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ
-http://ad77bet.com:80/live/142583189151/671235998740/2690512.m3u
+
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/w2CTebZ.png",Mais SBT HD
-https://aovivo.maissbt.com/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
-http://tv5.me:80/ItaloD/102030qaz/259465
+
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT PR
-http://tv5.me:80/ItaloD/102030qaz/150365
+
 
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
@@ -662,7 +662,7 @@ http://ad77bet.com:80/live/142583189151/671235998740/2690479.m3u
 http://ad77bet.com:80/live/142583189151/671235998740/2690469.m3u
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP
-http://ad77bet.com:80/live/142583189151/671235998740/2690466.m3u
+http://super-cdn.link/record/index.m3u8
 
 ################################################# CANAIS NOVELAS ##############################################################
 
@@ -670,19 +670,19 @@ http://ad77bet.com:80/live/142583189151/671235998740/2690466.m3u
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-http://tv5.me:80/ItaloD/102030qaz/6441
+
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
-http://ad77bet.com:80/live/142583189151/671235998740/108370.m3u
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Viva 70 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34MKrnzK3jINRtWme9axOvwD3C8NHjiur0g&s" group-title="Canais | NOVELAS",Viva anos 70 
-http://tv5.me:80/ItaloD/102030qaz/180817
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Viva 80 HD" tvg-logo="" group-title="Canais | NOVELAS",Viva anos 80 
-http://tv5.me:80/ItaloD/102030qaz/254019
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-http://tv5.me:80/ItaloD/102030qaz/226258
+
 
 ########################################### CANAIS INTERNACIONAIS #########################################################
 
@@ -809,7 +809,7 @@ https://super-cdn.link/hbo2/index.m3u8
 https://super-cdn.link/hbofamily/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO POP
-https://super-cdn.link/hbopop/index.m3u8
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659741
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO XTREME
 https://super-cdn.link/hboxtreme/index.m3u8
