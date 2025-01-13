@@ -5,7 +5,7 @@
 ########################################### CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
-http://gerenciadorr.xyz:80/421730438/709501434/441159
+http://gerenciadorr.xyz:80/024030905/181965259/441159
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 
 http://tv.fazoeli.co.za/m3u8/globorj.m3u8
@@ -14,7 +14,7 @@ http://tv.fazoeli.co.za/m3u8/globorj.m3u8
 http://84.16.252.219:2082/suspected-TR1-Mi7kLnCOyn/47O47gnLB6/511
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",MG
-http://gerenciadorr.xyz:80/421730438/709501434/441186
+http://gerenciadorr.xyz:80/024030905/181965259/441103
 
 
 ########################################### INFANTIL #########################################################
@@ -26,7 +26,7 @@ http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
 ########################################### ANIMAL PLANET #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS || DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://gerenciadorr.xyz:80/332913507/544336105/950824
+http://gerenciadorr.xyz:80/024030905/181965259/950824
 
 ########################################### SINHÁ MOÇA #########################################################
 
@@ -620,234 +620,224 @@ https://novelasflix.vip/storage5/OBA/OBA-010.mp4
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG
-http://gerenciadorr.xyz:80/421730438/709501434/440981
+http://gerenciadorr.xyz:80/024030905/181965259/440981
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
-http://gerenciadorr.xyz:80/421730438/709501434/440990
+http://gerenciadorr.xyz:80/024030905/181965259/440990
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ
-http://gerenciadorr.xyz:80/421730438/709501434/440986
+http://gerenciadorr.xyz:80/024030905/181965259/440984
 
 ########################################### CANAIS RedeTV ########################################################
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV!
-http://super-cdn.link/redetv/index.m3u8 
+http://gerenciadorr.xyz:80/024030905/181965259/951619
 
 ########################################### CANAIS SBT #########################################################
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT TV ALTEROSA MG
-
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT MG
+http://gerenciadorr.xyz:80/024030905/181965259/441266
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT SP
-http://super-cdn.link/sbt/index.m3u8
+http://gerenciadorr.xyz:80/024030905/181965259/441275
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ
-http://gerenciadorr.xyz:80/421730438/709501434/441270
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT MG
-http://gerenciadorr.xyz:80/421730438/709501434/441267
+http://gerenciadorr.xyz:80/024030905/181965259/441269
 
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
-http://gerenciadorr.xyz:80/332913507/544336105/951729
+http://gerenciadorr.xyz:80/024030905/181965259/951729
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + NOVELAS
-http://gerenciadorr.xyz:80/332913507/544336105/951731
+http://gerenciadorr.xyz:80/024030905/181965259/951731
 
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova HD
-http://gerenciadorr.xyz:80/421730438/709501434/442016
+http://gerenciadorr.xyz:80/024030905/181965259/951643
 
 ########################################### CANAIS RECORD TV #########################################################
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG
-http://gerenciadorr.xyz:80/421730438/709501434/441377
+http://gerenciadorr.xyz:80/024030905/181965259/441379
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ
-http://gerenciadorr.xyz:80/421730438/709501434/441387
+http://gerenciadorr.xyz:80/024030905/181965259/441386
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP
-http://super-cdn.link/record/index.m3u8
+http://gerenciadorr.xyz:80/024030905/181965259/441392
 
 ################################################# CANAIS NOVELAS ##############################################################
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
+http://gerenciadorr.xyz:80/024030905/181965259/951758
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-http://gerenciadorr.xyz:80/421730438/709501434/441357
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
-http://gerenciadorr.xyz:80/421730438/709501434/441356
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-http://gerenciadorr.xyz:80/421730438/709501434/441351
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas 
+http://gerenciadorr.xyz:80/024030905/181965259/951755
 
 ########################################### CANAIS INTERNACIONAIS #########################################################
 
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News 
+http://gerenciadorr.xyz:80/024030905/181965259/951746
+
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
-http://super-cdn.link/bandnews/index.m3u8
+http://gerenciadorr.xyz:80/024030905/181965259/951737
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN Brasil
-http://super-cdn.link/cnnbrasil/index.m3u8
+http://gerenciadorr.xyz:80/024030905/181965259/951740
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Record_News.png" group-title="Canais | NOTÍCIAS",Record News
-http://super-cdn.link/recordnews/index.m3u8
+http://gerenciadorr.xyz:80/024030905/181965259/951752
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
-http://gerenciadorr.xyz:80/421730438/709501434/441493
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News 
-http://super-cdn.link/globonews/index.m3u8
-
+http://gerenciadorr.xyz:80/024030905/181965259/951749
 
 ######################################### A FAZENDA ##############################################################
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 1 HD
-http://cdn22.cc:80/Magalhaesps/101280/240876.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 2 HD
-http://cdn22.cc:80/Magalhaesps/101280/240877.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 3 HD
-http://cdn22.cc:80/Magalhaesps/101280/240878.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 4 HD
-http://cdn22.cc:80/Magalhaesps/101280/240879.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 5 HD
-http://cdn22.cc:80/Magalhaesps/101280/240880.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 6 HD
-http://cdn22.cc:80/Magalhaesps/101280/240881.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 7 HD
-http://cdn22.cc:80/Magalhaesps/101280/240882.ts
+
 
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 8 HD
-http://cdn22.cc:80/Magalhaesps/101280/240883.ts
+
+
 
 ######################################### Cine SKY temporário  ##############################################################
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO ",Cine SKY 1
-http://gerenciadorr.xyz:80/421730438/709501434/441562
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 2" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 2
-http://gerenciadorr.xyz:80/421730438/709501434/441563
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 3" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 3
-http://gerenciadorr.xyz:80/421730438/709501434/441564
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 4" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 4
-http://gerenciadorr.xyz:80/421730438/709501434/441565
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 5" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 5
-http://gerenciadorr.xyz:80/421730438/709501434/441566
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 6" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 6
-http://gerenciadorr.xyz:80/421730438/709501434/441567
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 7" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 7
-http://gerenciadorr.xyz:80/421730438/709501434/441568
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 8" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 8
-http://gerenciadorr.xyz:80/421730438/709501434/441569
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 9" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 9
-http://gerenciadorr.xyz:80/421730438/709501434/441570
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 10" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 10
-http://gerenciadorr.xyz:80/421730438/709501434/441571
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 11" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 11
-http://gerenciadorr.xyz:80/421730438/709501434/441572
+
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 12" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY TEMPORÁRIO",Cine SKY 12
-http://gerenciadorr.xyz:80/421730438/709501434/441573
 
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
-https://super-cdn.link/space/index.m3u8
+
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E
-https://super-cdn.link/aee/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC
-https://super-cdn.link/amc/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN
-https://super-cdn.link/axn/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
-https://super-cdn.link/cinecanal/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
-https://super-cdn.link/cinemax/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 1
-https://super-cdn.link/megapix/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/vhQi658.png" group-title="Canais | FILMES E SERIES", FILMRISE 
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX 
-https://super-cdn.link/fx/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO +
-https://super-cdn.link/hbo/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-https://super-cdn.link/hbo2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO FAMILY
-https://super-cdn.link/hbofamily/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO POP
-http://gerenciadorr.xyz:80/332913507/544336105/951003
+
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO XTREME
-https://super-cdn.link/hboxtreme/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE
-https://super-cdn.link/hbosignature/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
-https://super-cdn.link/tnt/index.m3u8
+
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
-http://gzcdn.vood.top:80/hls/749_.m3u8
+
 
 #EXTINF:-1 tvg-id="Universal tv" tvg-name="Universal tv" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg" group-title="Canais | FILMES E SERIES",Universal TV
-https://super-cdn.link/studiouniversal/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
+
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
-https://super-cdn.link/lifetime/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
+
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/307
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
+
 
 ########################################### CANAIS SporTV ##############################################################
 
@@ -936,7 +926,7 @@ https://super-cdn.link/premiere8/index.m3u8
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
- 
+http://gerenciadorr.xyz:80/370173302/977040563/951441 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO
 
