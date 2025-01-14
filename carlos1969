@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 01/01/2025 17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 14/01/2025 17:25:15
 
 ########################################### CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
 http://gerenciadorr.xyz:80/024030905/181965259/441159
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://tv.fazoeli.co.za/m3u8/globorj.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
@@ -759,25 +759,25 @@ http://gerenciadorr.xyz:80/024030905/181965259/951749
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
-
+http://themegamanx.net:80/81881531/S853C1837q/707
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E
-
+http://gerenciadorr.xyz:80/024030905/181965259/950929
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC
-
+http://gerenciadorr.xyz:80/024030905/181965259/950933
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN
-
+http://gerenciadorr.xyz:80/024030905/181965259/950934
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
-
+http://themegamanx.net:80/81881531/S853C1837q/285608
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 1
-
+http://themegamanx.net:80/81881531/S853C1837q/21257
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
 
@@ -786,58 +786,58 @@ http://gerenciadorr.xyz:80/024030905/181965259/951749
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX 
-
+http://themegamanx.net:80/81881531/S853C1837q/592
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO +
-
+http://themegamanx.net:80/81881531/S853C1837q/18766
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-
+http://themegamanx.net:80/81881531/S853C1837q/18755
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO FAMILY
-
+http://themegamanx.net:80/81881531/S853C1837q/18759
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO POP
-
+http://themegamanx.net:80/81881531/S853C1837q/21256
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO XTREME
-
+http://themegamanx.net:80/81881531/S853C1837q/18776
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE
-
+http://themegamanx.net:80/81881531/S853C1837q/18770
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
-
+http://themegamanx.net:80/81881531/S853C1837q/733
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
-
+http://themegamanx.net:80/81881531/S853C1837q/21291
 
 #EXTINF:-1 tvg-id="Universal tv" tvg-name="Universal tv" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg" group-title="Canais | FILMES E SERIES",Universal TV
-
+http://themegamanx.net:80/81881531/S853C1837q/284596
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network
-
+http://themegamanx.net:80/81881531/S853C1837q/21265
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
-
+http://themegamanx.net:80/81881531/S853C1837q/285560
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD 
-
+http://themegamanx.net:80/81881531/S853C1837q/21279
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca FHD 
-
+http://themegamanx.net:80/81881531/S853C1837q/630
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD 
-
+http://themegamanx.net:80/81881531/S853C1837q/21283
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD 
-
+http://themegamanx.net:80/81881531/S853C1837q/589
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult FHD 
-
+http://themegamanx.net:80/81881531/S853C1837q/618
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun FHD 
-
+http://themegamanx.net:80/81881531/S853C1837q/21281
 
 ########################################### CANAIS SporTV ##############################################################
 
@@ -862,7 +862,7 @@ https://super-cdn.link/espn2/index.m3u8
 https://super-cdn.link/espn3/index.m3u8 
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4
-http://gerenciadorr.xyz:80/332913507/544336105/951503
+http://themegamanx.net:80/81881531/S853C1837q/284581
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5
 https://super-cdn.link/espn5/index.m3u8
@@ -900,7 +900,8 @@ http://gerenciadorr.xyz:80/421730438/709501434/441607
 ########################################### CANAIS PREMIERE ############################################################
 
 #EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes
-http://gerenciadorr.xyz:80/332913507/544336105/951562
+http://themegamanx.net:80/81881531/S853C1837q/492
+
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 
 https://super-cdn.link/premiere2/index.m3u8
