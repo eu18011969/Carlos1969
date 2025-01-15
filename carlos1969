@@ -28,6 +28,9 @@ http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS || DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://gerenciadorr.xyz:80/024030905/181965259/950824
 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS || DOCUMENTÁRIOS",CANAL DO BOI
+http://themegamanx.net:80/81881531/S853C1837q/141
+
 ########################################### SINHÁ MOÇA #########################################################
 
 #EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 01
@@ -635,6 +638,9 @@ http://gerenciadorr.xyz:80/024030905/181965259/951619
 
 ########################################### CANAIS SBT #########################################################
 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",ALTEROSA 
+http://themegamanx.net:80/81881531/S853C1837q/244185
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT MG
 http://gerenciadorr.xyz:80/024030905/181965259/441266
 
@@ -647,8 +653,12 @@ http://gerenciadorr.xyz:80/024030905/181965259/441269
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
 http://gerenciadorr.xyz:80/024030905/181965259/951729
 
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + NOVELAS
-http://gerenciadorr.xyz:80/024030905/181965259/951731
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + SILVIO SANTOS
+http://themegamanx.net:80/81881531/S853C1837q/390581
+
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + CINEMAS
+http://themegamanx.net:80/81881531/S853C1837q/390573
+
 
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
@@ -671,6 +681,9 @@ http://gerenciadorr.xyz:80/024030905/181965259/441392
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
 http://gerenciadorr.xyz:80/024030905/181965259/951758
 
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 80
+http://themegamanx.net:80/81881531/S853C1837q/530126
+
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas 
 http://gerenciadorr.xyz:80/024030905/181965259/951755
 
@@ -691,30 +704,101 @@ http://gerenciadorr.xyz:80/024030905/181965259/951752
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
 http://gerenciadorr.xyz:80/024030905/181965259/951749
 
-######################################### A FAZENDA ##############################################################
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 1 HD
+######################################### BBB 25  ##############################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 SD
+http://themegamanx.net:80/81881531/S853C1837q/298258
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298260
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 HD
+http://themegamanx.net:80/81881531/S853C1837q/298259
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298263
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 HD
+http://themegamanx.net:80/81881531/S853C1837q/298262
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 SD
+http://themegamanx.net:80/81881531/S853C1837q/298261
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298266
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 HD
+http://themegamanx.net:80/81881531/S853C1837q/298265
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 SD
+http://themegamanx.net:80/81881531/S853C1837q/298264
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Quarto Gnomo  FHD
+http://themegamanx.net:80/81881531/S853C1837q/298269
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 SD
+http://themegamanx.net:80/81881531/S853C1837q/298273
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298272
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 HD
+http://themegamanx.net:80/81881531/S853C1837q/298271
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 SD
+http://themegamanx.net:80/81881531/S853C1837q/298270
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298275
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 HD
+http://themegamanx.net:80/81881531/S853C1837q/298274
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298278
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 HD
+http://themegamanx.net:80/81881531/S853C1837q/298277
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 SD
+http://themegamanx.net:80/81881531/S853C1837q/298276
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 FHD
+http://themegamanx.net:80/81881531/S853C1837q/298281
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 HD
+http://themegamanx.net:80/81881531/S853C1837q/298280
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 SD
+http://themegamanx.net:80/81881531/S853C1837q/298279
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Cozinha Delícia SD
+http://themegamanx.net:80/81881531/S853C1837q/298282
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Cozinha Delícia HD
+http://themegamanx.net:80/81881531/S853C1837q/298283
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Cozinha Delícia FHD
+http://themegamanx.net:80/81881531/S853C1837q/298284
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Academia Rexona FHD
+http://themegamanx.net:80/81881531/S853C1837q/298287
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Academia Rexona HD
+http://themegamanx.net:80/81881531/S853C1837q/298286
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Academia Rexona SD
+http://themegamanx.net:80/81881531/S853C1837q/298285
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Piscina SD
+http://themegamanx.net:80/81881531/S853C1837q/298288
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Piscina HD
+http://themegamanx.net:80/81881531/S853C1837q/298289
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Piscina FHD
+http://themegamanx.net:80/81881531/S853C1837q/298290
 
 
 
@@ -899,9 +983,11 @@ http://gerenciadorr.xyz:80/421730438/709501434/441607
 
 ########################################### CANAIS PREMIERE ############################################################
 
-#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes
-http://themegamanx.net:80/81881531/S853C1837q/492
+#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes 4K
+http://themegamanx.net:80/81881531/S853C1837q/284578
 
+#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
+http://themegamanx.net:80/81881531/S853C1837q/492
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 
 https://super-cdn.link/premiere2/index.m3u8
@@ -927,28 +1013,13 @@ https://super-cdn.link/premiere8/index.m3u8
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
-http://gerenciadorr.xyz:80/370173302/977040563/951441 
+http://themegamanx.net:80/81881531/S853C1837q/232221
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA
 http://doce.top:80/987654321/123456789/299958
-
-#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2021" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2021
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2022" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2022
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2023" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2023
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2024" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2024
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Canais | Canais 24 horas",Pagode
-
 
 ######################################## FUTEBOL VIVO AGORA #########################################################
 
