@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 14/01/2025 17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 17/01/2025 17:25:15
 
 ########################################### CANAIS GLOBO ##############################################################
 
@@ -32,6 +32,9 @@ http://themegamanx.net:80/81881531/S853C1837q/158
 
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
 http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
+
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",TOM E JERRY [FHD]
+http://gerenciadorr.xyz:80/729141946/563198529/951186
 
 
 ########################################### ANIMAL PLANET #########################################################
@@ -665,10 +668,10 @@ http://gerenciadorr.xyz:80/024030905/181965259/441269
 http://gerenciadorr.xyz:80/024030905/181965259/951729
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + SILVIO SANTOS
-http://themegamanx.net:80/81881531/S853C1837q/390581
+http://gerenciadorr.xyz:80/729141946/563198529/951735
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + CINEMAS
-http://themegamanx.net:80/81881531/S853C1837q/390573
+http://gerenciadorr.xyz:80/729141946/563198529/951727
 
 
 ########################################### CANAIS CANÇÃO NOVA #########################################################
@@ -722,69 +725,69 @@ http://gerenciadorr.xyz:80/024030905/181965259/951749
 ######################################### BBB 25  ##############################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 SD
-http://themegamanx.net:80/81881531/S853C1837q/298258
+http://gerenciadorr.xyz:80/729141946/563198529/1350346
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 FHD
-http://themegamanx.net:80/81881531/S853C1837q/298260
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 FHD
+http://gerenciadorr.xyz:80/729141946/563198529/1350347
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 HD
-http://themegamanx.net:80/81881531/S853C1837q/298259
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 HD
+http://gerenciadorr.xyz:80/729141946/563198529/1350348
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 FHD
-http://themegamanx.net:80/81881531/S853C1837q/298263
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 FHD
+http://gerenciadorr.xyz:80/729141946/563198529/1350349
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 HD
-http://themegamanx.net:80/81881531/S853C1837q/298262
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 HD
+http://gerenciadorr.xyz:80/729141946/563198529/1350350
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 SD
-http://themegamanx.net:80/81881531/S853C1837q/298261
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 SD
+http://gerenciadorr.xyz:80/729141946/563198529/1350351
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 FHD
-http://themegamanx.net:80/81881531/S853C1837q/298266
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 FHD
+http://gerenciadorr.xyz:80/729141946/563198529/1350352
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 8 HD
 http://themegamanx.net:80/81881531/S853C1837q/298265
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 9 SD
 http://themegamanx.net:80/81881531/S853C1837q/298264
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Quarto Gnomo  FHD
 http://themegamanx.net:80/81881531/S853C1837q/298269
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 10 SD
 http://themegamanx.net:80/81881531/S853C1837q/298273
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 4 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 11 FHD
 http://themegamanx.net:80/81881531/S853C1837q/298272
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 4 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 12 HD
 http://themegamanx.net:80/81881531/S853C1837q/298271
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 5 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 13 SD
 http://themegamanx.net:80/81881531/S853C1837q/298270
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 5 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 14 FHD
 http://themegamanx.net:80/81881531/S853C1837q/298275
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 5 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 15 HD
 http://themegamanx.net:80/81881531/S853C1837q/298274
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 16 FHD
 http://themegamanx.net:80/81881531/S853C1837q/298278
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 6 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 16 HD
 http://themegamanx.net:80/81881531/S853C1837q/298277
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 6 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 16 SD
 http://themegamanx.net:80/81881531/S853C1837q/298276
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 17 FHD
 http://themegamanx.net:80/81881531/S853C1837q/298281
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 7 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 17 HD
 http://themegamanx.net:80/81881531/S853C1837q/298280
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 7 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 SD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 17 SD
 http://themegamanx.net:80/81881531/S853C1837q/298279
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Cozinha Delícia SD
@@ -857,7 +860,7 @@ http://themegamanx.net:80/81881531/S853C1837q/298290
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
-http://themegamanx.net:80/81881531/S853C1837q/707
+http://gerenciadorr.xyz:80/729141946/563198529/950961
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E
 http://gerenciadorr.xyz:80/024030905/181965259/950929
@@ -997,6 +1000,9 @@ http://themegamanx.net:80/81881531/S853C1837q/250111
 
 ########################################### CANAIS PREMIERE ############################################################
 
+#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
+http://gerenciadorr.xyz:80/729141946/563198529/951563
+
 #EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes 4K
 http://themegamanx.net:80/81881531/S853C1837q/284578
 
@@ -1029,8 +1035,11 @@ https://super-cdn.link/premiere8/index.m3u8
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
 http://themegamanx.net:80/81881531/S853C1837q/232221
 
-#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO
+#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO,
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",FAMILIA DINOSSAURO
+http://gerenciadorr.xyz:80/729141946/563198529/951248
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA
 http://doce.top:80/987654321/123456789/299958
