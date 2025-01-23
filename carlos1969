@@ -2,10 +2,12 @@
 
 #EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 23/01/2025 17:25:15
 
-##########################################  FILMES  #####################################################################
+##########################################  FILMES DRAMA  #####################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Intocaveis (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QWcBKwg3FLUws2Y3n56mrYZSMw.jpg" group-title="Filmes | Drama",Intocaveis (2011)
 http://sixuar.tel:80/movie/42425757/P986g9694y/4607.mp4
+
+##########################################  FILMES LEGENDADOS #####################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="A Substância (2024) Leg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L3PfQEydRzONYrhtpWtchRhOuV.jpg" group-title=" Filmes | Legendados",A Substância (2024) Leg
 http://sixuar.tel:80/movie/42425757/P986g9694y/518731.mp4
@@ -40,9 +42,14 @@ http://themegamanx.net:80/81881531/S853C1837q/158
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
 http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
 
-#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",TODO MUNDO ODEIA O CRIS [FHD]
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Infantis",TODO MUNDO ODEIA O CRIS [FHD]
 http://sixuar.tel:80/42425757/P986g9694y/272673
 
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantis",Cartoon Network
+http://sixuar.tel:80/42425757/P986g9694y/21230
+
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito FHD
+http://sixuar.tel:80/42425757/P986g9694y/110683
 
 ########################################### ANIMAL PLANET #########################################################
 
