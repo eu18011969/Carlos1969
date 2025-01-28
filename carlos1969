@@ -751,7 +751,7 @@ http://sixuar.tel:80/42425757/P986g9694y/298258
 http://sixuar.tel:80/42425757/P986g9694y/298263
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 3 FHD
-http://sixuar.tel:80/42425757/P986g9694y/298265
+http://sixuar.tel:80/42425757/P986g9694y/298266
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB Quarto Gnomo  FHD
 http://sixuar.tel:80/42425757/P986g9694y/298269
@@ -780,6 +780,7 @@ http://sixuar.tel:80/42425757/P986g9694y/298288
 
 
 ######################################### Cine SKY temporário  ##############################################################
+
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 1
 http://sixuar.tel:80/42425757/P986g9694y/18253
 
@@ -987,11 +988,20 @@ https://super-cdn.link/premiere8/index.m3u8
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
 http://themegamanx.net:80/81881531/S853C1837q/232221
 
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
+http://sixuar.tel:80/42425757/P986g9694y/272663
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões
+http://sixuar.tel:80/42425757/P986g9694y/272662
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Eu a Patroa e as Crianças 1
+http://sixuar.tel:80/42425757/P986g9694y/272664
+
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO,
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",FAMILIA DINOSSAURO
-http://gerenciadorr.xyz:80/729141946/563198529/951248
+
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA
 http://doce.top:80/987654321/123456789/299958
