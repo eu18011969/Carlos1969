@@ -42,9 +42,6 @@ http://themegamanx.net:80/81881531/S853C1837q/158
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
 http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
 
-#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Infantis",TODO MUNDO ODEIA O CRIS [FHD]
-http://sixuar.tel:80/42425757/P986g9694y/272673
-
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantis",Cartoon Network
 http://sixuar.tel:80/42425757/P986g9694y/21230
 
@@ -688,7 +685,7 @@ http://sixuar.tel:80/42425757/P986g9694y/390581
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + CINEMAS
 http://sixuar.tel:80/42425757/P986g9694y/390573
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",NOVELAS
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT NOVELAS
 http://sixuar.tel:80/42425757/P986g9694y/390578
 
 
@@ -990,6 +987,9 @@ http://themegamanx.net:80/81881531/S853C1837q/232221
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
 http://sixuar.tel:80/42425757/P986g9694y/272663
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Infantis",TODO MUNDO ODEIA O CRIS [FHD]
+http://sixuar.tel:80/42425757/P986g9694y/272673
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões
 http://sixuar.tel:80/42425757/P986g9694y/272662
