@@ -815,13 +815,16 @@ http://sixuar.tel:80/42425757/P986g9694y/21272
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E
 http://sixuar.tel:80/42425757/P986g9694y/666
 
+#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/STARCHANNEL.png" group-title="Canais | FILMES E SERIES",Star Channel 
+http://sixuar.tel:80/42425757/P986g9694y/284612
+
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC
 http://sixuar.tel:80/42425757/P986g9694y/671
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN
 http://sixuar.tel:80/42425757/P986g9694y/284601
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
+  #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
 http://sixuar.tel:80/42425757/P986g9694y/602
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
