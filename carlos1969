@@ -1,11 +1,13 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 23/01/2025 17:25:15
 
 ##########################################  FILMES DRAMA  #####################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Intocaveis (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QWcBKwg3FLUws2Y3n56mrYZSMw.jpg" group-title="Filmes | Drama",Intocaveis (2011)
 http://sixuar.tel:80/movie/42425757/P986g9694y/4607.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QWcBKwg3FLUws2Y3n56mrYZSMw.jpg" group-title="Filmes | Romance",Titanic (1997)
+http://sixuar.tel:80/movie/42425757/P986g9694y/378049.mp4
 
 ##########################################  FILMES LEGENDADOS #####################################################################
 
