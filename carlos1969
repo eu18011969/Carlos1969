@@ -1,25 +1,38 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 23/01/2025 17:25:15
 
-##########################################  FILMES DRAMA  #####################################################################
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 07-02-2025  17:25:15
+
+##########################################  FILMES  #####################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Intocaveis (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QWcBKwg3FLUws2Y3n56mrYZSMw.jpg" group-title="Filmes | Drama",Intocaveis (2011)
 http://sixuar.tel:80/movie/42425757/P986g9694y/4607.mp4
 
-#EXTINF:-1 xui-id="2456812" tvg-name="Mufasa: O Rei Leão (2024) CINE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg" group-title="✨QUALIDADE DE CINEMA",Mufasa: O Rei Leão (2024) CINE
+#EXTINF:-1 xui-id="2172559" tvg-name="Beleza Fatal S01E01" tvg-logo="https://image.tmdb.org/t/p/w400/gy9T5gcdUToVtgD2EXvH5mE2A1b.jpg" group-title="Filmes | Drama",Beleza Fatal S01E01
+http://2pds.top:80/play/kVObVwokSKyvCtHa77S48gZhrHF5jCiUCibjipHt9I5qyYkwTQz991UJXrQemkKB#.mp4
+
+#EXTINF:-1 xui-id="2172560" tvg-name="Beleza Fatal S01E02" tvg-logo="https://image.tmdb.org/t/p/w400/1dCGa12AL1OM0But1viFulXXQO4.jpg" group-title="Filmes | Drama",Beleza Fatal S01E02
+http://2pds.top:80/play/kVObVwokSKyvCtHa77S48gZhrHF5jCiUCibjipHt9I74cosmZNZIGedazuL2e3-c#.mp4
+
+#EXTINF:-1 xui-id="2172561" tvg-name="Beleza Fatal S01E03" tvg-logo="https://image.tmdb.org/t/p/w400/p9k8StM6d0vPnbd0MdOS4kfMOnW.jpg" group-title="Filmes | Drama",Beleza Fatal S01E03
+http://2pds.top:80/play/kVObVwokSKyvCtHa77S48gZhrHF5jCiUCibjipHt9I4Jagmjpt1vrM9Kb1TyylA6#.mp4
+
+#EXTINF:-1 xui-id="2172562" tvg-name="Beleza Fatal S01E04" tvg-logo="https://image.tmdb.org/t/p/w400/2vHnxymsk0n4zp96o0VDvCWDkS8.jpg" group-title="Filmes | Drama",Beleza Fatal S01E04
+http://2pds.top:80/play/kVObVwokSKyvCtHa77S48gZhrHF5jCiUCibjipHt9I51cln7Iz6SeqPF7SwIRf7s#.mp4
+
+#EXTINF:-1 xui-id="2172563" tvg-name="Beleza Fatal S01E05" tvg-logo="https://image.tmdb.org/t/p/w400/qroEjgdv8xDj0gETwafvzMVDZN3.jpg" group-title="Filmes | Drama,Beleza Fatal S01E05
+http://2pds.top:80/play/kVObVwokSKyvCtHa77S48gZhrHF5jCiUCibjipHt9I6l6J_P80_uYN51gr_AKKTM#.mp4
+
+#EXTINF:-1 xui-id="2456812" tvg-name="Mufasa: O Rei Leão (2024) CINE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg" group-title=" O REI LEÃO",Mufasa: O Rei Leão (2024) CINE
 http://2pds.top:80/play/Zpc1WrvTFfupmhlWiHPGj_S70dcEPGX9zEwc1oES3IVi-oTBXNilxunn12fBTufE#.mp4
 
-#EXTINF:-1 tvg-name="De Volta para o Futuro" tvg-logo="http://imagecdn.sh:80/images/i996T0lI1fGtFEowiH3V6eZthL0_big.jpg" group-title="Filmes | Fantasia",De Volta para o Futuro
+#EXTINF:-1 tvg-name="De Volta para o Futuro" tvg-logo="http://imagecdn.sh:80/images/i996T0lI1fGtFEowiH3V6eZthL0_big.jpg" group-title="Filmes | Aventura",De Volta para o Futuro
 http://cdn.srvmain.top:80/movie/Antonio/102030/6534469.mp4
 
-#EXTINF:-1 tvg-name="De Volta para o Futuro 2" tvg-logo="http://imagecdn.sh:80/images/dAAnK6EUBDUpM9H5EBfYV3GmtC1_big.jpg" group-title="Filmes | Fantasia",De Volta para o Futuro 2
+#EXTINF:-1 tvg-name="De Volta para o Futuro 2" tvg-logo="http://imagecdn.sh:80/images/dAAnK6EUBDUpM9H5EBfYV3GmtC1_big.jpg" group-title="Filmes | Aventura",De Volta para o Futuro 2
 http://cdn.srvmain.top:80/movie/Antonio/102030/6534470.mp4
 
-#EXTINF:-1 tvg-name="De Volta para o Futuro 3" tvg-logo="http://imagecdn.sh:80/images/yjSqXqdpaa6ECsiIQxW44ye0qAc_big.jpg" group-title="Filmes | Fantasia",De Volta para o Futuro 3
+#EXTINF:-1 tvg-name="De Volta para o Futuro 3" tvg-logo="http://imagecdn.sh:80/images/yjSqXqdpaa6ECsiIQxW44ye0qAc_big.jpg" group-title="Filmes | Aventura",De Volta para o Futuro 3
 http://cdn.srvmain.top:80/movie/Antonio/102030/6534468.mp4
-
-#####################################Filmes Romance ################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="Filmes | Romance",Titanic (1997)
 http://themegamanx.net:80/movie/81881531/S853C1837q/197780.mp4
