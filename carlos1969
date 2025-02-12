@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 12-02-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 07-02-2025  17:25:15
 
 ##########################################  FILMES  #####################################################################
 
@@ -838,10 +838,7 @@ http://sixuar.tel:80/42425757/P986g9694y/298258
 http://sixuar.tel:80/42425757/P986g9694y/298263
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 3 FHD
-http://aneltao178.net:80/790363446/3524785/298266
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB Quarto Gnomo  FHD
-http://sixuar.tel:80/42425757/P986g9694y/298269
+http://aneltao178.net:80/790363446/3524785/298264
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 4 SD
 http://sixuar.tel:80/42425757/P986g9694y/298273
@@ -855,14 +852,17 @@ http://sixuar.tel:80/42425757/P986g9694y/298278
 #EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 7 FHD
 http://aneltao178.net:80/790363446/3524785/298280
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB Cozinha Delícia SD
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 8 SD
 http://sixuar.tel:80/42425757/P986g9694y/298282
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB Academia Rexona FHD
-http://sixuar.tel:80/42425757/P986g9694y/298287
+#EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 9 FHD
+http://aneltao178.net:80/790363446/3524785/298285
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB Piscina SD
-http://sixuar.tel:80/42425757/P986g9694y/298288
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB 10 SD
+http://aneltao178.net:80/790363446/3524785/298288
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB",BBB Quarto Gnomo  FHD
+http://sixuar.tel:80/42425757/P986g9694y/298269
 
 
 
