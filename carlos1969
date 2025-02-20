@@ -903,6 +903,9 @@ http://sixuar.tel:80/42425757/P986g9694y/18261
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE 21
+http://danfs.xyz:80/572025577/571687446/1352473
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
 http://sixuar.tel:80/42425757/P986g9694y/21272
 
