@@ -1,128 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 17-02-2025  17:25:15
-
-##########################################  FILMES  #####################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Intocaveis (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QWcBKwg3FLUws2Y3n56mrYZSMw.jpg" group-title="Filmes | Drama",Intocaveis (2011)
-http://sixuar.tel:80/movie/42425757/P986g9694y/4607.mp4
-
-############################################ BELEZA FATAL #################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E01
-http://aneltao178.net:80/series/790363446/3524785/538352.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E02
-http://aneltao178.net:80/series/790363446/3524785/538353.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E03
-http://aneltao178.net:80/series/790363446/3524785/538354.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E04
-http://aneltao178.net:80/series/790363446/3524785/538355.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E05
-http://aneltao178.net:80/series/790363446/3524785/538356.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEZQLp0WyRkkcqiypKlW3BJyvMa.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E06
-http://aneltao178.net:80/series/790363446/3524785/540841.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OZyhzACi9RDNgs7AteK5eB7Q0u.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E07
-http://aneltao178.net:80/series/790363446/3524785/540842.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dv4ZvMpYK20qW3dsHL5LfdlPRz.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E08
-http://aneltao178.net:80/series/790363446/3524785/540843.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqOPC1XM17zpqrr8MDoLS92BEV.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E09
-http://aneltao178.net:80/series/790363446/3524785/540844.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61hCLkph4FHzM1swAQk6FhO8zH3.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E10
-http://aneltao178.net:80/series/790363446/3524785/540845.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E11
-http://aneltao178.net:80/series/790363446/3524785/541575.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E12
-http://aneltao178.net:80/series/790363446/3524785/541576.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E13
-http://aneltao178.net:80/series/790363446/3524785/541577.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E14
-http://aneltao178.net:80/series/790363446/3524785/541578.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal 2025 S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Séries | Novelas",Beleza Fatal 2025 S01 E15
-http://aneltao178.net:80/series/790363446/3524785/541579.mp4
-
-########################################################################################################################
-
-#EXTINF:-1 xui-id="2167925" tvg-name="O Nevoeiro (2007)" tvg-logo="https://image.tmdb.org/t/p/w500/nhK5Np3A9wBXAYzropa298TylCa.jpg" group-title="FILMES | Suspense",O Nevoeiro (2007)
-http://aneltao178.net:80/movie/790363446/3524785/6794.mp4
-
-#EXTINF:-1 xui-id="2456812" tvg-name="Mufasa: O Rei Leão (2024) CINE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg" group-title=" O REI LEÃO",Mufasa: O Rei Leão (2024) CINE
-http://aneltao178.net:80/movie/790363446/3524785/532041.mp4
-
-#EXTINF:-1 tvg-name="De Volta para o Futuro" tvg-logo="http://imagecdn.sh:80/images/i996T0lI1fGtFEowiH3V6eZthL0_big.jpg" group-title="Filmes | Aventura",De Volta para o Futuro
-http://cdn.srvmain.top:80/movie/Antonio/102030/6534469.mp4
-
-#EXTINF:-1 tvg-name="De Volta para o Futuro 2" tvg-logo="http://imagecdn.sh:80/images/dAAnK6EUBDUpM9H5EBfYV3GmtC1_big.jpg" group-title="Filmes | Aventura",De Volta para o Futuro 2
-http://cdn.srvmain.top:80/movie/Antonio/102030/6534470.mp4
-
-#EXTINF:-1 tvg-name="De Volta para o Futuro 3" tvg-logo="http://imagecdn.sh:80/images/yjSqXqdpaa6ECsiIQxW44ye0qAc_big.jpg" group-title="Filmes | Aventura",De Volta para o Futuro 3
-http://cdn.srvmain.top:80/movie/Antonio/102030/6534468.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="Filmes | Romance",Titanic (1997)
-http://themegamanx.net:80/movie/81881531/S853C1837q/197780.mp4
-
-#EXTINF:-1 xui-id="2449657" tvg-name="Duplex (2003)" tvg-logo="https://image.tmdb.org/t/p/w500/rGw6I9TsgRIaBHa5JMg6MpARxjw.jpg" group-title="Filmes | COMÉDIA",Duplex (2003)
-http://aneltao178.net:80/movie/790363446/3524785/3771.mp4
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 21-02-2025  17:25:15
 
 
-#########################################  FILMES LEGENDADOS #####################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="A Substância (2024) Leg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L3PfQEydRzONYrhtpWtchRhOuV.jpg" group-title=" Filmes | Legendados",A Substância (2024) Leg
-http://sixuar.tel:80/movie/42425757/P986g9694y/518731.mp4
-
-
-
-############################################################## VARIEDADES #############################################################
+############################################################## CANAIS MTV ###########################################################
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title="Canais |  MTV",MTV FHD
-http://go7l99a.com:80/eric1743/450Y421S/638361xz
-.*BD268BD268BD268
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352853
 
-
-
-########################################### CANAIS GLOBO ##############################################################
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG 1
-http://2pds.top:80/play/_Ol7ntcvLxd0FBQvbHxVQ9snGo5HDWjwT452P0_730_gh7qqfmpcf-ycvq4BjTT_
+############################################################ CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
 http://sixuar.tel:80/42425757/P986g9694y/234852
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-http://sixuar.tel:80/42425757/P986g9694y/2376
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352308
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
-http://sixuar.tel:80/42425757/P986g9694y/289883
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352311
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG
-http://sixuar.tel:80/42425757/P986g9694y/2380
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352298
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MIRANTE COCAIS
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352272
 
-##################################################### CANAIS REDE MINAS #########################################################
+######################################################## CANAIS REDE MINAS #########################################################
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas HD" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png" group-title="Canais |  REDE MINAS",Rede Minas HD
 http://aneltao178.net:80/790363446/3524785/274517
 
 
-########################################### CANAIS TV CULTURA ##############################################################
+####################################################### CANAIS TV CULTURA ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="http://beststorage4you.com:2095/logoscanais/TVCULTURA.png" group-title="Canais | CULTURA",TV Cultura
-http://go7l99a.com:80/eric1743/450Y421S/69134
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352613
 
 ########################################### CANAIS FUTURA ##############################################################
 
@@ -136,21 +46,21 @@ http://go7l99a.com:80/eric1743/450Y421S/604842
 http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantis",Cartoon Network
-http://sixuar.tel:80/42425757/P986g9694y/21230
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352536
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantis",Cartoonito FHD
-http://sixuar.tel:80/42425757/P986g9694y/110683
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352540
 
 ########################################### ANIMAL PLANET #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://sixuar.tel:80/42425757/P986g9694y/284607
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352372
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
 http://go7l99a.com:80/eric1743/450Y421S/672997
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
-http://aneltao178.net:80/790363446/3524785/363201
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352424
 
 ########################################### SINHÁ MOÇA #########################################################
 
@@ -709,48 +619,17 @@ https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi184.mp4
 #EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 185
 https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi185.mp4
 
-########################################### O BEM AMADO #########################################################
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 01
-https://novelasflix.vip/storage5/OBA/OBA-001.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 02
-https://novelasflix.vip/storage5/OBA/OBA-002.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 03
-https://novelasflix.vip/storage5/OBA/OBA-003.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 04
-https://novelasflix.vip/storage5/OBA/OBA-004.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 05
-https://novelasflix.vip/storage5/OBA/OBA-005.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 06
-https://novelasflix.vip/storage5/OBA/OBA-006.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 07
-https://novelasflix.vip/storage5/OBA/OBA-007.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 08
-https://novelasflix.vip/storage5/OBA/OBA-008.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 09
-https://novelasflix.vip/storage5/OBA/OBA-009.mp4
-
-#EXTINF:-1 tvg-id="O BEM AMADO" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | O BEM AMADO",O BEM AMADO CAPITULO 10
-https://novelasflix.vip/storage5/OBA/OBA-010.mp4
 
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG
-http://sixuar.tel:80/42425757/P986g9694y/255483
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352330
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
-http://sixuar.tel:80/42425757/P986g9694y/284590
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352339
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ
-http://sixuar.tel:80/42425757/P986g9694y/255474
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352333
 
 ########################################### CANAIS RedeTV ########################################################
 
@@ -766,10 +645,10 @@ http://go7l99a.com:80/eric1743/450Y421S/601493
 http://go7l99a.com:80/eric1743/450Y421S/469486
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT SP
-http://go7l99a.com:80/eric1743/450Y421S/605500
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353221
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ
-http://sixuar.tel:80/42425757/P986g9694y/244174
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353215
 
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
 http://aneltao178.net:80/790363446/3524785/390575
@@ -793,82 +672,82 @@ http://sixuar.tel:80/42425757/P986g9694y/240805
 ########################################### CANAIS RECORD TV #########################################################
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG
-http://themegamanx.net:80/81881531/S853C1837q/244101
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352357
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ
-http://sixuar.tel:80/42425757/P986g9694y/528662
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352363
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP
-http://sixuar.tel:80/42425757/P986g9694y/244071
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352369
 
 
 ################################################# CANAIS NOVELAS ##############################################################
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
-http://sixuar.tel:80/42425757/P986g9694y/2537
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352817
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-http://go7l99a.com:80/eric1743/450Y421S/97296
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352818
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 80
 http://themegamanx.net:80/81881531/S853C1837q/530126
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas 
-http://sixuar.tel:80/42425757/P986g9694y/264555
-
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352809
 
 ########################################### CANAIS INTERNACIONAIS #########################################################
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News 
-http://sixuar.tel:80/42425757/P986g9694y/479
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352837 
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
-http://sixuar.tel:80/42425757/P986g9694y/469
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352825
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN Brasil
-http://sixuar.tel:80/42425757/P986g9694y/474
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352829
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Record_News.png" group-title="Canais | NOTÍCIAS",Record News
-http://sixuar.tel:80/42425757/P986g9694y/488
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352845
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
-http://sixuar.tel:80/42425757/P986g9694y/483
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352841
 
 
 ######################################### BBB 25  ##############################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 SD
-http://sixuar.tel:80/42425757/P986g9694y/298258
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352314
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 FHD
-http://sixuar.tel:80/42425757/P986g9694y/298263
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352315
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 FHD
-http://aneltao178.net:80/790363446/3524785/298264
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352316
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 SD
-http://sixuar.tel:80/42425757/P986g9694y/298273
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352317
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 5 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 SD
-http://sixuar.tel:80/42425757/P986g9694y/298270
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352318
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 FHD
-http://sixuar.tel:80/42425757/P986g9694y/298278
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352319
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 FHD
-http://aneltao178.net:80/790363446/3524785/298280
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352320
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 8 SD
-http://sixuar.tel:80/42425757/P986g9694y/298282
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352321
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 9 FHD
-http://aneltao178.net:80/790363446/3524785/298285
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352322
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Piscina SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 10 SD
-http://aneltao178.net:80/790363446/3524785/298288
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352323
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB Quarto Gnomo  FHD
-http://sixuar.tel:80/42425757/P986g9694y/298269
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB MOSAICO FHD
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352313
 
 
 
@@ -905,95 +784,86 @@ http://sixuar.tel:80/42425757/P986g9694y/18261
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE 21
-http://danfs.xyz:80/572025577/571687446/1352473
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
-http://sixuar.tel:80/42425757/P986g9694y/21272
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352473
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E
-http://sixuar.tel:80/42425757/P986g9694y/666
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352432
 
 #EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/STARCHANNEL.png" group-title="Canais | FILMES E SERIES",Star Channel 
-http://sixuar.tel:80/42425757/P986g9694y/284612
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352474
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC
-http://go7l99a.com:80/eric1743/450Y421S/61194
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352436
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN
-http://sixuar.tel:80/42425757/P986g9694y/284601
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352440
 
-  #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
-http://sixuar.tel:80/42425757/P986g9694y/602
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352448
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
-http://go7l99a.com:80/eric1743/450Y421S/10993
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352452
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 1
-http://go7l99a.com:80/eric1743/450Y421S/97347
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/vhQi658.png" group-title="Canais | FILMES E SERIES", FILMRISE 
-
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352460
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX 
-http://go7l99a.com:80/eric1743/450Y421S/61203
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352456
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO +
-http://go7l99a.com:80/eric1743/450Y421S/4366
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352622
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-http://go7l99a.com:80/eric1743/450Y421S/4365
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352626
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO FAMILY
-http://go7l99a.com:80/eric1743/450Y421S/6109
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352630
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO POP
-http://go7l99a.com:80/eric1743/450Y421S/10265
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352642
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO XTREME
-http://go7l99a.com:80/eric1743/450Y421S/60986
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352650
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE
-http://go7l99a.com:80/eric1743/450Y421S/6105
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352648
 
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
-http://go7l99a.com:80/eric1743/450Y421S/10266
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352634
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
-http://go7l99a.com:80/eric1743/450Y421S/654335
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352490
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
-http://go7l99a.com:80/eric1743/450Y421S/61228
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352503
 
 #EXTINF:-1 tvg-id="Universal tv" tvg-name="Universal tv" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg" group-title="Canais | FILMES E SERIES",Universal TV
-http://go7l99a.com:80/eric1743/450Y421S/61217
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352492
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network
-http://go7l99a.com:80/eric1743/450Y421S/13185
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352464
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
-http://sixuar.tel:80/42425757/P986g9694y/2487
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352793
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD 
-http://go7l99a.com:80/eric1743/450Y421S/8141
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352504
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca FHD
-http://go7l99a.com:80/eric1743/450Y421S/100570
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352516
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD 
-http://go7l99a.com:80/eric1743/450Y421S/63290
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352520
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD 
-http://go7l99a.com:80/eric1743/450Y421S/100579
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352524
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult FHD 
-http://go7l99a.com:80/eric1743/450Y421S/97305
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352508
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun FHD 
-http://go7l99a.com:80/eric1743/450Y421S/63294
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352512
 
 ########################################### CANAIS SporTV ##############################################################
 
@@ -1015,10 +885,10 @@ https://super-cdn.link/espn/index.m3u8
 https://super-cdn.link/espn2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3
-http://go7l99a.com:80/eric1743/450Y421S/654308
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352698
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4
-http://go7l99a.com:80/eric1743/450Y421S/654316
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352705
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5
 https://super-cdn.link/espn5/index.m3u8
@@ -1037,32 +907,18 @@ http://super-cdn.link/bandsports/index.m3u8
 https://super-cdn.link/combate/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://aneltao178.net:80/790363446/3524785/250112
-
-########################################### CANAIS Amazon Prime Video ############################################################
-
-#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 1
-
-
-#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 2
-
-
-#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 3
-
-
-#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 4
-
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1356271
 
 ########################################### CANAIS PREMIERE ############################################################
 
-#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-http://sixuar.tel:80/42425757/P986g9694y/494
+#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352654
 
-#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes 4K
-http://go7l99a.com:80/eric1743/450Y421S/97215
+#EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352656
 
 #EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
-http://go7l99a.com:80/eric1743/450Y421S/608077
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352657
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 
 https://super-cdn.link/premiere2/index.m3u8
@@ -1074,13 +930,13 @@ https://super-cdn.link/premiere3/index.m3u8
 https://super-cdn.link/premiere4/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5
-http://go7l99a.com:80/eric1743/450Y421S/608106
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352670
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6
 https://super-cdn.link/premiere6/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 
-http://go7l99a.com:80/eric1743/450Y421S/608128
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352678
 
 #EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 8 
 https://super-cdn.link/premiere8/index.m3u8
@@ -1088,19 +944,22 @@ https://super-cdn.link/premiere8/index.m3u8
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
-http://themegamanx.net:80/81881531/S853C1837q/232221
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353169
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
 http://sixuar.tel:80/42425757/P986g9694y/272663
 
 #EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
-http://sixuar.tel:80/42425757/P986g9694y/272673
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353192
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões
 http://sixuar.tel:80/42425757/P986g9694y/272662
 
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões Antigo
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353185
+
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Eu a Patroa e as Crianças 1
-http://sixuar.tel:80/42425757/P986g9694y/272664
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353179
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO ANO 1996,
 
@@ -1114,7 +973,7 @@ http://doce.top:80/987654321/123456789/299958
 ######################################## FUTEBOL VIVO AGORA #########################################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT
-http://themegamanx.net:80/81881531/S853C1837q/274647
+http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353246
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
