@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 21-02-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 24-02-2025  17:25:15
 
 
 ############################################################## CANAIS MTV ###########################################################
@@ -14,7 +14,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352853
 http://sixuar.tel:80/42425757/P986g9694y/234852
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352308
+http://danfs.xyz:80/546618693/527386673/1352307
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352311
@@ -672,7 +672,7 @@ http://sixuar.tel:80/42425757/P986g9694y/240805
 ########################################### CANAIS RECORD TV #########################################################
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352357
+http://danfs.xyz:80/546618693/527386673/1352358
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352363
@@ -705,7 +705,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352837
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352825
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN Brasil
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352829
+http://danfs.xyz:80/546618693/527386673/1352830
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Record_News.png" group-title="Canais | NOTÍCIAS",Record News
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352845
@@ -845,7 +845,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352492
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352464
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352793
+http://danfs.xyz:80/546618693/527386673/1352794
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD 
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352504
@@ -867,8 +867,8 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352512
 
 ########################################### CANAIS SporTV ##############################################################
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 
-http://cdn.srvmain.top:80/Antonio/102030/5525499.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
+http://cdn.srvmain.top:80/Antonio/102030/5525499.m3u8 
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 
 http://cdn.srvmain.top:80/Antonio/102030/5525503.m3u8
@@ -879,10 +879,10 @@ http://cdn.srvmain.top:80/Antonio/102030/5525502.m3u8
 ############################################ CANAIS ESPN ###############################################################
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN
-https://super-cdn.link/espn/index.m3u8
+http://danfs.xyz:80/546618693/527386673/1352691
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2
-https://super-cdn.link/espn2/index.m3u8
+http://danfs.xyz:80/546618693/527386673/1352695
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352698
@@ -891,20 +891,21 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352698
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352705
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5
-https://super-cdn.link/espn5/index.m3u8
+http://danfs.xyz:80/546618693/527386673/1352707
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
-https://super-cdn.link/espn6/index.m3u8
+http://danfs.xyz:80/546618693/527386673/1352711
+
 
 ########################################### CANAIS BAND SPORTS #########################################################
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Band Sports",Band Sports 
-http://super-cdn.link/bandsports/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Band Sports",Band Sports
+http://danfs.xyz:80/546618693/527386673/1352683 
 
 ########################################### CANAIS LUTAS ##############################################################
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate 
-https://super-cdn.link/combate/index.m3u8
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate
+http://danfs.xyz:80/546618693/527386673/1356267 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1356271
@@ -920,26 +921,26 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352656
 #EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352657
 
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 
-https://super-cdn.link/premiere2/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2
+http://danfs.xyz:80/546618693/527386673/1352659 
 
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 
-https://super-cdn.link/premiere3/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3
+http://danfs.xyz:80/546618693/527386673/1352663 
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4
-https://super-cdn.link/premiere4/index.m3u8
+http://danfs.xyz:80/546618693/527386673/1352668
 
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352670
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6
-https://super-cdn.link/premiere6/index.m3u8
+http://danfs.xyz:80/546618693/527386673/1352675
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352678
 
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 8 
-https://super-cdn.link/premiere8/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 8
+http://danfs.xyz:80/546618693/527386673/1352681 
 
 ################################################## Canais 24 horas  ##################################################
 
@@ -973,7 +974,7 @@ http://doce.top:80/987654321/123456789/299958
 ######################################## FUTEBOL VIVO AGORA #########################################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353246
+http://danfs.xyz:80/546618693/527386673/1353245
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
