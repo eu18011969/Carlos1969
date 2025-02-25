@@ -10,32 +10,28 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352853
 
 ############################################################ CANAIS GLOBO ##############################################################
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG 2
-http://sv1.casahd.com:80/carlinhos/carlinhos/1765657
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG 
 http://sixuar.tel:80/42425757/P986g9694y/234852
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-http://danfs.xyz:80/546618693/527386673/1352307
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 
+http://sv1.casahd.com:80/carlinhos/carlinhos/1360909
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352311
+http://sv1.casahd.com:80/carlinhos/carlinhos/1360922
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352298
-
+http://sv1.casahd.com:80/carlinhos/carlinhos/1765654
 
 ######################################################## CANAIS REDE MINAS #########################################################
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas HD" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png" group-title="Canais |  REDE MINAS",Rede Minas HD
-http://aneltao178.net:80/790363446/3524785/274517
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1495381093_b2771072.m3u8
 
 
 ####################################################### CANAIS TV CULTURA ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="http://beststorage4you.com:2095/logoscanais/TVCULTURA.png" group-title="Canais | CULTURA",TV Cultura
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352613
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361411
 
 ########################################### CANAIS FUTURA ##############################################################
 
@@ -60,7 +56,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352540
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352372
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
-http://go7l99a.com:80/eric1743/450Y421S/672997
+http://sv1.casahd.com:80/carlinhos/carlinhos/1765335
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352424
@@ -637,7 +633,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352333
 ########################################### CANAIS RedeTV ########################################################
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV!
-http://sixuar.tel:80/42425757/P986g9694y/80170
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361402
 
 ########################################### CANAIS SBT #########################################################
 
@@ -654,7 +650,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353221
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353215
 
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
-http://aneltao178.net:80/790363446/3524785/390575
+http://danfs.xyz:80/044370253/112484941/1353202
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + SILVIO SANTOS
 http://go7l99a.com:80/eric1743/450Y421S/644628
@@ -670,7 +666,7 @@ http://go7l99a.com:80/eric1743/450Y421S/644624
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova HD
-http://sixuar.tel:80/42425757/P986g9694y/240805
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361184
 
 ########################################### CANAIS RECORD TV #########################################################
 
@@ -694,7 +690,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352817
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352818
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 80
-http://themegamanx.net:80/81881531/S853C1837q/530126
+http://sv1.casahd.com:80/carlinhos/carlinhos/1765240
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas 
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352809
@@ -757,32 +753,34 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352313
 ######################################### Cine SKY temporário  ##############################################################
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 1
-http://sixuar.tel:80/42425757/P986g9694y/18253
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528089
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 2" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 2
-http://sixuar.tel:80/42425757/P986g9694y/18254
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528090
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 3" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 3
-http://sixuar.tel:80/42425757/P986g9694y/18255
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528091
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 4" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 4
-http://sixuar.tel:80/42425757/P986g9694y/18256
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528092
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 5" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 5
-http://sixuar.tel:80/42425757/P986g9694y/18257
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528093
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 6" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 6
-http://sixuar.tel:80/42425757/P986g9694y/18258
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528094
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 7" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 7
-http://sixuar.tel:80/42425757/P986g9694y/18259
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 8" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 8
-http://sixuar.tel:80/42425757/P986g9694y/18260
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528096
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 9" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 9
-http://sixuar.tel:80/42425757/P986g9694y/18261
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528097
 
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY PLAY 10" tvg-logo="http://beststorage4you.com:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 10
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528098
 
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
@@ -848,7 +846,7 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352492
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352464
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
-http://danfs.xyz:80/546618693/527386673/1352794
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361266
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD 
 http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352504
@@ -871,13 +869,13 @@ http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1352512
 ########################################### CANAIS SporTV ##############################################################
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
-http://cdn.srvmain.top:80/Antonio/102030/5525499.m3u8 
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361478
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 
-http://cdn.srvmain.top:80/Antonio/102030/5525503.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361481
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3
-http://cdn.srvmain.top:80/Antonio/102030/5525502.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1765644
 
 ############################################ CANAIS ESPN ###############################################################
 
@@ -908,10 +906,10 @@ http://danfs.xyz:80/546618693/527386673/1352683
 ########################################### CANAIS LUTAS ##############################################################
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate
-http://danfs.xyz:80/546618693/527386673/1356267 
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361455
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1356271
+http://sv1.casahd.com:80/carlinhos/carlinhos/1535343
 
 ########################################### CANAIS PREMIERE ############################################################
 
