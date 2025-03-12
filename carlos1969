@@ -1,39 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 24-02-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 12-03-2025  17:25:15
 
 ############################################################# BELEZA FATAL ##################################################
+
 #EXTINF:-1 tvg-name="Beleza Fatal S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E26
-http://pkweb.ca:80/series/biscoito240623/991353368/2082019.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082019.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E27
-http://pkweb.ca:80/series/biscoito240623/991353368/2082020.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082020.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E28
-http://pkweb.ca:80/series/biscoito240623/991353368/2082021.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082021.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E29
-http://pkweb.ca:80/series/biscoito240623/991353368/2082022.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082022.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E30
-http://pkweb.ca:80/series/biscoito240623/991353368/2082023.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082023.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E31
-http://pkweb.ca:80/series/biscoito240623/991353368/2082797.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082797.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E32
-http://pkweb.ca:80/series/biscoito240623/991353368/2082798.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082798.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E33
-http://pkweb.ca:80/series/biscoito240623/991353368/2082799.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082799.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E34
-http://pkweb.ca:80/series/biscoito240623/991353368/2082800.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082800.mp4
 
 #EXTINF:-1 tvg-name="Beleza Fatal S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT1LoRH0ypjrbhwf4DgRcuqMobd.jpg" group-title="Series | Max",Beleza Fatal S01E35
-http://pkweb.ca:80/series/biscoito240623/991353368/2082801.mp4
+http://pkweb.ca:80/series/96050573/as895423/2082801.mp4
 
-############################################################# CANAIS MTV ###########################################################
+
+############################################################## CANAIS MTV ###########################################################
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title="Canais |  MTV",MTV FHD
 http://go7l99a.com:80/eric1743/450Y421S/638361
@@ -41,7 +43,7 @@ http://go7l99a.com:80/eric1743/450Y421S/638361
 ############################################################ CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
-http://sixuar.tel:80/42425757/P986g9694y/234852
+http://pkweb.ca:80/96050573/as895423/1068
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://sixuar.tel:80/42425757/P986g9694y/2374
@@ -72,10 +74,10 @@ http://sixuar.tel:80/42425757/P986g9694y/158
 ########################################### INFANTIL #########################################################
 
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
-http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/359
+http://pkweb.ca:80/96050573/as895423/2082668
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantis",Cartoon Network
-http://go7l99a.com:80/eric1743/450Y421S/97234
+http://pkweb.ca:80/96050573/as895423/131
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantis",Cartoonito FHD
 http://sixuar.tel:80/42425757/P986g9694y/110683
@@ -83,13 +85,13 @@ http://sixuar.tel:80/42425757/P986g9694y/110683
 ########################################### ANIMAL PLANET #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://toddyx.eu:80/685087662/850356885/1568457
+http://pkweb.ca:80/96050573/as895423/31
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
 http://sixuar.tel:80/42425757/P986g9694y/364661
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
-http://sixuar.tel:80/42425757/P986g9694y/112061
+http://pkweb.ca:80/96050573/as895423/31
 
 ########################################### SINHÁ MOÇA #########################################################
 
@@ -727,7 +729,7 @@ http://sixuar.tel:80/42425757/P986g9694y/264555
 ########################################### CANAIS INTERNACIONAIS #########################################################
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News
-http://toddyx.eu:80/685087662/850356885/1568767
+http://pkweb.ca:80/96050573/as895423/30922
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
 http://sixuar.tel:80/42425757/P986g9694y/469
@@ -736,7 +738,7 @@ http://sixuar.tel:80/42425757/P986g9694y/469
 http://sixuar.tel:80/42425757/P986g9694y/474
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Record_News.png" group-title="Canais | NOTÍCIAS",Record News
-http://sixuar.tel:80/42425757/P986g9694y/487
+http://pkweb.ca:80/96050573/as895423/736
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
 http://sixuar.tel:80/42425757/P986g9694y/284593
@@ -751,25 +753,25 @@ http://sixuar.tel:80/42425757/P986g9694y/298258
 http://sixuar.tel:80/42425757/P986g9694y/298263
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 FHD
-http://toddyx.eu:80/685087662/850356885/1568657
+http://pkweb.ca:80/96050573/as895423/2072560
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 SD
 http://sixuar.tel:80/42425757/P986g9694y/298273
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 5 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 SD
-http://toddyx.eu:80/685087662/850356885/1568659
+http://pkweb.ca:80/96050573/as895423/2072561
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 FHD
 http://sixuar.tel:80/42425757/P986g9694y/298278
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 FHD
-http://sixuar.tel:80/42425757/P986g9694y/298281
+http://pkweb.ca:80/96050573/as895423/2072316
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 8 SD
 http://sixuar.tel:80/42425757/P986g9694y/298282
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Academia Rexona FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 9 FHD
-http://sixuar.tel:80/42425757/P986g9694y/298287
+http://pkweb.ca:80/96050573/as895423/2072318
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB Piscina SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 10 SD
 http://sixuar.tel:80/42425757/P986g9694y/298288
@@ -921,7 +923,7 @@ http://sixuar.tel:80/42425757/P986g9694y/220
 http://sixuar.tel:80/42425757/P986g9694y/225
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5
-http://danfs.xyz:80/546618693/527386673/1352707
+http://pkweb.ca:80/96050573/as895423/260
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
 http://danfs.xyz:80/546618693/527386673/1352711
@@ -938,7 +940,7 @@ http://sixuar.tel:80/42425757/P986g9694y/234278
 http://sixuar.tel:80/42425757/P986g9694y/240
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://sixuar.tel:80/42425757/P986g9694y/250107
+http://pkweb.ca:80/96050573/as895423/43550
 
 ########################################### CANAIS PREMIERE ############################################################
 
@@ -970,7 +972,7 @@ http://sixuar.tel:80/42425757/P986g9694y/360927
 http://sixuar.tel:80/42425757/P986g9694y/360928
 
 #EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 8
-http://sixuar.tel:80/42425757/P986g9694y/522
+http://pkweb.ca:80/96050573/as895423/54333
 
 ################################################## Canais 24 horas  ##################################################
 
@@ -987,7 +989,7 @@ http://sixuar.tel:80/42425757/P986g9694y/272669
 http://sixuar.tel:80/42425757/P986g9694y/272662
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões Antigo
-http://danfs.xyz:80/Tourobox1-Z6qaay0yv8/kTmHVL27gw/1353185
+
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Eu a Patroa e as Crianças 1
 http://sixuar.tel:80/42425757/P986g9694y/272664
