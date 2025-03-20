@@ -4,8 +4,11 @@
 
 ############################################################# Impuros ( o filme ) #########################################################
 
-#EXTINF:-1 tvg-name="Impuros: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg" group-title="2 - Açao e Aventura",Impuros: O Filme (2019)
+#EXTINF:-1 tvg-name="Impuros: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg" group-title="FILMES",Impuros: O Filme (2019)
 http://snake.ilovecollege.info:80/movie/Rogerio/10203040/3723107.mp4
+
+#EXTINF:-1 tvg-name="Planeta dos Macacos: O Reinado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXjbKJ57H30YrOQx5GfXoGvnsGY.jpg" group-title="FILMES",Planeta dos Macacos: O Reinado (2024)
+http://snake.ilovecollege.info:80/movie/Rogerio/10203040/2722269.mp4
 
 
 ############################################################## CANAIS MTV ###########################################################
