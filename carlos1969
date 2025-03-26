@@ -268,9 +268,6 @@ http://sixuar.tel:80/42425757/P986g9694y/682
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 1
 http://sixuar.tel:80/42425757/P986g9694y/692
 
-#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX 
-
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO 
 http://sixuar.tel:80/42425757/P986g9694y/284603
 
@@ -426,7 +423,6 @@ http://sixuar.tel:80/42425757/P986g9694y/272664
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",FAMILIA DINOSSAURO
-http://cdn22.cc:80/series/edufelix/glorinha/298635.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA
