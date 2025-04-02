@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 14-03-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 02-05-2025  17:25:15
 
 ############################################################# Impuros ( o filme ) #########################################################
 
@@ -87,10 +87,10 @@ http://pkweb.ca:80/96050573/as895423/31
 
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
-
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361387
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ
-
+http://sv1.casahd.com:80/carlinhos/carlinhos/1764486
 
 ########################################### CANAIS RedeTV ########################################################
 
@@ -143,10 +143,13 @@ http://pkweb.ca:80/96050573/as895423/31
 ################################################# CANAIS NOVELAS ##############################################################
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361283
 
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 70
+http://sv1.casahd.com:80/carlinhos/carlinhos/1765239
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 80
-
+http://sv1.casahd.com:80/carlinhos/carlinhos/1765240
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas 
 
