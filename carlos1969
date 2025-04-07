@@ -381,7 +381,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361450
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361453
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://zutufo.in:80/live/781487031/K788a6763d/250108_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/250112_.m3u8
 
 ############################################### PARAMOUNT SPORTES#################################################################
 
@@ -415,7 +415,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361124
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361125
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361128
+http://zutufo.in:80/live/781487031/K788a6763d/497_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361132
