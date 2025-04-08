@@ -386,6 +386,36 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361232
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun FHD 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361236
 
+
+############################################################################ CANAIS | MAX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 1
+http://zutufo.in:80/live/781487031/K788a6763d/367119_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 2 
+http://zutufo.in:80/live/781487031/K788a6763d/121602_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 3
+http://zutufo.in:80/live/781487031/K788a6763d/121606_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 4
+http://zutufo.in:80/live/781487031/K788a6763d/121610_.m3u8
+
+############################################################################ CANAIS | PRIME VIDEO
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 1
+http://zutufo.in:80/live/781487031/K788a6763d/264952_.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 2
+http://zutufo.in:80/live/781487031/K788a6763d/264956_.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 3
+http://zutufo.in:80/live/781487031/K788a6763d/264959_.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 4
+http://zutufo.in:80/live/781487031/K788a6763d/264962_.m3u8
+
+
 ########################################### CANAIS SporTV ##############################################################
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
@@ -463,22 +493,22 @@ http://zutufo.in:80/live/781487031/K788a6763d/250112_.m3u8
 
 ############################################### PARAMOUNT SPORTES#################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount Plus - 01
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 01
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764670
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 02" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount Plus - 02
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 02" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 02
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764671
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 03" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount Plus - 03
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 03" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 03
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764672
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 04" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount Plus - 04
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 04" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 04
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764673
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 05" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount Plus - 05
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 05" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 05
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764674
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 06" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount Plus - 06
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 06" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 06
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764675
 
 ########################################### CANAIS PREMIERE ############################################################
