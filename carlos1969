@@ -21,6 +21,11 @@ http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1783176.mp4
 
 ################################################################ NOVELA PANTANAL#############################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | USURPADORA",usurpadora cap 1
+https://cdn-novflix.com/storage5/AUS/AUS-001.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Pantanal" tvg-logo="https://pt.wikipedia.org/wiki/Pantanal_%282022%29#/media/Ficheiro:Logotipo_de_Pantanal_(2022).jpg" group-title="Novela | Pantanal",Pantanal cap 1
 https://cdn-novflix.com/storage7/PAN/PAN-001.mp4
 
