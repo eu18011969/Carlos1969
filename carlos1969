@@ -19,6 +19,11 @@ http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1773449.mp4
 #EXTINF:-1 tvg-name="Mufasa: O Rei Leão [Cinema]" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/2q22B1pewjsMIkCGxtCpl8bhs0D.jpg" group-title="SARAH S. ROCHA",Mufasa: O Rei Leão [Cinema]
 http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1783176.mp4
 
+################################################################ NOVELA PANTANAL#############################################################
+
+#EXTINF:-1 tvg-id="Pantanal.br" tvg-name="Pantanal" tvg-logo="https://pt.wikipedia.org/wiki/Pantanal_%282022%29#/media/Ficheiro:Logotipo_de_Pantanal_(2022).jpg" group-title="Novela | Pantanal",Pantanal
+https://cdn-novflix.com/storage7/PAN/PAN-001.mp4
+
 
 ############################################################## CANAIS MTV ###########################################################
 
