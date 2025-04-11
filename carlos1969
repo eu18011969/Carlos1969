@@ -126,7 +126,7 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1495381093_
 ####################################################### CANAIS TV CULTURA ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="http://beststorage4you.com:2095/logoscanais/TVCULTURA.png" group-title="Canais | CULTURA",TV Cultura
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361411
 
 
 ########################################### CANAIS FUTURA ##############################################################
@@ -144,7 +144,7 @@ http://pkweb.ca:80/96050573/as895423/2082668
 http://pkweb.ca:80/96050573/as895423/131
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantis",Cartoonito FHD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/345
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361052
 
 ########################################### ANIMAL PLANET #########################################################
 
@@ -420,7 +420,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/264962_.m3u8
 ########################################### CANAIS SporTV ##############################################################
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
-https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
+http://cdn22.cc:80/edufelix/glorinha/555.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361483
