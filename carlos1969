@@ -126,7 +126,7 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1495381093_
 ####################################################### CANAIS TV CULTURA ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="http://beststorage4you.com:2095/logoscanais/TVCULTURA.png" group-title="Canais | CULTURA",TV Cultura
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361411
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/20950.m3u8
 
 
 ########################################### CANAIS FUTURA ##############################################################
@@ -155,7 +155,7 @@ http://pkweb.ca:80/96050573/as895423/31
 http://sv1.casahd.com:80/carlinhos/carlinhos/1765335
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
-
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/304777.m3u8
 
 ########################################### CANAIS BAND #########################################################
 
@@ -234,7 +234,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361277
 ########################################### CANAIS INTERNACIONAIS #########################################################
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News
-http://pkweb.ca:80/96050573/as895423/30922
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18645.m3u8
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361106
@@ -247,34 +247,8 @@ http://pkweb.ca:80/96050573/as895423/736
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361117
-
-
-######################################### BBB 25  ##############################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 1 SD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1873216
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 2 FHD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1878548
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 3 FHD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1881485
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 4 SD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1882440
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 5 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 5 SD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1886215
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 6 FHD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1887061
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 7 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 7 FHD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1888785
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" group-title="Canais | BBB 25",BBB 8 SD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1892663
-
+984XZ
+.*
 ######################################### Cine SKY temporário  ##############################################################
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 01" tvg-logo="http://sv1.casahd.com:80/images/cebdbf0d2175da61a8f5b7f307eca916.jpg" group-title="Canais | CINE SKY",Cine SKY 01
@@ -328,7 +302,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361571
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361579
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/45206.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 1
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361587
@@ -355,7 +329,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361042
 http://sv1.casahd.com:80/carlinhos/carlinhos/1765366
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361610
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/168984.m3u8
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361622
@@ -404,23 +378,23 @@ http://zutufo.in:80/live/781487031/K788a6763d/121610_.m3u8
 
 ############################################################################ CANAIS | PRIME VIDEO
 
-#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 1
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME VIDEO ESPORTES",Prime Vídeo 1
 http://zutufo.in:80/live/781487031/K788a6763d/264952_.m3u8
 
-#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 2
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME VIDEO ESPORTES",Prime Vídeo 2
 http://zutufo.in:80/live/781487031/K788a6763d/264956_.m3u8
 
-#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 3
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME VIDEO  ESPORTES",Prime Vídeo 3
 http://zutufo.in:80/live/781487031/K788a6763d/264959_.m3u8
 
-#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME ESPORTES",Prime Vídeo 4
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PRIME VIDEO BD268 ESPORTES",Prime Vídeo 4
 http://zutufo.in:80/live/781487031/K788a6763d/264962_.m3u8
 
 
 ########################################### CANAIS SporTV ##############################################################
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
-http://cdn22.cc:80/edufelix/glorinha/555.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/315115.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361483
@@ -431,48 +405,46 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361487
 #################################################### DISNEY + ####################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1 HD¹
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/59969
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59969.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1 HD²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/59952
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59952.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1  HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1  HD*
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/62457
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/62457.m3u8
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="DISNEY+ 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 1 HD ᶜᴰᴺ²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/162405
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/162405.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 2 HD¹
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/64734
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64734.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 2 HD²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/59970
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59970.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 2 HD*
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/18959
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 3 HD¹
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/64707
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64707.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 3 HD²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/59971
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59971.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 4 HD¹
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/64708
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64708.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 4 HD²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/297171
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297171.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 5 HD¹
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/59972
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59972.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 5 HD²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/297172
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297172.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title="CANAIS | DISNEY+",DISNEY+ 6 HD²
-http://7semfronteiras.cc:8080/5193271958/5193271ips1/297173
-
-
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297173.m3u8
 
 ############################################ CANAIS ESPN ###############################################################
 
@@ -492,7 +464,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361468
 http://zutufo.in:80/live/781487031/K788a6763d/284583_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
-http://zutufo.in:80/live/781487031/K788a6763d/243_.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/329602.m3u8
 
 
 ########################################### CANAIS BAND SPORTS #########################################################
@@ -544,7 +516,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361125
 http://zutufo.in:80/live/781487031/K788a6763d/497_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361132
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22264.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361136
@@ -592,7 +564,7 @@ http://45.134.141.161:2200/BRX/24HS_A_Grande_Familia/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/327185.m3u8
 
 
 ######################################### RADIO AO VIVO #########################################################
