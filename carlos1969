@@ -1,101 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 29-04-2025  17:25:15
-
-############################################################# Impuros ( o filme ) #####################################################
-
-#EXTINF:-1 tvg-name="Impuros: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg" group-title="FILMES",Impuros: O Filme (2019)
-http://snake.ilovecollege.info:80/movie/Rogerio/10203040/3723107.mp4
-
-#EXTINF:-1 tvg-name="Planeta dos Macacos: O Reinado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXjbKJ57H30YrOQx5GfXoGvnsGY.jpg" group-title="FILMES",Planeta dos Macacos: O Reinado (2024)
-http://snake.ilovecollege.info:80/movie/Rogerio/10203040/2722269.mp4
-
-#EXTINF:-1 tvg-name="Superação: O Milagre da Fé" tvg-logo="http://imagecdn.sh:80/images/4c7d4882fd46204418ec9f0271ce1fb4.jpg" group-title="FILMES",Superação: O Milagre da Fé
-http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1773449.mp4
-
-
-############################################################## Sarah ############################################################
-
-#EXTINF:-1 tvg-name="Mufasa: O Rei Leão [Cinema]" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/2q22B1pewjsMIkCGxtCpl8bhs0D.jpg" group-title="SARAH S. ROCHA",Mufasa: O Rei Leão [Cinema]
-http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1783176.mp4
-
-#################################################################### A USURPADORA ###############################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 1
-https://cdn-novflix.com/storage5/AUS/AUS-001.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 2
-https://cdn-novflix.com/storage5/AUS/AUS-002.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 3
-https://cdn-novflix.com/storage5/AUS/AUS-003.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 4
-https://cdn-novflix.com/storage5/AUS/AUS-004.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 5
-https://cdn-novflix.com/storage5/AUS/AUS-005.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 6
-https://cdn-novflix.com/storage5/AUS/AUS-006.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 7
-https://cdn-novflix.com/storage5/AUS/AUS-007.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 8
-https://cdn-novflix.com/storage5/AUS/AUS-008.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 9
-https://cdn-novflix.com/storage5/AUS/AUS-009.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 10
-https://cdn-novflix.com/storage5/AUS/AUS-010.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 11
-https://cdn-novflix.com/storage5/AUS/AUS-011.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 12
-https://cdn-novflix.com/storage5/AUS/AUS-012.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 13
-https://cdn-novflix.com/storage5/AUS/AUS-013.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 14
-https://cdn-novflix.com/storage5/AUS/AUS-014.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 15
-https://cdn-novflix.com/storage5/AUS/AUS-015.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 16
-https://cdn-novflix.com/storage5/AUS/AUS-016.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 17
-https://cdn-novflix.com/storage5/AUS/AUS-017.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 18
-https://cdn-novflix.com/storage5/AUS/AUS-018.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 19
-https://cdn-novflix.com/storage5/AUS/AUS-019.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 20
-https://cdn-novflix.com/storage5/AUS/AUS-020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 21
-https://cdn-novflix.com/storage5/AUS/AUS-021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 22
-https://cdn-novflix.com/storage5/AUS/AUS-022.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 23
-https://cdn-novflix.com/storage5/AUS/AUS-023.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 24
-https://cdn-novflix.com/storage5/AUS/AUS-024.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_WTmMWYmYvC7idnFAJwzCFTXxXnT3uGfdg&s" group-title="Novela | A USURPADORA",A Usurpadora cap 25
-https://cdn-novflix.com/storage5/AUS/AUS-025.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Carlos Rocha 07/05/2025"
 
 
 ############################################################## CANAIS MTV ###########################################################
@@ -109,10 +14,10 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361081
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361001
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-http://zutufo.in:80/live/781487031/K788a6763d/2376_.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/28776.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
-http://zutufo.in:80/live/781487031/K788a6763d/289884_.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/50097.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG
 http://sv1.casahd.com:80/carlinhos/carlinhos/1360893
@@ -160,7 +65,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/304777.m3u8
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG
-http://cdn22.cc:80/edufelix/glorinha/123582.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/71062.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361387
@@ -183,11 +88,12 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361207
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT REDE MASSA
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT + SAUDADES
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT +SAUDADES
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343851.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT SP
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/118358.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764743
@@ -369,16 +275,16 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361236
 ############################################################################ CANAIS | MAX ##################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 1
-http://zutufo.in:80/live/781487031/K788a6763d/367119_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/6854
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 2 
-http://zutufo.in:80/live/781487031/K788a6763d/121602_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/6855
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 3
-http://zutufo.in:80/live/781487031/K788a6763d/121606_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/6856
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX ESPORTES",Max 4
-http://zutufo.in:80/live/781487031/K788a6763d/121610_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/7915
 
 ############################################################################ CANAIS | PRIME VIDEO ###############################################
 
@@ -413,7 +319,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/311694.m3u8
 ########################################### CANAIS SporTV ##############################################################
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/31594.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361479
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361483
@@ -480,10 +386,10 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361465
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361468
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5
-http://zutufo.in:80/live/781487031/K788a6763d/284583_.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361469
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/329602.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/3977
 
 
 ########################################### CANAIS BAND SPORTS #########################################################
@@ -497,21 +403,21 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361450
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361453
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://zutufo.in:80/live/781487031/K788a6763d/250112_.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1535343
 
 ############################################### PARAMOUNT SPORTES#################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 01
-http://zutufo.in:80/live/781487031/K788a6763d/250559_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/4777
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 02" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 02
-http://zutufo.in:80/live/781487031/K788a6763d/250564_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/4779
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 03" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 03
-http://zutufo.in:80/live/781487031/K788a6763d/250569_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/4781
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 04" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 04
-http://zutufo.in:80/live/781487031/K788a6763d/250574_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/4783
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 05" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 05
 http://zutufo.in:80/live/781487031/K788a6763d/250575_.m3u8
@@ -532,7 +438,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361124
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361125
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2
-http://zutufo.in:80/live/781487031/K788a6763d/497_.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361126
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22264.m3u8
@@ -580,7 +486,7 @@ http://45.134.141.161:2200/BRX/24HS_A_Grande_Familia/index.m3u8
 ######################################## FUTEBOL VIVO AGORA #########################################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="CANAIS | FUTEBOL",Canal GOAT VT HD
-http://zutufo.in:80/live/781487031/K788a6763d/274647_.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/4086
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title="CANAIS | FUTEBOL",CAZE TV 1 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/327185.m3u8
