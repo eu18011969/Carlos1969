@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Carlos Rocha 07/05/2025"
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 04-04-2025  17:25:15
 
-########################################################## FILMES ############################################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais |  FILMES",A MÁQUINA DO TEMPO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais |  FILME",A MAQUINA DO TEMPO
 http://turuggv.click:80/movie/2421727/4412484/1150586.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais |  FILMES",POR UM TRIZ
-http://turuggv.click:80/movie/2421727/4412484/1155712.mp4
 
 ############################################################## CANAIS MTV ###########################################################
 
@@ -466,6 +462,9 @@ http://pkweb.ca:80/96050573/as895423/54333
 
 ################################################## Canais 24 horas  ##################################################
 
+#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves hd
+http://turuggv.click:80/2421727/4412484/106863
+
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
 http://sv1.casahd.com:80/carlinhos/carlinhos/1765015
 
@@ -473,12 +472,12 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1765015
 
 
 #EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
-http://45.134.141.161:2200/BRX/24HS_Todo_mundo_odeia_o_Chris/index.m3u8
+http://turuggv.click:80/2421727/4412484/89947
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Eu a Patroa e as Crianças 1
-http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
+http://turuggv.click:80/2421727/4412484/106871
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO ANO 1996,
 
