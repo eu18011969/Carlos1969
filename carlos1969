@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 13-05-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 04-04-2025  17:25:15
 
 
 ############################################################# filme #####################################################
@@ -8,11 +8,14 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES",Ainda estou aqui(2024)
 http://daxoi.online:80/movie/luiz222/222luiz/3633845.mp4
 
+#EXTINF:-1 tvg-name="Jurado Nº 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhKVJJMSl2RHG5uZxGE58wHc47C.jpg" group-title="FILMES",Jurado Nº 2 (2024)
+http://pkweb.ca:80/movie/96050573/as895423/2059908.mp4
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES",Mufasa o Rei Leão
 http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1783176.mp4
 
 #EXTINF:-1 tvg-name="Planeta dos Macacos: O Reinado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXjbKJ57H30YrOQx5GfXoGvnsGY.jpg" group-title="FILMES",Planeta dos Macacos: O Reinado (2024)
-http://snake.ilovecollege.info:80/movie/Rogerio/10203040/2722269.mp4
+http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1772141.mp4
 
 #EXTINF:-1 tvg-name="Superação: O Milagre da Fé" tvg-logo="http://imagecdn.sh:80/images/4c7d4882fd46204418ec9f0271ce1fb4.jpg" group-title="FILMES",Superação: O Milagre da Fé
 http://sv1.casahd.com:80/movie/carlinhos/carlinhos/1773449.mp4
@@ -173,10 +176,10 @@ http://pkweb.ca:80/96050573/as895423/52
 ########################################### CANAIS RedeTV ########################################################
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV! FHD
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64620.m3u8
+http://pkweb.ca:80/96050573/as895423/2274
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV! HD
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22606.m3u8
+http://pkweb.ca:80/96050573/as895423/546
 
 ########################################### CANAIS SBT #########################################################
 
