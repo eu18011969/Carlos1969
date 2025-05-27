@@ -157,7 +157,7 @@ http://daxoi.online:80/luiz222/222luiz/2474629
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361001
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
-http://daxoi.online:80/luiz222/222luiz/2694014
+http://cdn22.cc:80/edufelix/glorinha/427.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/50097.m3u8
@@ -200,7 +200,7 @@ http://pkweb.ca:80/96050573/as895423/2199
 http://pkweb.ca:80/96050573/as895423/31
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL RURAL
-http://pkweb.ca:80/96050573/as895423/118
+http://cdn22.cc:80/edufelix/glorinha/290434.m3u8
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
 http://pkweb.ca:80/series/96050573/as895423/191083.mp4
@@ -634,13 +634,15 @@ http://pkweb.ca:80/96050573/as895423/190701
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA
 http://pkweb.ca:80/96050573/as895423/188358
 
-######################################## FUTEBOL VIVO AGORA #########################################################
+######################################## FUTEBOL GOAT TV #########################################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="CANAIS | FUTEBOL GOAT TV HD",Canal GOAT VT HD
 http://fonte.lista.luxe:80/iptvgood/101011/4086
 
+########################################## FUTEBOL CAZE TV ###########################################################
+
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title="CANAIS | FUTEBOL CAZE TV",CAZE TV 1 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/327185.m3u8
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title="CANAIS | FUTEBOL CAZE TV",CAZE TV 1 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/327186.m3u8
