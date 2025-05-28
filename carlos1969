@@ -631,8 +631,19 @@ http://pkweb.ca:80/96050573/as895423/190701
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",FAMILIA DINOSSAURO
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 1
 http://pkweb.ca:80/96050573/as895423/188358
+
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 2
+http://cdn22.cc:80/edufelix/glorinha/227399.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 3
+http://cdn22.cc:80/edufelix/glorinha/227400.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 3
+http://cdn22.cc:80/edufelix/glorinha/227401.m3u8
+
+
 
 ######################################## FUTEBOL GOAT TV #########################################################
 
