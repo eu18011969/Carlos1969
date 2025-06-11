@@ -241,19 +241,19 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343851.m3u8
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/118358.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ
-http://pkweb.ca:80/biscoito240623/991353368/564
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18608.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
 
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + SILVIO SANTOS
-http://cdn22.cc:80/edufelix/glorinha/239445.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343853.m3u8
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + CINEMAS
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT NOVELAS
-http://cdn22.cc:80/edufelix/glorinha/239441.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
 
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
@@ -308,7 +308,7 @@ http://pkweb.ca:80/96050573/as895423/2103
 ######################################### Cine SKY temporário  ##############################################################
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 01" tvg-logo="http://sv1.casahd.com:80/images/cebdbf0d2175da61a8f5b7f307eca916.jpg" group-title="Canais | CINE SKY",Cine SKY 01
-http://cdn22.cc:80/edufelix/glorinha/50858.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333987.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 02" tvg-logo="http://sv1.casahd.com:80/images/24a0444b493711244b80bb6e1d714a24.jpg" group-title="Canais | CINE SKY",Cine SKY 02
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528090
