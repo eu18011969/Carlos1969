@@ -201,8 +201,8 @@ http://pkweb.ca:80/96050573/as895423/2199
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://pkweb.ca:80/96050573/as895423/31
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL RURAL
-http://cdn22.cc:80/edufelix/glorinha/290434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22304.m3u8
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
 http://pkweb.ca:80/series/96050573/as895423/191083.mp4
@@ -308,13 +308,13 @@ http://pkweb.ca:80/96050573/as895423/2103
 ######################################### Cine SKY temporário  ##############################################################
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 01" tvg-logo="http://sv1.casahd.com:80/images/cebdbf0d2175da61a8f5b7f307eca916.jpg" group-title="Canais | CINE SKY",Cine SKY 01
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333987.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333997.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 02" tvg-logo="http://sv1.casahd.com:80/images/24a0444b493711244b80bb6e1d714a24.jpg" group-title="Canais | CINE SKY",Cine SKY 02
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528090
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 03" tvg-logo="http://sv1.casahd.com:80/images/a9153a87ebdad7cce42233d303a4d2c1.jpg" group-title="Canais | CINE SKY",Cine SKY 03
-http://sv1.casahd.com:80/carlinhos/carlinhos/1528091
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333999.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 04" tvg-logo="http://sv1.casahd.com:80/images/300d626f8dffcb2e7f99cde709e05dea.jpg" group-title="Canais | CINE SKY",Cine SKY 04
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528092
@@ -329,13 +329,13 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1528094
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 08" tvg-logo="http://sv1.casahd.com:80/images/b308b02fd155c02ba58fa17b52b29bc3.jpg" group-title="Canais | CINE SKY",Cine SKY 08
-http://sv1.casahd.com:80/carlinhos/carlinhos/1528096
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333994.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 09" tvg-logo="http://sv1.casahd.com:80/images/27647675b0533b9dcac03798c19e70fe.jpg" group-title="Canais | CINE SKY",Cine SKY 09
-http://sv1.casahd.com:80/carlinhos/carlinhos/1528097
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333995.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="http://sv1.casahd.com:80/images/e70b825a660846489bd1f09e065f03ff.jpg" group-title="Canais | CINE SKY",Cine SKY 10
-http://sv1.casahd.com:80/carlinhos/carlinhos/1528098
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333996.m3u8
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
@@ -373,7 +373,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361027
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361030
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO POP
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361039
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22684.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO XTREME
 http://185.236.183.116:17424/
@@ -382,7 +382,7 @@ http://185.236.183.116:17424/
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361042
 
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1765366
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/42931.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
 http://185.236.183.118:14706/
@@ -550,7 +550,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361450
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361453
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://sv1.casahd.com:80/carlinhos/carlinhos/1535343
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/300039.m3u8
 
 ############################################### PARAMOUNT SPORTES#################################################################
 
