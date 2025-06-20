@@ -291,7 +291,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361042
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/42931.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
-http://185.236.183.118:14706/
+http://dnscine.top:80/249568646/711524116/177.ts
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
 http://79.127.238.228:14647/
@@ -300,7 +300,7 @@ http://79.127.238.228:14647/
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361617
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network
-http://185.236.183.116:17497/
+http://dnscine.top:80/249568646/711524116/111.ts
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361266
