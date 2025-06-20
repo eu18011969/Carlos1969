@@ -19,6 +19,10 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361081
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title="Canais | VARIEDADES",Multishow FHD
 http://15.235.11.7:14146/MultiShowSD
 
+#EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title="Canais | VARIEDADES",GNT FHD
+http://dnscine.top:80/249568646/711524116/70.ts
+
+
 ############################################################ CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
@@ -63,11 +67,10 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?Ma
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
 
 
-
 ########################################### INFANTIL #########################################################
 
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
-http://pkweb.ca:80/96050573/as895423/2082668
+http://dnscine.top:80/249568646/711524116/69.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantis",Cartoon Network
 http://pkweb.ca:80/96050573/as895423/131
@@ -124,12 +127,10 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18608.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title="Canais | SBT",SBT HUMOR
 
-
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + SILVIO SANTOS
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343853.m3u8
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + CINEMAS
-
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT NOVELAS
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
@@ -282,7 +283,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361030
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22684.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO XTREME
-http://185.236.183.116:17424/
+http://dnscine.top:80/249568646/711524116/86.ts
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361042
@@ -432,7 +433,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361458
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361462
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3
-http://185.236.183.118:14185/
+http://dnscine.top:80/249568646/711524116/45.ts
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361468
@@ -441,8 +442,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361468
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361469
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
-http://185.236.183.118:14193/
-
+http://dnscine.top:80/249568646/711524116/47.ts
 
 
 ########################################### CANAIS BAND SPORTS #########################################################
