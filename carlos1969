@@ -52,7 +52,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/20950.m3u8
 
 ########################################### CANAIS FUTURA ##############################################################
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="http://beststorage4you.com:2095/logoscanais/FUTURA.png" group-title="Canais | FUTURA",TV Futura
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://logospng.org/wp-content/uploads/futura.png" group-title="Canais | FUTURA",TV Futura
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361399
 
 ########################################### CANAIS GAZETA ############################################################################
@@ -83,10 +83,10 @@ http://pkweb.ca:80/96050573/as895423/2199
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://pkweb.ca:80/96050573/as895423/31
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Tp8tEw1CX5YIZW3WJYWHwgHaHa&pid=Api&P=0&h=180" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22304.m3u8
 
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://beststorage4you.com:80/logoscanais/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
+#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="https://www.seekpng.com/png/detail/82-828788_national-geographic-channel-logo-vector-national-geographic.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
 http://pkweb.ca:80/series/96050573/as895423/191083.mp4
 
 ########################################### CANAIS BAND #########################################################
@@ -544,34 +544,34 @@ http://pkweb.ca:80/96050573/as895423/54333
 #EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Area Restrita" tvg-logo="http://im.elisx8.ca:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="Canais | Canais 24 horas",Aeroporto: Area Restrita
 http://pkweb.ca:80/96050573/as895423/154406
 
-#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves hd
+#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://images.seeklogo.com/logo-png/37/2/chaves-logo-png_seeklogo-377531.png" group-title="Canais | Canais 24 horas",Chaves hd
 http://pkweb.ca:80/96050573/as895423/31130
 
-#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves  
+#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="Canais | Canais 24 horas",Chaves  
 http://sv1.casahd.com:80/carlinhos/carlinhos/1765015
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
 http://pkweb.ca:80/96050573/as895423/3169
 
-#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title="Canais | Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
 http://pkweb.ca:80/96050573/as895423/31131
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Os Trapalhões
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t4x_G248bb3k0Nq8jj07TwAAAA&pid=Api&P=0&h=180" group-title="Canais | Canais 24 horas",Os Trapalhões
 http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="http://beststorage4you.com:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Canais 24 horas",Eu a Patroa e as Crianças 1
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/2d6de34892521f20acff699211cd32ccafdcf6c242e69d3462a45c804cdf088d.jpg" group-title="Canais | Canais 24 horas",Eu a Patroa e as Crianças 1
 http://pkweb.ca:80/96050573/as895423/3170
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Canais 24 horas",PEGADINHAS SILVIO SANTOS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-pcIBhTzRvb8/VF0h34FMAOI/AAAAAAAACuE/Coi_9Tnqpuk/s1600/pegadinhas%2Bda%2Btv.png" group-title="Canais | Canais 24 horas",PEGADINHAS SILVIO SANTOS
 http://pkweb.ca:80/96050573/as895423/190701
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",FAMILIA DINOSSAURO
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 1
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 1
 http://pkweb.ca:80/96050573/as895423/188358
 
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 2
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/A_Grande_Fam%C3%ADlia_-_6%C2%AA%2C_7%C2%AA_Temporada.png/revision/latest?cb=20170408143503" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA 2
 http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
 
