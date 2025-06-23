@@ -19,7 +19,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361081
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title="Canais | VARIEDADES",Multishow FHD
 http://15.235.11.7:14146/MultiShowSD
 
-#EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title="Canais | VARIEDADES",GNT FHD
+#EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title="Canais | VARIEDADES",GNT FHD
 http://dnscine.top:80/249568646/711524116/70.ts
 
 
