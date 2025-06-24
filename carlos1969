@@ -544,11 +544,11 @@ http://pkweb.ca:80/96050573/as895423/54333
 #EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Area Restrita" tvg-logo="http://im.elisx8.ca:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title="Canais | Canais 24 horas",Aeroporto: Area Restrita
 http://pkweb.ca:80/96050573/as895423/154406
 
-#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title="Canais | Canais 24 horas",Chaves hd
+#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title="Canais | Canais 24 horas",Chaves [HD]
 http://pkweb.ca:80/96050573/as895423/31130
 
-#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="Canais | Canais 24 horas",Chaves  
-http://sv1.casahd.com:80/carlinhos/carlinhos/1765015
+#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="Canais | Canais 24 horas",Chaves [SD]  
+https://player.odycdn.com/v6/streams/a79a4fbfd4db19230a08e524d3a8c8da58557c17/5c8801.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
 http://pkweb.ca:80/96050573/as895423/3169
