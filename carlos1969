@@ -137,7 +137,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
 
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova HD
+#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes",Canção Nova HD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1764507
 
 
@@ -215,34 +215,34 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 ######################################### Cine SKY temporário  ##############################################################
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 01" tvg-logo="http://sv1.casahd.com:80/images/cebdbf0d2175da61a8f5b7f307eca916.jpg" group-title="Canais | CINE SKY",Cine SKY 01
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 01" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 01
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333997.m3u8
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 02" tvg-logo="http://sv1.casahd.com:80/images/24a0444b493711244b80bb6e1d714a24.jpg" group-title="Canais | CINE SKY",Cine SKY 02
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 02" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 02
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528090
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 03" tvg-logo="http://sv1.casahd.com:80/images/a9153a87ebdad7cce42233d303a4d2c1.jpg" group-title="Canais | CINE SKY",Cine SKY 03
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 03" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 03
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333999.m3u8
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 04" tvg-logo="http://sv1.casahd.com:80/images/300d626f8dffcb2e7f99cde709e05dea.jpg" group-title="Canais | CINE SKY",Cine SKY 04
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 04" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 04
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528092
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 05" tvg-logo="http://sv1.casahd.com:80/images/6b908d169c635f505ff6fc7555282d90.jpg" group-title="Canais | CINE SKY",Cine SKY 05
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 05" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 05
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528093
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 06" tvg-logo="http://sv1.casahd.com:80/images/d2f2483bd7660583befb8bea2612e14e.jpg" group-title="Canais | CINE SKY",Cine SKY 06
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 06" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 06
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528094
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 07" tvg-logo="http://sv1.casahd.com:80/images/ffd48cc059eed2d41f7f2b27231bb04e.jpg" group-title="Canais | CINE SKY",Cine SKY 07
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 07" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 07
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 08" tvg-logo="http://sv1.casahd.com:80/images/b308b02fd155c02ba58fa17b52b29bc3.jpg" group-title="Canais | CINE SKY",Cine SKY 08
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 08" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 08
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333994.m3u8
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 09" tvg-logo="http://sv1.casahd.com:80/images/27647675b0533b9dcac03798c19e70fe.jpg" group-title="Canais | CINE SKY",Cine SKY 09
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 09" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 09
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333995.m3u8
 
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="http://sv1.casahd.com:80/images/e70b825a660846489bd1f09e065f03ff.jpg" group-title="Canais | CINE SKY",Cine SKY 10
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 10
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333996.m3u8
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
@@ -461,22 +461,22 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31124
 
 ############################################### PARAMOUNT SPORTES#################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 01
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Paramount_Sports.png/revision/latest/scale-to-width-down/200?cb=20180128165316" group-title="Canais | PARAMOUNT ESPORTES",Paramount 01
 http://edgenova.sbs:80/4053771/7311694/610275
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 02" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 02
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 02" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Paramount_Sports.png/revision/latest/scale-to-width-down/200?cb=20180128165316" group-title="Canais | PARAMOUNT ESPORTES",Paramount 02
 http://edgenova.sbs:80/4053771/7311694/610279
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 03" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 03
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 03" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Paramount_Sports.png/revision/latest/scale-to-width-down/200?cb=20180128165316" group-title="Canais | PARAMOUNT ESPORTES",Paramount 03
 http://edgenova.sbs:80/4053771/7311694/610283
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 04" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 04
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 04" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Paramount_Sports.png/revision/latest/scale-to-width-down/200?cb=20180128165316" group-title="Canais | PARAMOUNT ESPORTES",Paramount 04
 http://edgenova.sbs:80/4053771/7311694/610287
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 05" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 05
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 05" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Paramount_Sports.png/revision/latest/scale-to-width-down/200?cb=20180128165316" group-title="Canais | PARAMOUNT ESPORTES",Paramount 05
 http://edgenova.sbs:80/4053771/7311694/610278
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 06" tvg-logo="" group-title="Canais | PARAMOUNT ESPORTES",Paramount 06
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 06" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Paramount_Sports.png/revision/latest/scale-to-width-down/200?cb=20180128165316" group-title="Canais | PARAMOUNT ESPORTES",Paramount 06
 http://edgenova.sbs:80/4053771/7311694/610280
 
 ################################################ MUNDIAL DE CLUBES 2025 ######################################################
@@ -535,7 +535,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361143
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361147
 
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 8
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://i.pinimg.com/736x/73/df/cd/73dfcdf4e6c88fdcc86e80a05cf13048.jpg" group-title="Canais | PREMIERE",Premiere 8
 http://pkweb.ca:80/96050573/as895423/54333
 
 ################################################## Canais 24 horas  ##################################################
@@ -578,10 +578,10 @@ http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
 ######################################## FUTEBOL GOAT TV #########################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [FHD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat 1 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [FHD]" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Logo-Yellow.png" group-title="Canais | GOAT",Canal Goat 1 [FHD]
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/185941
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [HD]" tvg-logo="" group-title="Canais | GOAT",Canal Goat 2 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 2 [HD]" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Logo-Yellow.png" group-title="Canais | GOAT",Canal Goat 2 [HD]
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/185942
 
 
@@ -632,7 +632,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320639.m3u8
 #EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/62/29/de62296b-e746-c04c-1eef-f1b5f6c0ee84/source/512x512bb.jpg" group-title="Canais | Radio ao vivo",Radio Muriaé 99-5 FM
 https://5a57bda70564a.streamlock.net/muriaeamhd/muriaeamhd.stream/chunklist_w417143985.m3u8
 
-#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Jovem_Pan_FM_logo_2022.png" group-title="Canais | Radio ao vivo",Jovem Pan 
+#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/601/jovem-pan-fm-sao-paulo.c88a6569.png" group-title="Canais | Radio ao vivo",Jovem Pan 
 https://stream-167.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxtRi1aRUJHU0o2cUJZRm0waVBfU2ciLCJpYXQiOjE3MjY1OTg1NTYsImV4cCI6MTcyNjU5ODYxNn0.Cj4W3dVzsiGOMlLO0zw8hETBdwABBJmnUsq44x9fKWI
 
 
