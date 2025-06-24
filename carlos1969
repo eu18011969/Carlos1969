@@ -8,6 +8,9 @@
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES",Ainda estou aqui(2024)
 http://daxoi.online:80/movie/luiz222/222luiz/3633845.mp4
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES",Jogo da Vida (2021)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750819080/ei/qAxbaKXDMI2X-LAP1aGOiAg/ip/2804:d45:3714:6a00:a8ba:6a62:720:c245/id/12da9da7330bc3c6/itag/230/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D130502575%3Bdur%3D5990.359%3Bgir%3Dyes%3Bitag%3D134%3Blmt%3D1748831473610887/rqh/1/hls_chunk_host/rr1---sn-uxaxh5g-jo4s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/met/1750797480,/mh/Tt/mm/31,29/mn/sn-uxaxh5g-jo4s,sn-gpv7knee/ms/au,rdu/mv/m/mvi/1/pl/40/rms/au,au/initcwndbps/2202500/bui/AY1jyLNC1ejrYPQVlZMVO5IMW5LBQQHADMfrkSDaSAKCVA8THuH_4JqMmNvgZISaMv4yOwswHDR8Zati/spc/l3OVKY4ySd1E7zBwO7D_maiRQ_BZmXDdwf8-u91vSMKxorxdGxgaVsB22k9rjnLN/vprv/1/playlist_type/DVR/dover/13/txp/5432534/mt/1750796489/fvip/5/short_key/1/keepalive/yes/fexp/51466643,51466698/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJ2Niv217ejh-I7uzZz_67X4f6FVhE_1eMBb8FJxo7IbAiA8kQbp10Qy1h6gNYinllJH9sHPiM1ESTKdWUv-MZy6-w%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIhAMiRa6s7rfL13j7Y1m-s4h4m921QECYpae10JV2uaLQyAiBCWoG80jb5O01rHFKMeQTNyk3msaKKx0RIo10W_LLRPg%3D%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-name="A Fonte da Juventude (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzuWNKN19wzVsjH1RtJXzjat5Tb.jpg" group-title="FILMES",A Fonte da Juventude (2025)
 http://edgenova.sbs:80/movie/4053771/7311694/1252732.mp4
 
@@ -203,6 +206,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Senado HD
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
