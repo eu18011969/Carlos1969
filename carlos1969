@@ -203,7 +203,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Senado HD
-https://stream1.freetv.fun/tv-senado-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -239,10 +238,10 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333998.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 09" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 09
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333995.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/334000.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 10
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333996.m3u8
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/334001.m3u8
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
