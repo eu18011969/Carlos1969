@@ -541,8 +541,12 @@ http://pkweb.ca:80/96050573/as895423/31130
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="Canais | Canais 24 horas",Chaves [SD]
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo [1]
 http://pkweb.ca:80/96050573/as895423/3169
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title="Canais | Canais 24 horas",Escolinha do Professor Raimundo [2]
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+
 
 #EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title="Canais | Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
 http://pkweb.ca:80/96050573/as895423/31131
