@@ -109,6 +109,9 @@ http://pkweb.ca:80/96050573/as895423/547
 ########################################### CANAIS SBT #########################################################
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",ALTEROSA
+http://toddyx.eu:80/685087662/850356885/1568692
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",+SBT 
 http://pkweb.ca:80/96050573/as895423/965
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT REDE MASSA
