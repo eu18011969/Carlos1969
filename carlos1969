@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 25-06-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 30-06-2025  17:25:15
 
 
 ############################################################# filme #####################################################
@@ -18,7 +18,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361081
 http://15.235.11.7:14146/MultiShowSD
 
 #EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title="Canais | VARIEDADES",GNT FHD
-http://dnscine.top:80/249568646/711524116/70.ts
+http://pkweb.ca:80/96050573/as895423/345  
 
 
 ############################################################ CANAIS GLOBO ##############################################################
@@ -68,7 +68,7 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m
 ########################################### INFANTIL #########################################################
 
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
-http://dnscine.top:80/249568646/711524116/69.ts
+http://pkweb.ca:80/96050573/as895423/339 
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantis",Cartoon Network
 http://pkweb.ca:80/96050573/as895423/131
@@ -76,13 +76,22 @@ http://pkweb.ca:80/96050573/as895423/131
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantis",Cartoonito FHD
 http://pkweb.ca:80/96050573/as895423/2199
 
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Canais | Infantis",Gloob
+http://pkweb.ca:80/96050573/as895423/335 
+
 ########################################### ANIMAL PLANET #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gerenciadorr.xyz:80/images/NjR9vhzGk-9GfDF7-QIDj3DEUHAZgOCq3sMs6IcukU4FM9Y4YTMHt3zZNgKGR-rLFz9osglFumhhwQoyyi6SjA.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://pkweb.ca:80/96050573/as895423/31
 
+#EXTINF:-1 tvg-id="" tvg-name="H2 HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 HISTORY
+http://pkweb.ca:80/96050573/as895423/346 
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Tp8tEw1CX5YIZW3WJYWHwgHaHa&pid=Api&P=0&h=180" group-title="CANAIS | DOCUMENTÁRIOS",CANAL DO BOI
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title="CANAIS | DOCUMENTÁRIOS",AGRO+
+http://pkweb.ca:80/96050573/as895423/23
 
 #EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="https://www.seekpng.com/png/detail/82-828788_national-geographic-channel-logo-vector-national-geographic.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
 http://pkweb.ca:80/series/96050573/as895423/191083.mp4
@@ -109,9 +118,6 @@ http://pkweb.ca:80/96050573/as895423/547
 ########################################### CANAIS SBT #########################################################
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",ALTEROSA
-http://cdn.srvmain.top:80/857636507/507174988/6423026.ts
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",+SBT 
 http://pkweb.ca:80/96050573/as895423/965
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT REDE MASSA
@@ -228,7 +234,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1528092
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528093
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 06" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 06
-http://sv1.casahd.com:80/carlinhos/carlinhos/1528094
+http://pkweb.ca:80/96050573/as895423/140
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 07" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 07
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
@@ -237,10 +243,10 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333998.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 09" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 09
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/334000.m3u8
+http://pkweb.ca:80/96050573/as895423/145
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="Canais | CINE SKY",Cine SKY 10
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/334001.m3u8
+http://pkweb.ca:80/96050573/as895423/146
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
@@ -269,6 +275,9 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361587
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361024
+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjarWDeiMf92rnVMKmxnO6DjVkcQ-jP9qznQ&s" group-title="Canais | FILMES E SERIES",HBO+
+http://pkweb.ca:80/96050573/as895423/362 
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361027
@@ -427,7 +436,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361458
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361462
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3
-http://dnscine.top:80/249568646/711524116/45.ts
+http://pkweb.ca:80/96050573/as895423/232 
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361468
@@ -436,7 +445,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361468
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361469
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6
-http://dnscine.top:80/249568646/711524116/47.ts
+http://pkweb.ca:80/96050573/as895423/226 
 
 
 ########################################### CANAIS BAND SPORTS #########################################################
