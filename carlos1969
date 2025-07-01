@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 01-07-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 30-06-2025  17:25:15
 
 
 ############################################################# filme #####################################################
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES",Ainda estou aqui(2024)
-http://daxoi.online:80/movie/luiz222/222luiz/3633845.mp4
 
 
 ############################################################## CANAIS VARIEDADES ###########################################################
@@ -23,10 +20,10 @@ http://pkweb.ca:80/96050573/as895423/345
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title="Canais | VARIEDADES",MASTER CHEF
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 
-#EXTINF:0 type="stream" group-title="24H" logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/ca/PesadelonaCozinha.jpg/revision/latest?cb=20170324142007&path-prefix=pt-br" group-title="Canais | VARIEDADES",Pesadelo na Cozinha
+#EXTINF:-1 tvg-id="" tvg-name="PESADELO NA COZINHA" tvg-logo=" " group-title="Canais | VARIEDADES",PESADELO NA COZINHA
 http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
 
-#EXTINF:0 type="stream" group-title="24H" logo="http://superhqs.unaux.com/img/tudo-em-caixa.png", Manual do Mundo
+#EXTINF:-1 tvg-id="" tvg-name="MANUAL DO MUNDO" tvg-logo=" " group-title="Canais | VARIEDADES",MAMUAL DO MUNDO
 http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
 
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" group-title="Canais | VARIEDADES", TV Difusão
@@ -155,13 +152,13 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
 
 ########################################### CANAIS RELIGIOSOS #########################################################
 
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes" group-title="Canais | Religios",Canção Nova HD
+#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes" group-title="Canais | Religiosos",Canção Nova HD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361183
 
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="Canais | Religios",GOSPEL MOVIES [FILMES] 
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="Canais | Religiosos",GOSPEL MOVIES [FILMES] 
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/52.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://imgur.com/5sLv99H.png" group-title="Canais | Religios",GOSPEL CARTOON [DESENHOS]
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://imgur.com/5sLv99H.png" group-title="Canais | Religiosos",GOSPEL CARTOON [DESENHOS]
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/117.m3u8
 
 ########################################### CANAIS RECORD TV #########################################################
