@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 30-06-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 01-07-2025  17:25:15
 
 
 ############################################################# filme #####################################################
@@ -20,6 +20,17 @@ http://15.235.11.7:14146/MultiShowSD
 #EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title="Canais | VARIEDADES",GNT FHD
 http://pkweb.ca:80/96050573/as895423/345  
 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title="Canais | VARIEDADES",MASTER CHEF
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
+
+#EXTINF:0 type="stream" group-title="24H" logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/ca/PesadelonaCozinha.jpg/revision/latest?cb=20170324142007&path-prefix=pt-br" group-title="Canais | VARIEDADES",Pesadelo na Cozinha
+http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
+
+#EXTINF:0 type="stream" group-title="24H" logo="http://superhqs.unaux.com/img/tudo-em-caixa.png", Manual do Mundo
+http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
+
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" group-title="Canais | VARIEDADES", TV Difusão
+https://tvd.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 
 ############################################################ CANAIS GLOBO ##############################################################
 
@@ -142,10 +153,16 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343853.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT NOVELAS
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
 
-########################################### CANAIS CANÇÃO NOVA #########################################################
+########################################### CANAIS RELIGIOSOS #########################################################
 
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes",Canção Nova HD
+#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes" group-title="Canais | Religios",Canção Nova HD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361183
+
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="Canais | Religios",GOSPEL MOVIES [FILMES] 
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/52.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://imgur.com/5sLv99H.png" group-title="Canais | Religios",GOSPEL CARTOON [DESENHOS]
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/117.m3u8
 
 ########################################### CANAIS RECORD TV #########################################################
 
@@ -169,7 +186,9 @@ http://79.127.238.228:14455/VIVA
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 70
 
+
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA + ANOS 80
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361277
@@ -461,6 +480,8 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361453
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
 https://cr7v.short.gy/manoiTVOP1/spnHD/ZAP075991634025/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title="Canais | LUTAS",COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
 ############################################### PARAMOUNT SPORTES#################################################################
 
@@ -579,7 +600,7 @@ http://pkweb.ca:80/96050573/as895423/190701
 http://pkweb.ca:80/96050573/as895423/188358
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/A_Grande_Fam%C3%ADlia_-_6%C2%AA%2C_7%C2%AA_Temporada.png/revision/latest?cb=20170408143503" group-title="Canais | Canais 24 horas",A GRANDE FAMILIA [2]
-http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
+http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
 
 
 ######################################## FUTEBOL GOAT TV #########################################################
