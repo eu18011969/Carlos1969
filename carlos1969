@@ -5,8 +5,12 @@
 
 ############################################################# filme #####################################################
 
-#EXTINF:-1 tvg-name="Ainda Estou Aqui (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg" group-title="Filmes | Lançamentos",Ainda Estou Aqui (2024)
+#EXTINF:-1 tvg-name="Ainda Estou Aqui (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg" group-title="Filmes",Ainda Estou Aqui (2024)
 http://turuggv.click:80/movie/2421727/4412484/1220237.mp4
+
+#EXTINF:-1 tvg-name="Jogo da Vida (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/8T2UY7AJX2ZlKmRkmcICeDzEiEj.jpg" group-title="Filmes",Jogo da Vida (2012)
+http://labxs.xyz:80/movie/480215434/997695213/3794767.mp4
+
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
@@ -103,6 +107,12 @@ http://pkweb.ca:80/96050573/as895423/2199
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Canais | Infantis",Gloob
 http://pkweb.ca:80/96050573/as895423/335 
+
+#EXTINF:-1 tvg-id="br#nick-jr-hd" tvg-name="Nick Jr. FHD" tvg-logo="http://images.gbound.lat/logos/KAxqeqfQ_o.png" group-title="Canais | Infantis",Nick Jr. FHD
+http://labxs.xyz:80/480215434/997695213/2474579.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="http://images.gbound.lat/logos/7iKcubbm_o.png" group-title="Canais | Infantis",Nickelodeon FHD
+http://labxs.xyz:80/480215434/997695213/2474580.ts
 
 ########################################### ANIMAL PLANET #########################################################
 
