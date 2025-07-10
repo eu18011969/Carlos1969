@@ -11,8 +11,6 @@ http://turuggv.click:80/movie/2421727/4412484/1220237.mp4
 #EXTINF:-1 tvg-name="Jogo da Vida (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/8T2UY7AJX2ZlKmRkmcICeDzEiEj.jpg" group-title="Filmes",Jogo da Vida (2012)
 http://labxs.xyz:80/movie/480215434/997695213/3794767.mp4
 
-#EXTINF:-1 tvg-name="Carga pessada" tvg-logo="" group-title="carga pessada", episodio 01
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1752175775/ei/P8BvaJnOGK7Z9cYPp4_aqAY/ip/2804:d45:372f:600:5cf7:a885:e4c4:b20/id/125d4af2a9299501/itag/230/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D75192945%3Bdur%3D2199.830%3Bgir%3Dyes%3Bitag%3D134%3Blmt%3D1719391267608172/rqh/1/hls_chunk_host/rr1---sn-uxaxh5g-jo4r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/met/1752154175,/mh/n0/mm/31,29/mn/sn-uxaxh5g-jo4r,sn-gpv7knee/ms/au,rdu/mv/m/mvi/1/pl/40/rms/au,au/initcwndbps/2338750/bui/AY1jyLMN4rvCuPvebKdJDrwVn8zuSWU-9RiUjgMtiRngC3gz7TqM0FNzXfePq9IRBPdi2EXEcQegbDFI/spc/l3OVKUG4T6JNBvfnaBv75UwK3ntWRt5MoQOx_NHCUZDk2MZK8zld0NLd521fR6Hr/vprv/1/playlist_type/DVR/dover/13/txp/8219224/mt/1752153690/fvip/4/short_key/1/keepalive/yes/fexp/51476175/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgD9YprpxDR5w54ucG0VdVlqF0WoEUINA-pTG3mlz7UPcCIQD_gj3_PRCfSJw61CopvuZwsOAoY3pDHYX1hteuuzRj-w%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRAIgCRAouwpnEy50tM_fG77aok0ya-f3yVWefrXdGiahLPsCIHalvdJMDFoSxuJ77NMh0-LvDXgFe6FSBo_Zq70zU1fq/playlist/index.m3u8
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
@@ -678,10 +676,78 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320639.m3u8
 
 ######################################### RADIO AO VIVO #########################################################
 
-#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/62/29/de62296b-e746-c04c-1eef-f1b5f6c0ee84/source/512x512bb.jpg" group-title="Canais | Radio ao vivo",Radio Muriaé 99-5 FM
+#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/62/29/de62296b-e746-c04c-1eef-f1b5f6c0ee84/source/512x512bb.jpg" group-title="RADIOS",Radio Muriaé 99-5 FM
 https://5a57bda70564a.streamlock.net/muriaeamhd/muriaeamhd.stream/chunklist_w417143985.m3u8
 
-#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/601/jovem-pan-fm-sao-paulo.c88a6569.png" group-title="Canais | Radio ao vivo",Jovem Pan 
+#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/601/jovem-pan-fm-sao-paulo.c88a6569.png" group-title="RADIOS",Jovem Pan 
 https://stream-167.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxtRi1aRUJHU0o2cUJZRm0waVBfU2ciLCJpYXQiOjE3MjY1OTg1NTYsImV4cCI6MTcyNjU5ODYxNn0.Cj4W3dVzsiGOMlLO0zw8hETBdwABBJmnUsq44x9fKWI
 
+#EXTINF:-1 tvg-id="" tvg-name="1 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="RADIOS",1 FM
+http://labxs.xyz:80/480215434/997695213/3787739.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="1 FM" tvg-logo="https://www.guiademidia.com.br/imagens/radios/sp/ribeirao-preto/radio-melody-fm.png" group-title="RADIOS",1 FM
+http://labxs.xyz:80/480215434/997695213/3787740.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="10 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio11417_1680640912.jpg" group-title="RADIOS",10 FM
+http://labxs.xyz:80/480215434/997695213/3787741.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio12826_1694429090.jpg" group-title="RADIOS",3 FM
+http://labxs.xyz:80/480215434/997695213/3787742.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HITS 7" tvg-logo="https://img.radios.com.br/radio/lg/radio80135_1538050223.png" group-title="RADIOS",HITS 7
+http://labxs.xyz:80/480215434/997695213/3787743.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="96 Bauru SP - 96 FM" tvg-logo="https://img.radios.com.br/radio/md/radio8756_1439401340.jpg" group-title="RADIOS",96 Bauru SP - 96 FM
+http://labxs.xyz:80/480215434/997695213/3787744.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 SP FM" tvg-logo="https://www.guiademidia.com.br/imagens/radios/sp/radio-antena-1-pna.png" group-title="RADIOS",Antena 1 SP FM
+http://labxs.xyz:80/480215434/997695213/3787745.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Beat 98" tvg-logo="https://img.radios.com.br/radio/lg/radio124904_1691159170.jpg" group-title="RADIOS",Beat 98
+http://labxs.xyz:80/480215434/997695213/3787746.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Catve FM" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Catve.png" group-title="RADIOS",Catve FM
+http://labxs.xyz:80/480215434/997695213/3787747.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Catve2" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Catve.png" group-title="RADIOS",Catve2
+http://labxs.xyz:80/480215434/997695213/3787748.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CBN Grandes Lagos 90.9 FM" tvg-logo="https://img.radios.com.br/radio/md/radio28672_1573683042.jpg" group-title="RADIOS",CBN Grandes Lagos 90.9 FM
+http://labxs.xyz:80/480215434/997695213/3787749.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cidade RJ - 102.9 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio62017_1648812690.jpg" group-title="RADIOS",Cidade RJ - 102.9 FM
+http://labxs.xyz:80/480215434/997695213/3787750.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="COCA COLA" tvg-logo="http://i.imgur.com/NeJf46K.jpg" group-title="RADIOS",COCA COLA
+http://labxs.xyz:80/480215434/997695213/3787751.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FLASHBACK" tvg-logo="https://img.radios.com.br/radio/xl/radio23957_1453719305.jpg" group-title="RADIOS",FLASHBACK
+http://labxs.xyz:80/480215434/997695213/3787752.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Pentecostal Deus é amor" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/deus-e-amor-logo-5.png" group-title="RADIOS",Igreja Pentecostal Deus é amor
+http://labxs.xyz:80/480215434/997695213/3787753.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan SP 620 AM" tvg-logo="https://img.radios.com.br/radio/md/radio8800_1542619415.jpg" group-title="RADIOS",Jovem Pan SP 620 AM
+http://labxs.xyz:80/480215434/997695213/3787754.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Nativa 95.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio14040_1677589865.png" group-title="RADIOS",Nativa 95.3 FM
+http://labxs.xyz:80/480215434/997695213/3787755.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Clube Do Forro - Antigas" tvg-logo="https://img.radios.com.br/radio/xl/radio98980_1547059509.jpg" group-title="RADIOS",Radio Clube Do Forro - Antigas
+http://labxs.xyz:80/480215434/997695213/3787756.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Modão" tvg-logo="https://lh3.googleusercontent.com/t2dA8aUCMaaAsKpCn1_FOQTROhDZObtTNvv7i-8f2Bpy5hyCf1ygHKMrFkqcBP1qnWwW" group-title="RADIOS",Rádio Modão
+http://labxs.xyz:80/480215434/997695213/3787757.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="98.3MHz - João Pessoa" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Correio98fm.png" group-title="RADIOS",98.3MHz - João Pessoa
+http://labxs.xyz:80/480215434/997695213/3787758.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Mix FM - 93.7MHz - João Pessoa" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Logotipo_da_Mix_FM_Jo%C3%A3o_Pessoa.png" group-title="RADIOS",Mix FM - 93.7MHz - João Pessoa
+http://labxs.xyz:80/480215434/997695213/3787759.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Ultra FM de Maricá" tvg-logo="https://www.radioultrafm.com.br/imgs/layout/logo.png" group-title="RADIOS",Rádio Ultra FM de Maricá
+http://labxs.xyz:80/480215434/997695213/3787760.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Transamérica FM Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png" group-title="RADIOS",Transamérica FM Recife
+http://labxs.xyz:80/480215434/997695213/3787761.ts
 
