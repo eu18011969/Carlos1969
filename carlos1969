@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 08-07-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 10-07-2025  17:25:15
 
 
 ############################################################# filme #####################################################
@@ -13,6 +13,16 @@ http://labxs.xyz:80/movie/480215434/997695213/3794767.mp4
 
 #EXTINF:-1 tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/iNMP8uzV2Ing6ZCw0IICgEFVNfC.jpg" group-title="Filmes",Avatar (2009)
 http://labxs.xyz:80/movie/480215434/997695213/3791502.mp4
+
+#EXTINF:-1 tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8v3lrllHYRrqEdYWLyscH4RGFDO.jpg" group-title="Filmes",Top Gun: Maverick (2022)
+http://labxs.xyz:80/movie/480215434/997695213/3799847.mp4
+
+#EXTINF:-1 tvg-name="Thor: Amor e Trovão (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg" group-title="Filmes",Thor: Amor e Trovão (2022)
+http://labxs.xyz:80/movie/480215434/997695213/3799750.mp4
+
+#EXTINF:-1 tvg-name="Tudo em Todo o Lugar ao Mesmo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg" group-title="Filmes",Tudo em Todo o Lugar ao Mesmo Tempo (2022)
+http://labxs.xyz:80/movie/480215434/997695213/3799961.mp4
+
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
@@ -47,9 +57,6 @@ http://labxs.xyz:80/480215434/997695213/3556084.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Power Couple 2025 sinal 4 HD" tvg-logo="https://imagem.natelinha.uol.com.br/original/elenco-nova-temporada-power-couple_1578.jpeg" group-title="REALITY",Power Couple 2025 sinal 4 HD
 http://labxs.xyz:80/480215434/997695213/3556085.ts
-
-
-
 
 
 ############################################################ CANAIS GLOBO ##############################################################
