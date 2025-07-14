@@ -47,7 +47,7 @@ http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
 
 ############################################################ CANAIS GLOBO ##############################################################
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo TV Integracao Juiz de Fora MG HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://2.bp.blogspot.com/-3UVNA7xXh2A/VjSqJGfI0jI/AAAAAAAAAEI/n9PeIfCJ4e4/s1600/tvintegracao.jpg" group-title=" GLOBO",Globo TV Integracao Juiz de Fora MG HD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361001
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo RJ HD
