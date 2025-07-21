@@ -239,6 +239,9 @@ http://pkweb.ca:80/96050573/as895423/547
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",ALTEROSA
 http://labxs.xyz:80/480215434/997695213/3787397.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="• POP" tvg-logo="https://i.imgur.com/3JRXHWX.png" group-title=" SBT",SBT MG
+http://labxs.xyz:80/480215434/997695213/3787397.ts
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT REDE MASSA
 http://pkweb.ca:80/96050573/as895423/562
 
