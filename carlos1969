@@ -136,9 +136,6 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/50097.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title=" GLOBO",Globo BA HD
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO BRASILIA FHD
 http://labxs.xyz:80/051790912/347154456/3787191.ts
 
