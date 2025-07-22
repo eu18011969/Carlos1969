@@ -751,6 +751,8 @@ http://pkweb.ca:80/96050573/as895423/190701
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title=" Canais 24 horas",FAMILIA DINOSSAURO
 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title=" Canais 24 horas",Tô d Graça 24h
+http://24hrs.homelinux.com:8080/24H-todegraca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title=" Canais 24 horas",A GRANDE FAMILIA [1]
 http://pkweb.ca:80/96050573/as895423/188358
