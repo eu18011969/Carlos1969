@@ -254,6 +254,9 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18608.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT +SAUDADES
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343851.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title=" SBT",+SBT HD
+https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HUMOR" tvg-logo="http://st1.cdn-us.co:8080/icon/9-b-1726142407372.png" group-title=" SBT",SBT HUMOR
 
 #EXTINF:-1 group-title=" SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + SILVIO SANTOS
