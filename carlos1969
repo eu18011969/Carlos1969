@@ -392,6 +392,10 @@ http://pkweb.ca:80/96050573/as895423/145
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 10
 http://pkweb.ca:80/96050573/as895423/146
 
+######################################### CANAIS Bang Bamg ##############################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title=" FILMES BANG BANG",cANAL 1
+https://abre.ai/lSy5
+
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title=" FILMES E SERIES",SPACE
