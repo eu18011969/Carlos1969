@@ -141,9 +141,6 @@ http://labxs.xyz:80/051790912/347154456/2474004.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGRO+
 http://pkweb.ca:80/96050573/as895423/23
 
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="https://www.seekpng.com/png/detail/82-828788_national-geographic-channel-logo-vector-national-geographic.png" group-title=" DOCUMENTÁRIOS",National Geographic SD
-http://labxs.xyz:80/series/480215434/997695213/3816290.mp4
-
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title=" BAND TV",Band MG
@@ -710,7 +707,7 @@ http://labxs.xyz:80/051790912/347154456/4009067.ts
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 HD²" tvg-logo="http://contentsdeliver.link/logos/cazetvhd.png" group-title=" FUTEBOL CAZE TV",CAZE TV 1 SD
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/327186.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 FHD¹" tvg-logo="http://contentsdeliver.link/logos/cazetvfhd.png" group-title=" FUTEBOL CAZE TV",CAZE TV 2 FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
