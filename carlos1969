@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 18-07-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 24-07-2025  17:25:15
 
 
 ############################################################# filme #####################################################
@@ -22,77 +22,6 @@ http://labxs.xyz:80/movie/480215434/997695213/3799750.mp4
 
 #EXTINF:-1 tvg-name="Tudo em Todo o Lugar ao Mesmo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg" group-title="Filmes",Tudo em Todo o Lugar ao Mesmo Tempo (2022)
 http://labxs.xyz:80/movie/480215434/997695213/3799961.mp4
-
-############################################################# A Usurpadora ##########################################################
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 80
-https://cdn-novflix.com/storage5/AUS/AUS-080.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 81
-https://cdn-novflix.com/storage5/AUS/AUS-081.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 82
-https://cdn-novflix.com/storage5/AUS/AUS-082.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 83
-https://cdn-novflix.com/storage5/AUS/AUS-083.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 84
-https://cdn-novflix.com/storage5/AUS/AUS-084.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 85
-https://cdn-novflix.com/storage5/AUS/AUS-085.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 86
-https://cdn-novflix.com/storage5/AUS/AUS-086.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 87
-https://cdn-novflix.com/storage5/AUS/AUS-087.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 88
-https://cdn-novflix.com/storage5/AUS/AUS-088.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 89
-https://cdn-novflix.com/storage5/AUS/AUS-089.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 90
-https://cdn-novflix.com/storage5/AUS/AUS-090.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 91
-https://cdn-novflix.com/storage5/AUS/AUS-091.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 92
-https://cdn-novflix.com/storage5/AUS/AUS-092.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 93
-https://cdn-novflix.com/storage5/AUS/AUS-093.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 94
-https://cdn-novflix.com/storage5/AUS/AUS-094.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 95
-https://cdn-novflix.com/storage5/AUS/AUS-095.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 96
-https://cdn-novflix.com/storage5/AUS/AUS-096.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 97
-https://cdn-novflix.com/storage5/AUS/AUS-097.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 98
-https://cdn-novflix.com/storage5/AUS/AUS-098.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 99
-https://cdn-novflix.com/storage5/AUS/AUS-099.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 100
-https://cdn-novflix.com/storage5/AUS/AUS-100.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 101
-https://cdn-novflix.com/storage5/AUS/AUS-101.mp4
-
-#EXTINF:-1 tvg-logo="" group-title=" A Usurpadora ",A Usurpadora 102
-https://cdn-novflix.com/storage5/AUS/AUS-102.mp4
 
 
 ############################################################## CANAIS VARIEDADES ###########################################################
@@ -206,7 +135,7 @@ http://pkweb.ca:80/96050573/as895423/346
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Tp8tEw1CX5YIZW3WJYWHwgHaHa&pid=Api&P=0&h=180" group-title=" DOCUMENTÁRIOS",CANAL DO BOI
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22304.m3u8
 
-#EXTINF:-1 tvg-id="br#fish-tv-hd" tvg-name="Fish TV FHD" tvg-logo="http://images.gbound.lat/logos/8OUuEpbB_o.png" group-title="DOCUMENTÁRIOS",Fish TV FHD
+#EXTINF:-1 tvg-id="br#fish-tv-hd" tvg-name="Fish TV FHD" tvg-logo="http://images.gbound.lat/logos/8OUuEpbB_o.png" group-title=" DOCUMENTÁRIOS",Fish TV FHD
 http://labxs.xyz:80/051790912/347154456/2474004.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGRO+
@@ -237,7 +166,7 @@ http://pkweb.ca:80/96050573/as895423/547
 ########################################### CANAIS SBT #########################################################
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",ALTEROSA
-http://labxs.xyz:80/480215434/997695213/3787397.ts
+http://labxs.xyz:80/051790912/347154456/3787736.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="• POP" tvg-logo="https://i.imgur.com/3JRXHWX.png" group-title=" SBT",SBT MG
 http://labxs.xyz:80/480215434/997695213/3787397.ts
@@ -392,8 +321,10 @@ http://pkweb.ca:80/96050573/as895423/145
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 10
 http://pkweb.ca:80/96050573/as895423/146
 
-######################################### CANAIS Bang Bamg ##############################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title=" FILMES BANG BANG",cANAL 1
+
+######################################### CANAIS BANG BANG ##############################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="FILMES BANG BANG",Canal 1
 https://abre.ai/lSy5
 
 ######################################### CANAIS FILMES E SERIES ##############################################################
@@ -584,46 +515,46 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361487
 
 #################################################### DISNEY + ####################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 1 HD¹
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59969.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 1 HD²
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59952.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1  HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 1  HD*
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1  HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1  HD*
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/62457.m3u8
 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="DISNEY+ 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 1 HD ᶜᴰᴺ²
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="DISNEY+ 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1 HD ᶜᴰᴺ²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/162405.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 2 HD¹
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 2 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64734.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 2 HD²
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 2 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59970.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 2 HD*
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 2 HD*
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18959.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 3 HD¹
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 3 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64707.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 3 HD²
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 3 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59971.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 4 HD¹
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 4 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64708.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 4 HD²
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 4 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297171.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 5 HD¹
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 5 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59972.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 5 HD²
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 5 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297172.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES"DISNEY+ 6 HD²
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 6 HD²
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297173.m3u8
 
 ############################################ CANAIS ESPN ###############################################################
@@ -753,6 +684,7 @@ http://pkweb.ca:80/96050573/as895423/190701
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title=" Canais 24 horas",Tô d Graça 24h
 http://24hrs.homelinux.com:8080/24H-todegraca/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title=" Canais 24 horas",A GRANDE FAMILIA [1]
 http://pkweb.ca:80/96050573/as895423/188358
