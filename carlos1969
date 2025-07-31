@@ -711,6 +711,17 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320638.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title=" FUTEBOL ONEFOOTBALL",ONEFOOTBALL 4 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320639.m3u8
 
+################################################################## FOX ESPORTES ##########################################
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://logospng.org/wp-content/uploads/fox-sports.png" group-title=" FOX ESPORTES", FOX ESPORTES 1
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://logospng.org/wp-content/uploads/fox-sports.png" group-title=" FOX ESPORTES", FOX ESPORTES 2
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://logospng.org/wp-content/uploads/fox-sports.png" group-title=" FOX ESPORTES", FOX ESPORTES 3
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
 ######################################### RADIO AO VIVO #########################################################
 
 #EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/62/29/de62296b-e746-c04c-1eef-f1b5f6c0ee84/source/512x512bb.jpg" group-title="RADIOS",Radio Muriaé 99-5 FM
