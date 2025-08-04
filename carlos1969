@@ -248,8 +248,7 @@ https://011news.akamaized.net/011news/011news/playlist.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title=" NOTÍCIAS",TV Senado HD
-http://labxs.xyz:80/480215434/997695213/3787786.ts
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1754360307/ei/kxWRaMOrFoOK9cYP96jm2A8/ip/2804:d45:372f:600:89e6:62f:6a7b:772b/id/IB0rTQtzlk8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uxaxh5g-jo46.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOJr_n36g3K1bry-wg3KowtZM1Z3DMaPhQzhQh8i7JGrjCMnwyJSGNcmioHVNRHFPz9bdR4Jj3a/spc/l3OVKaefoiOZJFhXi5UpQwhCiEJV6DwC3WvMlzwYFdGbDct3gOlB1DTk6SZM2-F4ukw/vprv/1/playlist_type/DVR/initcwndbps/2155000/met/1754338711,/mh/Du/mm/44/mn/sn-uxaxh5g-jo46/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1754338361/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgZ5K9yAm4j4zXDx_Oj2q3XaWum9MnvxmBTx6DxVBc-QECIQCt7zu0bhpVc88vtiGK7KHHyNlSa-TvKA8x401cj-KudQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgP_Y7D-6tPBcZsFS6HutXNm-i-7Gl9y9h864R_gFGd8YCIQC3wEFj_NRDKUnMlys5RpYZCrz2PkhwgdCfY45qDvA6ZQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title=" NOTÍCIAS",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
 
