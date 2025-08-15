@@ -3,16 +3,13 @@
 #EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 01-08-2025  17:25:15
 
 
-##################################################   atualização ####################################################
-  #EXTINF:-1 tvg-name="Atualizção" tvg-logo="" group-title=" Atualização", Carlos Rocha 07-08-2025 17:25:15
-
 
 ############################################################# filme #####################################################
 
 #EXTINF:-1 tvg-name="Ainda Estou Aqui (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg" group-title="Filmes",Ainda Estou Aqui (2024)
 http://turuggv.click:80/movie/2421727/4412484/1220237.mp4
 
-#EXTINF:-1 tvg-name="De Volta ao Baile (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg" group-title="Filmes",De Volta ao Baile (2022)
+#EXTINF:-1 tvg-name="De Volta ao Baile (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg" group-title="FILMES1",De Volta ao Baile (2022)
 http://labxs.xyz:80/movie/881562298/070775862/4150071.mp4
 
 ############################################################## CANAIS VARIEDADES ###########################################################
@@ -59,10 +56,11 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/50097.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO BRASILIA FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/278
+http://meucb.top:80/douglas20102010/Ss12345678/131164.ts
 
 #EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO ES HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO ES HD°
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/333
+http://meucb.top:80/douglas20102010/Ss12345678/131154.ts
+
 
 ######################################################## CANAIS REDE MINAS #########################################################
 
@@ -208,10 +206,10 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/117.m3u8
 http://pkweb.ca:80/96050573/as895423/1038
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title=" RECORD TV",RecordTV RJ
-http://pkweb.ca:80/96050573/as895423/1035
+http://cdn.bomberstream.xyz/huan/recordtvrjhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title=" RECORD TV",RecordTV SP
-http://pkweb.ca:80/96050573/as895423/527
+http://cdn.bomberstream.xyz/huan/recordtvhd/chunks.m3u8
 
 ################################################# CANAIS NOVELAS ##############################################################
 
