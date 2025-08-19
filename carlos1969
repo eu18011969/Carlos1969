@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 19-08-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 19-08-2025  17:25:15
 
 
 
@@ -63,13 +63,13 @@ http://srv03.cc:80/725158922/795582211/6563764.ts
 
 ########################################################### AMAZON FUTEBOL  ##############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" AMAZON",Amazon Prime Video 01
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 01
 http://srv03.cc:80/725158922/795582211/5079599.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" AMAZON",Amazon Prime Video 02
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 02
 
 http://srv03.cc:80/725158922/795582211/5079600.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" AMAZON",Amazon Prime Video 03
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 03
 
 
 ######################################################## CANAIS REDE MINAS #########################################################
