@@ -163,7 +163,7 @@ http://srv03.cc:80/725158922/795582211/4794418.ts
 ########################################### CANAIS SBT #########################################################
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",ALTEROSA
-http://srv03.cc:80/725158922/795582211/6423025.ts
+http://srv03.cc:80/159688766/328841855/6423025.ts
 
 º#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT MG 
 
@@ -306,7 +306,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333998.m3u8
 http://srv03.cc:80/725158922/795582211/4908867.ts
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 10
-http://pkweb.ca:80/96050573/as895423/146
+http://srv03.cc:80/159688766/328841855/4908866.ts
 
 ######################################### CANAIS BANG BANG ##############################################################
 
@@ -635,13 +635,10 @@ http://srv03.cc:80/725158922/795582211/5523345.ts
 http://pkweb.ca:80/96050573/as895423/154406
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title=" Canais 24 horas",Chaves [HD]
-http://srv03.cc:80/725158922/795582211/7142373.ts
-
-#EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title=" Canais 24 horas",Chaves [SD]
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+http://srv03.cc:80/159688766/328841855/7142373.tsXZ
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title=" Canais 24 horas",Chapolin Colorado 
-http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
+http://srv03.cc:80/159688766/328841855/7142372.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title=" Canais 24 horas",Escolinha do Professor Raimundo [1]
 http://srv03.cc:80/725158922/795582211/7142383.ts
