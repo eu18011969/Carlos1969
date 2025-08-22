@@ -673,13 +673,13 @@ http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 ######################################## FUTEBOL GOAT TV #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="GOAT 01" tvg-logo="https://i.imgur.com/Urzum0D.png" group-title=" GOAT TV",GOAT 01
-http://labxs.xyz:80/881562298/070775862/4405920.ts
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/301262.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GOAT 02" tvg-logo="https://i.imgur.com/Urzum0D.png" group-title=" GOAT TV",GOAT 02
-http://labxs.xyz:80/881562298/070775862/4405922.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 01" tvg-logo="https://i.imgur.com/Urzum0D.png" group-title=" GOAT TV",GOAT 02
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320630.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOAT 03" tvg-logo="https://i.imgur.com/Urzum0D.png" group-title=" GOAT TV",GOAT 03
-http://srv03.cc:80/725158922/795582211/6654159.ts
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320631.m3u8
 
 ########################################## FUTEBOL CAZE TV ###########################################################
 
