@@ -165,6 +165,9 @@ http://srv03.cc:80/725158922/795582211/4794418.ts
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",ALTEROSA
 http://srv03.cc:80/159688766/328841855/6423025.ts
 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",ALTEROSA hd
+http://dns.gtvplay.fun:80/664086854/131189925/6423025.ts
+
 º#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT MG 
 
 
