@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 19-08-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 01-09-2025  17:25:15
 
 
 
@@ -14,7 +14,7 @@ http://labxs.xyz:80/movie/881562298/070775862/4150071.mp4
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD 1
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361081
 
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title=" VARIEDADES",Multishow FHD
@@ -36,7 +36,7 @@ http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
 http://cdn.bomberstream.xyz/huan/foodnetworkhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="http://images.gbound.lat/logos/bjOlE3PT_o.png" group-title=" VARIEDADES",HGTV HD
-http://cdn.bomberstream.xyz/huan/hgtvhd/chunks.m3u8
+http://srv1.cc:80/372156448/189227354/4794360.ts
 
 ############################################################ CANAIS GLOBO ##############################################################
 
@@ -378,7 +378,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361617
 http://labxs.xyz:80/881562298/070775862/4405970.ts
 
 #EXTINF:-1 tvg-id="br#studio-universal-hd" tvg-name="Studio Universal FHD" tvg-logo="http://images.gbound.lat/logos/PUZoFdtE_o.png" group-title=" FILMES E SERIES",Studio Universal FHD
-http://cdn.bomberstream.xyz/huan/studiouniversalhd/chunks.m3u8
+http://srv1.cc:80/372156448/189227354/6530741.ts
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title=" FILMES E SERIES",Lifetime
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361266
