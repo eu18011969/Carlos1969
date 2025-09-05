@@ -55,8 +55,8 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO BRASILIA FHD
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62199
 
-#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO ES HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO ES HD°
-http://srv03.cc:80/725158922/795582211/6563764.ts
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO ES HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",IPTV RIBEIRÃO PRETO
+http://danfs.xyz:80/546618693/527386673/1352217
 
 ########################################################### AMAZON FUTEBOL  ##############################################################################
 
