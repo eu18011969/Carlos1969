@@ -64,10 +64,10 @@ http://srv03.cc:80/725158922/795582211/6563764.ts
 http://srv03.cc:80/725158922/795582211/5079599.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 02
-
 http://srv03.cc:80/725158922/795582211/5079600.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 03
 
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 03
+http://srv1.cc:80/682313609/397069395/5079601.ts
 
 ######################################################## CANAIS REDE MINAS #########################################################
 
@@ -134,6 +134,19 @@ http://srv03.cc:80/725158922/795582211/4794354.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGRO+
 http://srv03.cc:80/725158922/795582211/7112958.ts
+
+##################################################### REALITY ##########################################################################
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Estrela da Casa 1
+https://cr7v.short.gy/ManoTV/esc1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Estrela da Casa 2
+https://cr7v.short.gy/ManoTV/esc2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Mosaico 
+http://uniflow.zip:80/live/861296629/K376B5181g/582798.m3u8
+
 
 ########################################### CANAIS BAND #########################################################
 
@@ -678,40 +691,30 @@ http://srv03.cc:80/725158922/795582211/6654159.ts
 ########################################## FUTEBOL CAZE TV ###########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 1" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 1
-http://labxs.xyz:80/881562298/070775862/4405879.ts
+http://srv1.cc:80/682313609/397069395/5524558.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 2" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 2
-http://labxs.xyz:80/881562298/070775862/4405880.ts
+http://srv1.cc:80/682313609/397069395/5524559.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 3" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 3
-http://labxs.xyz:80/881562298/070775862/4405881.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 4" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 4
-http://labxs.xyz:80/881562298/070775862/4405882.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 5" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 5
-http://labxs.xyz:80/881562298/070775862/4405883.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 6" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 6
-http://labxs.xyz:80/881562298/070775862/4405884.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 1" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 7
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-
+http://srv1.cc:80/682313609/397069395/5524560.ts
 
 #################################################### APPLE TV ##################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 01 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320632.m3u8
+http://srv1.cc:80/682313609/397069395/4794832.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="APPLE TV 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 02 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320633.m3u8
+http://srv1.cc:80/682313609/397069395/4794833.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="APPLE TV 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 03 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320634.m3u8
+http://srv1.cc:80/682313609/397069395/4794834.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="APPLE TV 04 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 04 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320635.m3u8
+
+
+
+######################################################### ONEFOOTBALL ###################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/onefootballhd.png" group-title=" FUTEBOL ONEFOOTBALL",ONEFOOTBALL 1 HD¹
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320636.m3u8
