@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 11-09-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 08-09-2025  17:25:15
 
 
 
@@ -862,6 +862,9 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
 #EXTINF:-1 group-title="  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes" group-title=" Religiosos",Canção Nova HD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361183
 
+#EXTINF:-1 tvg-id="" tvg-name="TV MARANATA HD" tvg-logo="http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiMjYtjqQT1q4hhveOrBwEBW2PMsjm-olrO6w1iiK3NdUax1ymLcRMsK-l3ZsiHX1uHoggKhrjPE5plWrDWO2909XRnR3-ks_8SRXUh1GxqAPWRW6q-r5X1c_xIE6F7YAb8pAdp2nNVSCjzbpULQA7U.png" group-title=" Religiosos",TV MARANATA HD
+http://dnscine.top:80/8C6SU1/HeACvY/389.ts
+
 #EXTINF:-1 tvg-id="br#rede-gospel-hd" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/POchL37.png" group-title=" Religiosos",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
@@ -1233,7 +1236,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18637.m3u8
 ########################################### CANAIS LUTAS ##############################################################
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title=" LUTAS",Combate
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361453
+http://dnscine.top:80/8C6SU1/HeACvY/22.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title=" LUTAS",UFC Fightpass
 https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
@@ -1295,6 +1298,12 @@ http://srv03.cc:80/725158922/795582211/5523345.ts
 
 ################################################## Canais 24 horas  ##################################################
 
+#EXTINF:-1 tvg-id="Sessao.da.Tarde.24H" tvg-name="Sessão da Tarde 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR2vfOrYViA6q5fm5JkADm-bv3VL86Hn1C9B1ePoz3fhw.png" group-title=" Canais 24 horas",Sessão da Tarde 24H
+http://dnscine.top:80/8C6SU1/HeACvY/202266.ts
+
+#EXTINF:-1 tvg-id="Polishop.TV.HD" tvg-name="POLISHOP FHD" tvg-logo="" group-title=" Canais 24 horas",POLISHOP FHD
+http://dnscine.top:80/8C6SU1/HeACvY/294.ts
+
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title=" Canais 24 horas",Chaves [HD]
 http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
 
@@ -1311,7 +1320,7 @@ http://24hrs.homelinux.com/24H-escolinhaold/video.m3u8
 http://dnscine.top:80/8C6SU1/HeACvY/202268.ts
 
 #EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title=" Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
-http://srv03.cc:80/725158922/795582211/7142367.ts
+http://dnscine.top:80/8C6SU1/HeACvY/202232.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t4x_G248bb3k0Nq8jj07TwAAAA&pid=Api&P=0&h=180" group-title=" Canais 24 horas",Os Trapalhões
 http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
