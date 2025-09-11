@@ -9,6 +9,9 @@
 #EXTINF:-1 tvg-name="Ainda Estou Aqui (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg" group-title=" FILMES",Ainda Estou Aqui (2024)
 http://turuggv.click:80/movie/2421727/4412484/1220237.mp4
 
+#EXTINF:-1 tvg-name="De Volta ao Baile (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg" group-title=" FILMES",De Volta ao Baile (2022)
+http://labxs.xyz:80/movie/881562298/070775862/4150071.mp4
+
 ############################################################## NOVELA RENASCER ###################################################
 #EXTINF:-1 tvg-name="Renascer S01E01" tvg-logo="http://dnscine.top:80/images/a6e69c446d98995fc43c494f8566bd10.jpg" group-title="Novelas",Renascer S01E01
 http://dnscine.top:80/series/8C6SU1/HeACvY/1975720.mp4
@@ -675,13 +678,13 @@ http://srv03.cc:80/725158922/795582211/4793596.ts
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PESADELO NA COZINHA" tvg-logo="https://ellasmagazine.com.br/wp-content/uploads/2025/02/pesadelo_na_cozinha_retorna_em_2025__saiba_mais_8e288b7d.webp" group-title=" VARIEDADES",PESADELO NA COZINHA
-http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MANUAL DO MUNDO" tvg-logo="https://i.ytimg.com/vi/SrUgg03-uQY/maxresdefault.jpg" group-title=" VARIEDADES",MAMUAL DO MUNDO
-http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
+
 
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="http://images.gbound.lat/logos/4zCM4OKh_o.png" group-title=" VARIEDADES",Food Network FHD
-http://cdn.bomberstream.xyz/huan/foodnetworkhd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="http://images.gbound.lat/logos/bjOlE3PT_o.png" group-title=" VARIEDADES",HGTV HD
 http://srv1.cc:80/372156448/189227354/4794360.ts
@@ -701,10 +704,10 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/50097.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO BRASILIA FHD
-http://dnscine.top:80/8C6SU1/HeACvY/707.ts
+http://dnscine.top:80/8C6SU1/HeACvY/585.ts
 
-#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO ES HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",IPTV RIBEIRÃO PRETO
-http://dnscine.top:80/8C6SU1/HeACvY/707.ts
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO ES HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO MINAS 
+http://dnscine.top:80/8C6SU1/HeACvY/202393.ts
 
 ########################################################### AMAZON FUTEBOL  ##############################################################################
 
@@ -1294,7 +1297,7 @@ http://srv03.cc:80/725158922/795582211/5523345.ts
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Area Restrita" tvg-logo="http://im.elisx8.ca:80/images/203e99cb097a9bc4da61343e0096d535.png" group-title=" Canais 24 horas",Aeroporto: Area Restrita
-http://pkweb.ca:80/96050573/as895423/154406
+
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title=" Canais 24 horas",Chaves [HD]
 http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
@@ -1308,10 +1311,7 @@ http://15.235.9.200:14904/
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title=" Canais 24 horas",Escolinha do Professor Raimundo [2]
 http://24hrs.homelinux.com/24H-escolinhaold/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24HRS SAI DE BAIXO" tvg-logo="https://logos.maintech.top/logosam/24hrs/base%20blade.jpg" group-title=" Canais 24 horas",SAI DE BAIXO
-http://srv03.cc:80/725158922/795582211/7142362.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="24HRS SAI DE BAIXO" tvg-logo="https://logos.maintech.top/logosam/24hrs/base%20blade.jpg" group-title=" Canais 24 horas",SAI DE BAIXO 1
+#EXTINF:-1 tvg-id="" tvg-name="24HRS SAI DE BAIXO" tvg-logo="https://logos.maintech.top/logosam/24hrs/base%20blade.jpg" group-title=" Canais 24 horas",SAI DE BAIXO 
 http://dnscine.top:80/8C6SU1/HeACvY/202268.ts
 
 #EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title=" Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
@@ -1333,7 +1333,7 @@ http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
 http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/A_Grande_Fam%C3%ADlia_-_6%C2%AA%2C_7%C2%AA_Temporada.png/revision/latest?cb=20170408143503" group-title=" Canais 24 horas",A GRANDE FAMILIA [2]
-http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
+
 
 #EXTINF:-1 tvg-id="Familia.Dinossauro..24H" tvg-name="Familia Dinossauro  24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSky8YaqdqWkYdAtZ0wz6shFXc8luLN655FWx_sp2ahAg.jpg" group-title=" Canais 24 horas",Familia Dinossauro  24H
 http://dnscine.top:80/8C6SU1/HeACvY/202238.ts
