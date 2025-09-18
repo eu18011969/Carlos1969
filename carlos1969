@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 08-09-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 18-09-2025  17:25:15
 
 
 
@@ -667,13 +667,13 @@ http://dnscine.top:80/series/8C6SU1/HeACvY/1975857.mp4
 ############################################################## CANAIS VARIEDADES ###########################################################
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361081
+http://dnscine.top:80/8C6SU1/HeACvY/98.ts
 
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title=" VARIEDADES",Multishow FHD
 http://15.235.11.7:14146/MultiShowSD
 
 #EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title=" VARIEDADES",GNT FHD
-http://srv03.cc:80/725158922/795582211/4793596.ts  
+http://dnscine.top:80/8C6SU1/HeACvY/530.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title=" VARIEDADES",MASTER CHEF
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
@@ -685,7 +685,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 
 
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="http://images.gbound.lat/logos/4zCM4OKh_o.png" group-title=" VARIEDADES",Food Network FHD
-
+http://dnscine.top:80/8C6SU1/HeACvY/58.ts
 
 #EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="http://images.gbound.lat/logos/bjOlE3PT_o.png" group-title=" VARIEDADES",HGTV HD
 http://srv1.cc:80/372156448/189227354/4794360.ts
@@ -699,7 +699,7 @@ http://dnscine.top:80/8C6SU1/HeACvY/516.ts
 http://79.127.238.228:14217/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo SP
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/50097.m3u8
+http://dnscine.top:80/8C6SU1/HeACvY/446.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -757,22 +757,22 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m
 ########################################### INFANTIL #########################################################
 
 #EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title=" Infantis",GLOOBINHO [FHD]
-http://srv03.cc:80/725158922/795582211/4794394.ts
+http://dnscine.top:80/8C6SU1/HeACvY/272.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title=" Infantis",Cartoon Network
-http://srv03.cc:80/159688766/328841855/4794378.ts
+http://dnscine.top:80/8C6SU1/HeACvY/16.ts
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title=" Infantis",Cartoonito FHD
-http://srv03.cc:80/725158922/795582211/4794382.ts
+http://dnscine.top:80/8C6SU1/HeACvY/607.ts
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title=" Infantis",Gloob
-http://srv03.cc:80/725158922/795582211/4794391.ts
+http://dnscine.top:80/8C6SU1/HeACvY/66.ts
 
 #EXTINF:-1 tvg-id="br#nick-jr-hd" tvg-name="Nick Jr. FHD" tvg-logo="http://images.gbound.lat/logos/KAxqeqfQ_o.png" group-title=" Infantis",Nick Jr. FHD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="http://images.gbound.lat/logos/7iKcubbm_o.png" group-title=" Infantis",Nickelodeon FHD
-http://srv03.cc:80/725158922/795582211/6029752.ts
+http://dnscine.top:80/8C6SU1/HeACvY/108.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title=" Infantis",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -780,19 +780,19 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 ########################################### DOCUMENTÁRIOS #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uS3b8sW.png" group-title=" DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://srv03.cc:80/725158922/795582211/4794330.ts
+http://dnscine.top:80/8C6SU1/HeACvY/4.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="H2 HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title=" DOCUMENTÁRIOS",H2 HISTORY
-http://srv03.cc:80/725158922/795582211/4794357.ts
+http://dnscine.top:80/8C6SU1/HeACvY/90.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Tp8tEw1CX5YIZW3WJYWHwgHaHa&pid=Api&P=0&h=180" group-title=" DOCUMENTÁRIOS",CANAL DO BOI
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22304.m3u8
 
 #EXTINF:-1 tvg-id="br#fish-tv-hd" tvg-name="Fish TV FHD" tvg-logo="http://images.gbound.lat/logos/8OUuEpbB_o.png" group-title=" DOCUMENTÁRIOS",Fish TV FHD
-http://srv03.cc:80/725158922/795582211/4794354.ts
+http://dnscine.top:80/8C6SU1/HeACvY/531.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGRO+
-http://srv03.cc:80/725158922/795582211/7112958.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGRO BRASIL
+http://dnscine.top:80/8C6SU1/HeACvY/232.ts
 
 ##################################################### REALITY ##########################################################################
 
@@ -821,10 +821,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
 ########################################### CANAIS RedeTV ########################################################
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title=" RedeTV",RedeTV! FHD
-http://srv03.cc:80/725158922/795582211/4794417.ts
+http://dnscine.top:80/8C6SU1/HeACvY/772.ts
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title=" RedeTV",RedeTV! HD
-http://srv03.cc:80/725158922/795582211/4794418.ts
+http://dnscine.top:80/8C6SU1/HeACvY/134.ts
 
 ########################################### CANAIS SBT #########################################################
 
@@ -838,7 +838,7 @@ http://dnscine.top:80/8C6SU1/HeACvY/213.ts
 http://srv03.cc:80/725158922/795582211/6423013.ts
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT SP
-http://srv03.cc:80/725158922/795582211/6423023.ts
+http://dnscine.top:80/8C6SU1/HeACvY/265.ts
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title=" SBT",SBT RJ
 http://dnscine.top:80/8C6SU1/HeACvY/611.ts
@@ -871,10 +871,10 @@ http://dnscine.top:80/8C6SU1/HeACvY/389.ts
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="Rede Vida HD" tvg-logo="https://i.imgur.com/c1Q1gO3.png" group-title=" Religiosos",Rede Vida HD
-http://srv03.cc:80/725158922/795582211/6441973.ts
+http://dnscine.top:80/8C6SU1/HeACvY/135.ts
 
 #EXTINF:-1 tvg-id="br#tv-aparecida-hd" tvg-name="TV APARECIDA FHD" tvg-logo="https://i.imgur.com/XxspLK5.png" group-title=" Religiosos",TV APARECIDA FHD
-http://srv03.cc:80/725158922/795582211/6441974.ts
+http://dnscine.top:80/8C6SU1/HeACvY/763664.ts
 
 #EXTINF:-1 group-title="  Religiosos" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title=" Religiosos",GOSPEL MOVIES [FILMES]
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/52.m3u8
@@ -896,7 +896,7 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 ################################################# CANAIS NOVELAS ##############################################################
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title=" TV NOVELAS",ViVA FHD
-http://srv03.cc:80/725158922/795582211/4793614.ts
+http://dnscine.top:80/8C6SU1/HeACvY/360.ts
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title=" TV NOVELAS",ViVA HD
 http://79.127.238.228:14455/VIVA
@@ -905,7 +905,7 @@ http://79.127.238.228:14455/VIVA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title=" TV NOVELAS",TNT Novelas 
-http://srv03.cc:80/725158922/795582211/4794314.ts
+http://dnscine.top:80/8C6SU1/HeACvY/157.ts
 
 ###########################################   NOTICIAS    #########################################################
 
@@ -985,7 +985,7 @@ https://abre.ai/lSy5
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title=" FILMES E SERIES",SPACE
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361596
+http://dnscine.top:80/8C6SU1/HeACvY/143.ts
 
 #EXTINF:-1 tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="http://images.gbound.lat/logos/WAMcsVqF_o.png" group-title=" FILMES E SERIES",TLC HD
 http://79.127.238.228:14433/TLChd
@@ -1017,28 +1017,28 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/45206.m3u8
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361587
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO 
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361024
+http://dnscine.top:80/8C6SU1/HeACvY/76.ts
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjarWDeiMf92rnVMKmxnO6DjVkcQ-jP9qznQ&s" group-title=" FILMES E SERIES",HBO+
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62230
+http://dnscine.top:80/8C6SU1/HeACvY/80.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title=" FILMES E SERIES",HBO 2
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361027
+http://dnscine.top:80/8C6SU1/HeACvY/72.ts
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://imgur.com/smM7mYc.png" group-title=" FILMES E SERIES",HBO FAMILY
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361030
+http://dnscine.top:80/8C6SU1/HeACvY/74.ts
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO POP
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22684.m3u8
+http://dnscine.top:80/8C6SU1/HeACvY/82.ts
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO XTREME
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361045
+http://dnscine.top:80/8C6SU1/HeACvY/87.ts
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO SIGNATURE
-http://sv1.casahd.com:80/carlinhos/carlinhos/1361042
+http://dnscine.top:80/8C6SU1/HeACvY/701.ts
 
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title=" FILMES E SERIES",HBO MUNDI HD
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/42931.m3u8
+http://dnscine.top:80/8C6SU1/HeACvY/78.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title=" FILMES E SERIES",TNT 
 http://79.127.238.228:14629/
@@ -1228,7 +1228,7 @@ http://dnscine.top:80/8C6SU1/HeACvY/61.ts
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361469
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title=" ESPN",ESPN 6
-http://srv03.cc:80/725158922/795582211/5854073.ts
+http://dnscine.top:80/8C6SU1/HeACvY/47.ts
 
 ########################################### CANAIS BAND SPORTS #########################################################
 
@@ -1328,7 +1328,7 @@ http://dnscine.top:80/8C6SU1/HeACvY/202232.ts
 http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/2d6de34892521f20acff699211cd32ccafdcf6c242e69d3462a45c804cdf088d.jpg" group-title=" Canais 24 horas",Eu a Patroa e as Crianças 1
-http://srv03.cc:80/725158922/795582211/7142385.ts
+http://dnscine.top:80/8C6SU1/HeACvY/202249.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-pcIBhTzRvb8/VF0h34FMAOI/AAAAAAAACuE/Coi_9Tnqpuk/s1600/pegadinhas%2Bda%2Btv.png" group-title=" Canais 24 horas",PEGADINHAS SILVIO SANTOS
 http://srv03.cc:80/725158922/795582211/7142402.ts
