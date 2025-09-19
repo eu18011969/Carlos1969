@@ -12,6 +12,12 @@ http://turuggv.click:80/movie/2421727/4412484/1220237.mp4
 #EXTINF:-1 tvg-name="De Volta ao Velho Oeste (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dbtpbqGt0U24zhtRd6U3CdY61UG.jpg" group-title=" FILMES",De Volta ao Velho Oeste (2022)
 http://dnscine.top:80/movie/8C6SU1/HeACvY/1671332.mp4
 
+#EXTINF:-1 tvg-name="O Menino que Descobriu o Vento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg" group-title=" FILMES",O Menino que Descobriu o Vento (2019)
+http://facilita.fun:80/movie/811911153/414376531/11288581.mp4
+
+#EXTINF:-1 tvg-name="A Fonte da Juventude (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHBkInSrjwAFzLVtTd84eMuc6Fk.jpg" group-title=" FILMES",A Fonte da Juventude (2025)
+http://facilita.fun:80/movie/811911153/414376531/11286726.mp4
+
 ############################################################## NOVELA RENASCER ###################################################
 
 #EXTINF:-1 tvg-name="Renascer S01E01" tvg-logo="http://dnscine.top:80/images/a6e69c446d98995fc43c494f8566bd10.jpg" group-title="Novelas",Renascer S01E01
@@ -794,17 +800,40 @@ http://dnscine.top:80/8C6SU1/HeACvY/531.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGRO BRASIL
 http://dnscine.top:80/8C6SU1/HeACvY/232.ts
 
-##################################################### REALITY ##########################################################################
+##################################################### ESTRELA DA CASA ##########################################################################
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title=" REALITY",Estrela da Casa 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title=" Estrela da Casa 2025",Estrela da Casa 1
 https://cr7v.short.gy/ManoTV/esc1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title=" REALITY",Estrela da Casa 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title=" Estrela da Casa 2025",Estrela da Casa 2
 https://cr7v.short.gy/ManoTV/esc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title=" REALITY",Mosaico 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title=" Estrela da Casa 2025",Mosaico 
 http://uniflow.zip:80/live/861296629/K376B5181g/582798.m3u8
+
+#########################################################  A FAZENDA #######################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title=" A FAZENDA 2025",A FAZENDA 17 CAM 01
+http://facilita.fun:80/811911153/414376531/11812329.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title=" A FAZENDA 2025",A FAZENDA 17 CAM 02
+http://facilita.fun:80/811911153/414376531/11812330.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 03" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title=" A FAZENDA 2025",A FAZENDA 17 CAM 03
+http://facilita.fun:80/811911153/414376531/11812331.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 04" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title=" A FAZENDA 2025",A FAZENDA 17 CAM 04
+http://facilita.fun:80/811911153/414376531/11812332.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 05" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title=" A FAZENDA 2025",A FAZENDA 17 CAM 05
+http://facilita.fun:80/811911153/414376531/11812333.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 06" tvg-logo="https://i.imgur.com/Ar5ZwEO.png" group-title=" A FAZENDA 2025",A FAZENDA 17 CAM 06
+http://facilita.fun:80/811911153/414376531/11812334.ts
+
+
+
+
 
 
 ########################################### CANAIS BAND #########################################################
