@@ -1331,7 +1331,7 @@ http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
 http://dnscine.top:80/8C6SU1/HeACvY/202249.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-pcIBhTzRvb8/VF0h34FMAOI/AAAAAAAACuE/Coi_9Tnqpuk/s1600/pegadinhas%2Bda%2Btv.png" group-title=" Canais 24 horas",PEGADINHAS SILVIO SANTOS
-http://srv03.cc:80/725158922/795582211/7142402.ts
+http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title=" Canais 24 horas",Tô d Graça 24h
 http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
