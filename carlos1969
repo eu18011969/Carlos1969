@@ -1374,7 +1374,8 @@ http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 #EXTINF:-1 tvg-id="Familia.Dinossauro..24H" tvg-name="Familia Dinossauro  24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSky8YaqdqWkYdAtZ0wz6shFXc8luLN655FWx_sp2ahAg.jpg" group-title=" Canais 24 horas",Familia Dinossauro  24H
 http://dnscine.top:80/8C6SU1/HeACvY/202238.ts
 
-
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title=" Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
+https://embedcanais.embmaxtv.online/todomundoodeiaochris24h/tracks-v1a1/mono.ts.m3u8
 ######################################## FUTEBOL GOAT TV #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="GOAT 01" tvg-logo="https://i.imgur.com/Urzum0D.png" group-title=" GOAT TV",GOAT 01
