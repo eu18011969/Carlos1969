@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 18-09-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 26-09-2025  17:25:15
 
 
 
@@ -8,9 +8,6 @@
 
 #EXTINF:-1 tvg-name="Ainda Estou Aqui (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg" group-title=" FILMES",Ainda Estou Aqui (2024)
 http://turuggv.click:80/movie/2421727/4412484/1220237.mp4
-
-#EXTINF:-1 tvg-name="De Volta ao Velho Oeste (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dbtpbqGt0U24zhtRd6U3CdY61UG.jpg" group-title=" FILMES",De Volta ao Velho Oeste (2022)
-http://dnscine.top:80/movie/8C6SU1/HeACvY/1671332.mp4
 
 #EXTINF:-1 tvg-name="O Menino que Descobriu o Vento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg" group-title=" FILMES",O Menino que Descobriu o Vento (2019)
 http://facilita.fun:80/movie/811911153/414376531/11288581.mp4
@@ -673,13 +670,13 @@ http://dnscine.top:80/series/8C6SU1/HeACvY/1975857.mp4
 ############################################################## CANAIS VARIEDADES ###########################################################
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD
-http://dnscine.top:80/8C6SU1/HeACvY/98.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236503
 
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title=" VARIEDADES",Multishow FHD
 http://15.235.11.7:14146/MultiShowSD
 
 #EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title=" VARIEDADES",GNT FHD
-http://dnscine.top:80/8C6SU1/HeACvY/530.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236509
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title=" VARIEDADES",MASTER CHEF
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
@@ -694,7 +691,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 http://dnscine.top:80/8C6SU1/HeACvY/58.ts
 
 #EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="http://images.gbound.lat/logos/bjOlE3PT_o.png" group-title=" VARIEDADES",HGTV HD
-http://srv1.cc:80/372156448/189227354/4794360.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236523
 
 ############################################################ CANAIS GLOBO ##############################################################
 
@@ -705,16 +702,16 @@ http://dnscine.top:80/8C6SU1/HeACvY/516.ts
 http://79.127.238.228:14217/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo SP
-http://dnscine.top:80/8C6SU1/HeACvY/446.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236476
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO BRASILIA FHD
-http://dnscine.top:80/8C6SU1/HeACvY/585.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236485
 
 #EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO ES HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" GLOBO",GLOBO MINAS 
-http://dnscine.top:80/8C6SU1/HeACvY/202393.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236500
 
 ########################################################### AMAZON FUTEBOL  ##############################################################################
 
@@ -850,10 +847,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
 ########################################### CANAIS RedeTV ########################################################
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title=" RedeTV",RedeTV! FHD
-http://dnscine.top:80/8C6SU1/HeACvY/772.ts
-
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title=" RedeTV",RedeTV! HD
-http://dnscine.top:80/8C6SU1/HeACvY/134.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236511
 
 ########################################### CANAIS SBT #########################################################
 
@@ -893,17 +887,14 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
 #EXTINF:-1 group-title="  Religiosos" tvg-logo="https://play-lh.googleusercontent.com/5MKo-1l7bw2KXz53eep_5gckWmxn9ZtNsr-YJtkHYgpbVgUi0JCebKo-shU9VJTWUHes" group-title=" Religiosos",Canção Nova HD
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361183
 
-#EXTINF:-1 tvg-id="" tvg-name="TV MARANATA HD" tvg-logo="http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmoiMjYtjqQT1q4hhveOrBwEBW2PMsjm-olrO6w1iiK3NdUax1ymLcRMsK-l3ZsiHX1uHoggKhrjPE5plWrDWO2909XRnR3-ks_8SRXUh1GxqAPWRW6q-r5X1c_xIE6F7YAb8pAdp2nNVSCjzbpULQA7U.png" group-title=" Religiosos",TV MARANATA HD
-http://dnscine.top:80/8C6SU1/HeACvY/389.ts
-
 #EXTINF:-1 tvg-id="br#rede-gospel-hd" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/POchL37.png" group-title=" Religiosos",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="Rede Vida HD" tvg-logo="https://i.imgur.com/c1Q1gO3.png" group-title=" Religiosos",Rede Vida HD
-http://dnscine.top:80/8C6SU1/HeACvY/135.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236528
 
 #EXTINF:-1 tvg-id="br#tv-aparecida-hd" tvg-name="TV APARECIDA FHD" tvg-logo="https://i.imgur.com/XxspLK5.png" group-title=" Religiosos",TV APARECIDA FHD
-http://dnscine.top:80/8C6SU1/HeACvY/763664.ts
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 group-title="  Religiosos" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title=" Religiosos",GOSPEL MOVIES [FILMES]
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/52.m3u8
@@ -914,7 +905,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/117.m3u8
 ########################################### CANAIS RECORD TV #########################################################
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title=" RECORD TV",RecordTV MG
-http://srv03.cc:80/725158922/795582211/6423058.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236521
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title=" RECORD TV",RecordTV RJ
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
@@ -925,7 +916,7 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 ################################################# CANAIS NOVELAS ##############################################################
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title=" TV NOVELAS",ViVA FHD
-http://dnscine.top:80/8C6SU1/HeACvY/360.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236531
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title=" TV NOVELAS",ViVA HD
 http://79.127.238.228:14455/VIVA
@@ -942,7 +933,7 @@ http://dnscine.top:80/8C6SU1/HeACvY/157.ts
 http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title=" NOTÍCIAS",Band News
-http://dnscine.top:80/8C6SU1/HeACvY/11.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236463
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title=" NOTÍCIAS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
@@ -1079,10 +1070,10 @@ http://79.127.238.228:14647/
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361617
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title=" FILMES E SERIES",Paramount Network
-http://dnscine.top:80/8C6SU1/HeACvY/753.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236548
 
 #EXTINF:-1 tvg-id="br#studio-universal-hd" tvg-name="Studio Universal FHD" tvg-logo="http://images.gbound.lat/logos/PUZoFdtE_o.png" group-title=" FILMES E SERIES",Studio Universal FHD
-http://srv1.cc:80/372156448/189227354/6530741.ts
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title=" FILMES E SERIES",Lifetime
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361266
@@ -1267,7 +1258,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18637.m3u8
 ########################################### CANAIS LUTAS ##############################################################
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title=" LUTAS",Combate
-http://dnscine.top:80/8C6SU1/HeACvY/22.ts
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236507
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title=" LUTAS",UFC Fightpass
 https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
@@ -1324,16 +1315,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361143
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title=" PREMIERE",Premiere 7 
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361147
 
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://i.pinimg.com/736x/73/df/cd/73dfcdf4e6c88fdcc86e80a05cf13048.jpg" group-title=" PREMIERE",Premiere 8
-http://srv03.cc:80/725158922/795582211/5523345.ts
-
 ################################################## Canais 24 horas  ##################################################
-
-#EXTINF:-1 tvg-id="Sessao.da.Tarde.24H" tvg-name="Sessão da Tarde 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR2vfOrYViA6q5fm5JkADm-bv3VL86Hn1C9B1ePoz3fhw.png" group-title=" Canais 24 horas",Sessão da Tarde 24H
-http://dnscine.top:80/8C6SU1/HeACvY/202266.ts
-
-#EXTINF:-1 tvg-id="Polishop.TV.HD" tvg-name="POLISHOP FHD" tvg-logo="" group-title=" Canais 24 horas",POLISHOP FHD
-http://dnscine.top:80/8C6SU1/HeACvY/294.ts
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title=" Canais 24 horas",Chaves [HD]
 http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
@@ -1346,9 +1328,6 @@ http://15.235.9.200:14904/
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title=" Canais 24 horas",Escolinha do Professor Raimundo [2]
 http://24hrs.homelinux.com/24H-escolinhaold/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24HRS SAI DE BAIXO" tvg-logo="https://logos.maintech.top/logosam/24hrs/base%20blade.jpg" group-title=" Canais 24 horas",SAI DE BAIXO 
-http://dnscine.top:80/8C6SU1/HeACvY/202268.ts
 
 #EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CRIS" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title=" Canais 24 horas",TODO MUNDO ODEIA O CRIS [FHD]
 http://defumadeghuoiew.maistv.xyz:80/127946341/435129859/4238289
@@ -1369,11 +1348,6 @@ http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
 http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/A_Grande_Fam%C3%ADlia_-_6%C2%AA%2C_7%C2%AA_Temporada.png/revision/latest?cb=20170408143503" group-title=" Canais 24 horas",A GRANDE FAMILIA [2]
-
-
-#EXTINF:-1 tvg-id="Familia.Dinossauro..24H" tvg-name="Familia Dinossauro  24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSky8YaqdqWkYdAtZ0wz6shFXc8luLN655FWx_sp2ahAg.jpg" group-title=" Canais 24 horas",Familia Dinossauro  24H
-http://dnscine.top:80/8C6SU1/HeACvY/202238.ts
-
 
 ######################################## FUTEBOL GOAT TV #########################################################
 
@@ -1429,7 +1403,8 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/320639.m3u8
 ################################################################## FOX ESPORTES ##########################################
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://logospng.org/wp-content/uploads/fox-sports.png" group-title=" FOX ESPORTES", FOX ESPORTES 1
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236455
+
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://logospng.org/wp-content/uploads/fox-sports.png" group-title=" FOX ESPORTES", FOX ESPORTES 2
 https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
