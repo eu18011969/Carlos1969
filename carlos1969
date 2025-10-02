@@ -139,6 +139,19 @@ http://cdntac.xyz:80/659012322/931052415/1828818.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title=" DOCUMENTÁRIOS",AGROMAIS 
 http://cdntac.xyz:80/659012322/931052415/1783953.ts
 
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title=" DOCUMENTÁRIOS",Discovery Science FHD
+http://cdntac.xyz:80/659012322/931052415/17663.ts
+
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title=" DOCUMENTÁRIOS",Discovery Theater FHD
+http://cdntac.xyz:80/659012322/931052415/18243.ts
+
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title=" DOCUMENTÁRIOS",Discovery Turbo FHD
+http://cdntac.xyz:80/659012322/931052415/17669.ts
+
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title=" DOCUMENTÁRIOS",Discovery World FHD
+http://cdntac.xyz:80/659012322/931052415/17675.ts
+
+
 ##################################################### ESTRELA DA CASA ##########################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa
