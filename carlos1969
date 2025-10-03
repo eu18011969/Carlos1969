@@ -3,10 +3,13 @@
 #EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 01-10-2025  17:25:15
 
 
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 01/10/2025 por CARLOS ROCHA
+
 ############################################################## CANAIS VARIEDADES ###########################################################
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD
-http://195.66.210.10:80/OCTAVIANOR94/PQJNP/236503
+http://cdntac.xyz:80/659012322/931052415/17801.ts
 
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title=" VARIEDADES",Multishow FHD
 http://15.235.11.7:14146/MultiShowSD
@@ -26,8 +29,9 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 http://cdntac.xyz:80/659012322/931052415/18004.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="https://imgur.com/TRTgvPq.jpeg" group-title=" VARIEDADES",Comedy Central FHD
-http://cdntac.xyz:80/659012322/931052415/17627.ts
-
+http://cdntac.xyz:80/659012322/931052415/1828798.ts
+XZ
+.*
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="http://images.gbound.lat/logos/4zCM4OKh_o.png" group-title=" VARIEDADES",Food Network FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13522
 
@@ -104,7 +108,7 @@ http://cdntac.xyz:80/659012322/931052415/442393.ts
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120594
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title=" Infantis",Cartoonito FHD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120595
+http://cdntac.xyz:80/659012322/931052415/17611.ts
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title=" Infantis",Gloob
 http://cdntac.xyz:80/659012322/931052415/18257.ts
@@ -143,7 +147,7 @@ http://cdntac.xyz:80/659012322/931052415/1783953.ts
 http://cdntac.xyz:80/659012322/931052415/17663.ts
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title=" DOCUMENTÁRIOS",Discovery Theater FHD
-http://cdntac.xyz:80/659012322/931052415/18243.ts
+http://cdntac.xyz:80/659012322/931052415/18245.ts
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title=" DOCUMENTÁRIOS",Discovery Turbo FHD
 http://cdntac.xyz:80/659012322/931052415/17669.ts
@@ -759,7 +763,6 @@ http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title=" Canais 24 horas",A GRANDE FAMILIA [1]
 http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/A_Grande_Fam%C3%ADlia_-_6%C2%AA%2C_7%C2%AA_Temporada.png/revision/latest?cb=20170408143503" group-title=" Canais 24 horas",A GRANDE FAMILIA [2]
 
 ######################################## FUTEBOL GOAT TV #########################################################
 
