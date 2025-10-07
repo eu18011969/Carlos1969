@@ -420,6 +420,9 @@ http://cdntac.xyz:80/659012322/931052415/17586.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title=" FILMES E SERIES",A&E
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361564
 
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title=" FILMES E SERIES",A&E VD
+https://dm2-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/f10a06d617cfc3800b1bf679fefb9b9a/ae.m3u8
+
 #EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/STARCHANNEL.png" group-title=" FILMES E SERIES",Star Channel 
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title=" FILMES E SERIES",AMC
