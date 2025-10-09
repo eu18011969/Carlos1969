@@ -20,18 +20,21 @@ http://cdntac.xyz:80/659012322/931052415/18007.ts
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title=" VARIEDADES",MASTER CHEF
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PESADELO NA COZINHA" tvg-logo="https://ellasmagazine.com.br/wp-content/uploads/2025/02/pesadelo_na_cozinha_retorna_em_2025__saiba_mais_8e288b7d.webp" group-title=" VARIEDADES",PESADELO NA COZINHA
+#EXTINF:-1 tvg-id="" tvg-name="24H • Masterchef Junior" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" VARIEDADES",Masterchef Junior
+http://protec.2pds.top:80/541201693/280698538/204747
 
+#EXTINF:-1 tvg-id="" tvg-name="PESADELO NA COZINHA" tvg-logo="https://ellasmagazine.com.br/wp-content/uploads/2025/02/pesadelo_na_cozinha_retorna_em_2025__saiba_mais_8e288b7d.webp" group-title=" VARIEDADES",PESADELO NA COZINHA
+http://protec.2pds.top:80/541201693/280698538/204754
 
 #EXTINF:-1 tvg-id="" tvg-name="MANUAL DO MUNDO" tvg-logo="https://i.ytimg.com/vi/SrUgg03-uQY/maxresdefault.jpg" group-title=" VARIEDADES",MAMUAL DO MUNDO
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="https://imgur.com/GweLVOA.jpeg" group-title=" VARIEDADES",BIS FHD
 http://cdntac.xyz:80/659012322/931052415/18004.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="https://imgur.com/TRTgvPq.jpeg" group-title=" VARIEDADES",Comedy Central FHD
 http://cdntac.xyz:80/659012322/931052415/1828798.ts
-XZ
-.*
+
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="http://images.gbound.lat/logos/4zCM4OKh_o.png" group-title=" VARIEDADES",Food Network FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13522
 
@@ -725,8 +728,20 @@ http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title=" Canais 24 horas",Tô d Graça 24h
 http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title=" Canais 24 horas",A GRANDE FAMILIA [1]
+#EXTINF:-1 tvg-id="" tvg-name="24H • Vai Que Cola (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" Canais 24 horas",Vai Que Cola (2013)
+http://protec.2pds.top:80/541201693/280698538/20469
+
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title=" Canais 24 horas",A GRANDE FAMILIA 
 http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24H • Pé Na Cova (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" Canais 24 horas",Pé Na Cova 
+http://protec.2pds.top:80/541201693/280698538/204669
+
+#EXTINF:-1 tvg-id="" tvg-name="24H • Sai de Baixo (1996)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" Canais 24 horas",Sai de Baixo 
+http://protec.2pds.top:80/541201693/280698538/204672
+
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title=" Canais 24 horas",Toma Lá Dá Cá 
+http://protec.2pds.top:80/541201693/280698538/204692
 
 
 ######################################## FUTEBOL GOAT TV #########################################################
