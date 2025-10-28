@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 22-10-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 01-10-2025  17:25:15
 
 
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 22/10/2025 por CARLOS ROCHA
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em ltw1ltw1ltw1ltw1ltw101/10/2025 por CARLOS ROCHA
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
@@ -12,7 +12,7 @@
 http://cdntac.xyz:80/659012322/931052415/17801.ts
 
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title=" VARIEDADES",Multishow FHD
-http://cdntac.xyz:80/659012322/931052415/18017.ts
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361091
 
 #EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title=" VARIEDADES",GNT FHD
 http://cdntac.xyz:80/659012322/931052415/18007.ts
@@ -39,7 +39,7 @@ http://cdntac.xyz:80/659012322/931052415/1828798.ts
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13522
 
 #EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="http://images.gbound.lat/logos/bjOlE3PT_o.png" group-title=" VARIEDADES",HGTV HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304506
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361437
 
 ############################################################ CANAIS GLOBO ##############################################################
 
@@ -89,7 +89,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/20950.m3u8
 ########################################### CANAIS FUTURA ##############################################################
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://logospng.org/wp-content/uploads/futura.png" group-title=" FUTURA",TV Futura
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120633
+http://turuggv.click:80/2421727/4412484/101594
 
 ########################################### CANAIS GAZETA ############################################################################
 
@@ -108,7 +108,7 @@ http://cdntac.xyz:80/659012322/931052415/39000.ts
 http://cdntac.xyz:80/659012322/931052415/442393.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title=" Infantis",Cartoon Network
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120594
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361049
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title=" Infantis",Cartoonito FHD
 http://cdntac.xyz:80/659012322/931052415/17611.ts
@@ -157,42 +157,6 @@ http://cdntac.xyz:80/659012322/931052415/17669.ts
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title=" DOCUMENTÁRIOS",Discovery World FHD
 http://cdntac.xyz:80/659012322/931052415/17675.ts
-
-
-##################################################### ESTRELA DA CASA ##########################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa
-http://cdntac.xyz:80/659012322/931052415/4598735.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 01" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 01
-http://cdntac.xyz:80/659012322/931052415/4598736.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 02" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 02
-http://cdntac.xyz:80/659012322/931052415/4598737.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 03" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 03
-http://cdntac.xyz:80/659012322/931052415/4598738.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 04" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 04
-http://cdntac.xyz:80/659012322/931052415/4598739.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 05" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 05
-http://cdntac.xyz:80/659012322/931052415/4598740.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 06" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 06
-http://cdntac.xyz:80/659012322/931052415/4598741.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 07" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 07
-http://cdntac.xyz:80/659012322/931052415/4598742.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 08" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 08
-http://cdntac.xyz:80/659012322/931052415/4598743.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 09" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 09
-http://cdntac.xyz:80/659012322/931052415/4598744.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 10" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title=" Estrela da Casa",Estrela da Casa Cam 10
-http://cdntac.xyz:80/659012322/931052415/4598745.ts
 
 #########################################################  A FAZENDA #######################################################################
 
@@ -267,7 +231,7 @@ http://24hrs.homelinux.com/24H-pegadihassilviosantos.txt/playlist.m3u8
 #EXTINF:-1 group-title=" SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT + CINEMAS
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT NOVELAS
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
+http://cdnrez.xyz:80/659012322/931052415/2295671.ts
 
 ######################################################## HBO MAX ########################################################
 
@@ -341,7 +305,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275102
 http://cdntac.xyz:80/659012322/931052415/17782.ts
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title=" NOTÍCIAS",Band News
-http://cdntac.xyz:80/659012322/931052415/17598.ts
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361106
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title=" NOTÍCIAS",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
@@ -376,7 +340,7 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 ######################################### Cine SKY temporário  ##############################################################
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 01" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 01
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333997.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528090
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 02" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 02
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528090
@@ -391,7 +355,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1528092
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528093
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 06" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 06
-http://srv03.cc:80/725158922/795582211/4908861.ts
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528092
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 07" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 07
 http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
@@ -400,7 +364,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1528095
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/333998.m3u8
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 09" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 09
-http://srv03.cc:80/725158922/795582211/4908867.ts
+http://sv1.casahd.com:80/carlinhos/carlinhos/1528093
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Cine SKY 10" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title=" CINE SKY",Cine SKY 10
 http://srv03.cc:80/159688766/328841855/4908866.ts
@@ -436,7 +400,7 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361571
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title=" FILMES E SERIES",CINEMAX
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/45206.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361579
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title=" FILMES E SERIES",MEGAPIX
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/288.m3u8
@@ -509,10 +473,6 @@ http://protec.2pds.top:80/541201693/280698538/204161
 
 #EXTINF:-1 tvg-id="" tvg-name="• Film&Arts FHD" tvg-logo="http://img.slim.re/imagens/canais/Film-Art.png" group-title=" FILMES E SERIES",Film&Arts FHD
 http://protec.2pds.top:80/541201693/280698538/204146
-
-
-
-
 
 ############################################################################  MAX ##################################################
 
@@ -647,7 +607,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18637.m3u8
 http://cdntac.xyz:80/659012322/931052415/113109.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title=" LUTAS",UFC Fightpass
-http://cdntac.xyz:80/659012322/931052415/1620234.ts
+http://sv1.casahd.com:80/carlinhos/carlinhos/1535343
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title=" LUTAS",COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
@@ -715,10 +675,10 @@ http://sv1.casahd.com:80/carlinhos/carlinhos/1361147
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title=" Canais 24 horas",Chaves [HD]
-http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361625
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title=" Canais 24 horas",Chapolin Colorado 
-http://24hrs.homelinux.com/24H-chapolin1/playlist.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361626
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title=" Canais 24 horas",Escolinha do Professor Raimundo [1]
 http://15.235.9.200:14904/
