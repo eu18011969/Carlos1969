@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 01-10-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 01-11-2025  17:25:15
 
 
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em ltw1ltw1ltw1ltw1ltw101/10/2025 por CARLOS ROCHA
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 01/11/2025 por CARLOS ROCHA
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
@@ -133,6 +133,9 @@ http://cdntac.xyz:80/659012322/931052415/17657.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uS3b8sW.png" group-title=" DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://cdntac.xyz:80/659012322/931052415/113177.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title=" DOCUMENTÁRIOS", TV DA PESCA
+https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="H2 HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title=" DOCUMENTÁRIOS",H2 HISTORY
 http://cdntac.xyz:80/659012322/931052415/18246.ts
@@ -725,6 +728,11 @@ http://protec.2pds.top:80/541201693/280698538/204609
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrUgg03-uQY/maxresdefault.jpg" group-title=" Canais 24 horas",Manual do Mundo
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
+#EXTINF:-1 tvg-logo="https://imgur.com/GCER0d0.png" group-title=" Canais 24 horas",OPERACAO DE RISCO
+https://origin-nxtv.b-cdn.net/REDETV_OPERACAO_DE_RISCO/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
+
+
+
 ######################################## FUTEBOL GOAT TV #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="GOAT 1" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 1
@@ -753,6 +761,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 3" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 3
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 3" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 4
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 
 #################################################### APPLE TV ##################################################
 
