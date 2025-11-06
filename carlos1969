@@ -6,6 +6,12 @@
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 01/11/2025 por CARLOS ROCHA
 
+
+############################################################ FILMES ######################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" FILMES",INEXPLICAVEL
+http://audirect.fun:80/movie/tanaka/302718/7158025.mp4
+
 ############################################################## CANAIS VARIEDADES ###########################################################
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD
@@ -705,13 +711,10 @@ http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A
 http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24H • Vai Que Cola (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" Canais 24 horas",Vai Que Cola (2013)
-http://protec.2pds.top:80/541201693/280698538/20469
+http://audirect.fun:80/tanaka/302718/2361302.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oI6yYbKDyH6ozmTa6Oao5gHaDs&pid=Api&P=0&h=180" group-title=" Canais 24 horas",A GRANDE FAMILIA (1)
-http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24H • A Grande Família (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" Canais 24 horas",A Grande Família (2)
-http://protec.2pds.top:80/541201693/280698538/204594
+http://audirect.fun:80/tanaka/302718/2361192.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24H • Pé Na Cova (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" Canais 24 horas",Pé Na Cova 
 http://protec.2pds.top:80/541201693/280698538/204669
