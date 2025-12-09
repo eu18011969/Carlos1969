@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 28-11-2025  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 09-12-2025  17:25:15
 
 
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 28/11/2025 por CARLOS ROCHA
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 09/12/2025 por CARLOS ROCHA
 
 
 ############################################################ FILMES ######################################################################
@@ -45,18 +45,18 @@ http://srv1.cc:80/739933617/463783777/4793586.ts
 http://srv1.cc:80/739933617/463783777/4793594.ts
 
 #EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV HD" tvg-logo="http://images.gbound.lat/logos/bjOlE3PT_o.png" group-title=" VARIEDADES",HGTV HD
-http://srv1.cc:80/739933617/463783777/4794360.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326980.ts
 
 ############################################################ CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://2.bp.blogspot.com/-3UVNA7xXh2A/VjSqJGfI0jI/AAAAAAAAAEI/n9PeIfCJ4e4/s1600/tvintegracao.jpg" group-title=" GLOBO",Globo TV Integracao Juiz de Fora MG SD
-http://cdntac.xyz:80/659012322/931052415/39009.ts
+http://xui.brfontes.fun:80/679962296/029478989/12321924.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo RJ HD
 http://79.127.238.228:14217/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo SP
-http://srv1.cc:80/739933617/463783777/7144598.ts
+http://xui.brfontes.fun:80/679962296/029478989/12321866.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -76,10 +76,10 @@ http://srv1.cc:80/739933617/463783777/5079599.ts
 http://srv1.cc:80/739933617/463783777/5079600.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 03 
-http://srv1.cc:80/739933617/463783777/5079601.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326466.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 04
-
+http://xui.brfontes.fun:80/679962296/029478989/12326467.ts
 
 
 ######################################################## CANAIS REDE MINAS #########################################################
@@ -130,7 +130,7 @@ http://srv1.cc:80/739933617/463783777/6029753.ts
 
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://i.ibb.co/y0W06Tf/discoverykids.png" group-title=" Infantis",Discovery Kids FHD
-http://srv1.cc:80/739933617/463783777/4794387.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326304.ts
 
 
 ########################################### DOCUMENTÁRIOS #########################################################
@@ -171,7 +171,7 @@ http://srv1.cc:80/739933617/463783777/4794353.ts
 http://srv1.cc:80/739933617/463783777/7145291.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA*" tvg-logo="https://maintech.top/logosam/reality/afazenda.png" group-title="A FAZENDA 17",A FAZENDA hd*
-
+http://xui.brfontes.fun:80/679962296/029478989/12321822.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA**" tvg-logo="https://maintech.top/logosam/reality/afazenda.png" group-title="A FAZENDA 17",A FAZENDA**
 http://srv1.cc:80/739933617/463783777/7145293.ts
@@ -207,7 +207,7 @@ http://srv1.cc:80/739933617/463783777/7145305.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 7*" tvg-logo="https://maintech.top/logosam/reality/afazenda.png" group-title="A FAZENDA 17",A FAZENDA CAM 7*
-
+http://xui.brfontes.fun:80/679962296/029478989/12321817.ts
 
 ########################################### CANAIS BAND #########################################################
 
@@ -261,24 +261,62 @@ http://srv1.cc:80/739933617/463783777/6423017.ts
 
 ######################################################## HBO MAX ########################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title=" Max & Disney+⚽",HBO MAX 01 HD
-http://cdntac.xyz:80/659012322/931052415/922583.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 01 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 01 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515090.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title=" Max & Disney+⚽",HBO MAX 02 HD
-http://cdntac.xyz:80/659012322/931052415/922584.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 02 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 02 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515091.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title=" Max & Disney+⚽",HBO MAX 03 HD
-http://cdntac.xyz:80/659012322/931052415/922585.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 03 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 03 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515092.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title=" Max & Disney+⚽",HBO MAX 04 HD
-http://cdntac.xyz:80/659012322/931052415/922586.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 04 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 04 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515093.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title=" Max & Disney+⚽",HBO MAX 05 HD
-http://cdntac.xyz:80/659012322/931052415/922587.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 05 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 05 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515094.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title=" Max & Disney+⚽",HBO MAX 06 HD
-http://cdntac.xyz:80/659012322/931052415/922588.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 06 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 06 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515095.ts
 
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 07 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 07 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515096.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 08 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 08 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515097.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 09 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 09 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515098.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 10 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 10 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515099.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 11 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 11 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515100.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 12 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 12 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515101.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 13 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 13 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515102.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 14 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 14 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515103.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 15 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 15 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515104.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 16 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 16 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515105.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 17 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 17 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515106.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max 18 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max 18 HD
+http://xui.brfontes.fun:80/679962296/029478989/9515107.ts
+
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="• Max Mosaico Jogos HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-MAX.png" group-title=" HBO MAX",• Max Mosaico Jogos HD
+http://xui.brfontes.fun:80/679962296/029478989/9515108.ts
 
 ########################################### CANAIS RELIGIOSOS #########################################################
 
@@ -420,52 +458,52 @@ http://srv1.cc:80/739933617/463783777/4794262.ts
 http://srv1.cc:80/739933617/463783777/5654898.ts
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title=" FILMES E SERIES",AXN
-http://srv1.cc:80/739933617/463783777/6530648.ts
+http://srv1.cc:80/739933617/463783777/4794268.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title=" FILMES E SERIES",CINE CANAL
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title=" FILMES E SERIES",CINEMAX
-http://srv1.cc:80/739933617/463783777/6530657.ts
+http://srv1.cc:80/739933617/463783777/4794277.ts
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title=" FILMES E SERIES",MEGAPIX
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/288.m3u8
+http://srv1.cc:80/739933617/463783777/4794290.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO 
-http://srv1.cc:80/739933617/463783777/4794478.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326677.ts
 
-#EXTINF:-1 tvg-id="HBO plus " tvg-name="HBO+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjarWDeiMf92rnVMKmxnO6DjVkcQ-jP9qznQ&s" group-title=" FILMES E SERIES",HBO+ (Plus)
-http://srv1.cc:80/739933617/463783777/4794483.ts
+#EXTINF:-1 tvg-id="HBO plus " tvg-name="HBO+ PLUS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjarWDeiMf92rnVMKmxnO6DjVkcQ-jP9qznQ&s" group-title=" FILMES E SERIES",HBO+ (Plus)
+http://srv1.cc:80/739933617/463783777/4794484.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title=" FILMES E SERIES",HBO 2
-http://srv1.cc:80/739933617/463783777/4794472.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326686.ts
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://imgur.com/smM7mYc.png" group-title=" FILMES E SERIES",HBO FAMILY
-http://srv1.cc:80/739933617/463783777/4794475.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326693.ts
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO POP
-http://srv1.cc:80/739933617/463783777/4794486.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326706.ts
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO XTREME
-http://srv1.cc:80/739933617/463783777/4794493.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326718.ts
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO SIGNATURE
-http://srv1.cc:80/739933617/463783777/4794490.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326713.ts
 
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title=" FILMES E SERIES",HBO MUNDI HD
-http://srv1.cc:80/739933617/463783777/4794481.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326702.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title=" FILMES E SERIES",TNT 
-http://srv1.cc:80/739933617/463783777/5671444.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326845.ts
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title=" FILMES E SERIES",Warner Channel 
 http://79.127.238.228:14647/
 
 #EXTINF:-1 tvg-id="Universal tv" tvg-name="Universal tv" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg" group-title=" FILMES E SERIES",Universal TV
-http://srv1.cc:80/739933617/463783777/4794323.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326867.ts
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title=" FILMES E SERIES",Paramount Network
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13546
+http://xui.brfontes.fun:80/679962296/029478989/12326813.ts
 
 #EXTINF:-1 tvg-id="br#studio-universal-hd" tvg-name="Studio Universal FHD" tvg-logo="http://images.gbound.lat/logos/PUZoFdtE_o.png" group-title=" FILMES E SERIES",Studio Universal FHD
 http://srv1.cc:80/739933617/463783777/4794303.ts
@@ -474,28 +512,28 @@ http://srv1.cc:80/739933617/463783777/4794303.ts
 http://srv1.cc:80/739933617/463783777/5854068.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title=" FILMES E SERIES",Telecine Action FHD 
-http://srv1.cc:80/739933617/463783777/4794454.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326724.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title=" FILMES E SERIES",Telecine Pipoca FHD
-http://srv1.cc:80/739933617/463783777/4794465.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326744.ts
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title=" FILMES E SERIES",Telecine Premium FHD 
-http://srv1.cc:80/739933617/463783777/4794466.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326748.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title=" FILMES E SERIES",Telecine Touch FHD 
-http://srv1.cc:80/739933617/463783777/4794469.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326756.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title=" FILMES E SERIES",Telecine Cult FHD 
-http://srv1.cc:80/739933617/463783777/4794457.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326730.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title=" FILMES E SERIES",Telecine Fun FHD 
-http://srv1.cc:80/739933617/463783777/4794460.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326738.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" Sony Channel SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title=" FILMES E SERIES",Sony Channel SD
-http://srv1.cc:80/739933617/463783777/6530824.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326820.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" Sony Movies FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjhf/sonymovies.png" group-title=" FILMES E SERIES",Sony Movies FHD
-http://srv1.cc:80/739933617/463783777/4794329.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326822.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" Film&Arts FHD" tvg-logo="http://img.slim.re/imagens/canais/Film-Art.png" group-title=" FILMES E SERIES",Film&Arts FHD
 http://srv1.cc:80/739933617/463783777/4794281.ts
@@ -600,7 +638,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18637.m3u8
 http://srv1.cc:80/739933617/463783777/4779910.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title=" LUTAS",UFC Fightpass
-http://srv1.cc:80/739933617/463783777/6038079.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326507.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title=" LUTAS",COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
@@ -777,7 +815,7 @@ https://origin-nxtv.b-cdn.net/REDETV_OPERACAO_DE_RISCO/tracks-v1a1/mono.m3u8?aut
 ######################################## FUTEBOL GOAT TV #########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="GOAT 1" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 1
-http://cdntac.xyz:80/659012322/931052415/2294439.ts
+http://xui.brfontes.fun:80/679962296/029478989/12326471.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="GOAT 2" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 2
 http://cdntac.xyz:80/659012322/931052415/2294440.ts
