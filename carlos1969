@@ -9,7 +9,14 @@
 
 ############################################################ FILMES ######################################################################
 
+#EXTINF:-1 tvg-name="Em Guerra com o Vovô (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/ewvz24Ck6OwWoEGOzUkTksDA9TB.jpg" group-title="COMÉDIA",Em Guerra com o Vovô (2020)
+http://xui.brfontes.fun:80/movie/605333374/085306810/13239056.mp4
 
+#EXTINF:-1 tvg-name="A Vida é Bela (1997)" tvg-logo="https://image.tmdb.org/t/p/w780/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg" group-title="COMÉDIA",A Vida é Bela (1997)
+http://xui.brfontes.fun:80/movie/605333374/085306810/13235376.mp4
+
+#EXTINF:-1 tvg-name="10 Coisas Que Eu Odeio em Você (1999)" tvg-logo="https://image.tmdb.org/t/p/w780/sSr6OheCylo2rlt4Ko9OWwcmu3n.jpg" group-title="COMÉDIA",10 Coisas Que Eu Odeio em Você (1999)
+http://xui.brfontes.fun:80/movie/605333374/085306810/13233619.mp4
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
