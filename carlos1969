@@ -19,6 +19,8 @@ http://xui.brfontes.fun:80/movie/605333374/085306810/13235376.mp4
 http://xui.brfontes.fun:80/605333374/085306810/9515590.ts
 
 ############################################################## CANAIS VARIEDADES ###########################################################
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",UEU
+http://painel.iptvmove.com:25461/live/danga07/1963/1353.m3u8
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MTV.png" group-title=" VARIEDADES",MTV",MTV FHD
 http://xui.brfontes.fun:80/605333374/085306810/12326419.ts
