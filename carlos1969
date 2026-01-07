@@ -532,7 +532,7 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18637.m3u8
 ########################################### CANAIS LUTAS ##############################################################
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title=" LUTAS",Combate
-http://xui.brfontes.fun:80/605333374/085306810/12326588.ts
+http://45.235.0.78/Combate/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title=" LUTAS",UFC Fightpass
 http://xui.brfontes.fun:80/679962296/029478989/12326507.ts
