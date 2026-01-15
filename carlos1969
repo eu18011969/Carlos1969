@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 01-01-2026  17:25:15
+#EXTINF:-1 tvg-logo="" group-title="   CARLOS ROCHA 15-01-2026  17:25:15
 
 
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 01-01-2026 17:25:15 por CARLOS ROCHA
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="" group-title=" Atualziada em 15-01-2026 17:25:15 por CARLOS ROCHA
 
 
 ############################################################ FILMES ######################################################################
@@ -26,7 +26,10 @@ http://xui.brfontes.fun:80/605333374/085306810/9515590.ts
 http://xui.brfontes.fun:80/605333374/085306810/12326419.ts
 
 #EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="Multishow FHD" tvg-logo="http://cutix.click/logos/nymcDeFf_o.png" group-title=" VARIEDADES",Multishow FHD
-http://xui.brfontes.fun:80/605333374/085306810/12326430.ts
+http://gopower.click:80/wesleyvitor/58682594/476
+
+#EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title=" VARIEDADES",GNT HD
+http://gopower.click:80/wesleyvitor/58682594/2204
 
 #EXTINF:-1 tvg-id="Gnt" tvg-name="Gnt FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15eOUkXJWaDzsmIgD7mH6cush8Ajv21H8TA&s" group-title=" VARIEDADES",GNT FHD
 http://45.235.0.78/GNT/playlist.m3u8
@@ -34,11 +37,17 @@ http://45.235.0.78/GNT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title=" VARIEDADES",MASTER CHEF
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="https://imgur.com/GweLVOA.jpeg" group-title=" VARIEDADES",BIS HD
+http://gopower.click:80/wesleyvitor/58682594/526
+
 #EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="https://imgur.com/GweLVOA.jpeg" group-title=" VARIEDADES",BIS FHD
 http://45.235.0.78:80/BIS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="https://imgur.com/TRTgvPq.jpeg" group-title=" VARIEDADES",Comedy Central FHD
 http://xui.brfontes.fun:80/605333374/085306810/12326794.ts
+
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="http://images.gbound.lat/logos/4zCM4OKh_o.png" group-title=" VARIEDADES",Food Network HD
+http://gopower.click:80/wesleyvitor/58682594/872
 
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="http://images.gbound.lat/logos/4zCM4OKh_o.png" group-title=" VARIEDADES",Food Network FHD
 http://45.235.0.78/Food_Network/playlist.m3u8
@@ -49,7 +58,7 @@ http://200.229.190.189:8001/play/a01b
 ############################################################ CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://2.bp.blogspot.com/-3UVNA7xXh2A/VjSqJGfI0jI/AAAAAAAAAEI/n9PeIfCJ4e4/s1600/tvintegracao.jpg" group-title=" GLOBO",Globo TV Integracao Juiz de Fora MG SD
-http://xui.brfontes.fun:80/679962296/029478989/12321924.ts
+http://gopower.click:80/wesleyvitor/58682594/429
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo RJ HD
 http://79.127.238.228:14217/
@@ -68,18 +77,41 @@ http://xui.brfontes.fun:80/605333374/085306810/12321856.ts
 
 ########################################################### AMAZON FUTEBOL  ##############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 01
-http://xui.brfontes.fun:80/605333374/085306810/12326464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 1" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 1
+http://gopower.click:80/wesleyvitor/58682594/1167
 
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 02
-http://xui.brfontes.fun:80/605333374/085306810/12326465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 1²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 1²
+http://gopower.click:80/wesleyvitor/58682594/1945
 
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 03 
-http://xui.brfontes.fun:80/605333374/085306810/12326466.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 2" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 2
+http://gopower.click:80/wesleyvitor/58682594/107
 
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="https://techzzi.site/logos/esportesppv/primevideo.png" group-title=" Amazon",Amazon Prime Video 04
-http://xui.brfontes.fun:80/605333374/085306810/12326467.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 2²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 2²
+http://gopower.click:80/wesleyvitor/58682594/2158
 
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 3" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 3
+http://gopower.click:80/wesleyvitor/58682594/258
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 3²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 3²
+http://gopower.click:80/wesleyvitor/58682594/1722
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 4" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 4
+http://gopower.click:80/wesleyvitor/58682594/287
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 4²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 4²
+http://gopower.click:80/wesleyvitor/58682594/2160
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 5" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 5
+http://gopower.click:80/wesleyvitor/58682594/2152
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 5²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 5²
+http://gopower.click:80/wesleyvitor/58682594/2159
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 6" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 6
+http://gopower.click:80/wesleyvitor/58682594/2116
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 6²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 6²
+http://gopower.click:80/wesleyvitor/58682594/272
 
 ######################################################## CANAIS REDE MINAS #########################################################
 
@@ -93,12 +125,18 @@ http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/20950.m3u8
 
 ########################################### CANAIS FUTURA ##############################################################
 
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://logospng.org/wp-content/uploads/futura.png" group-title=" FUTURA",TV Futura HD
+http://gopower.click:80/wesleyvitor/58682594/917
+
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://logospng.org/wp-content/uploads/futura.png" group-title=" FUTURA",TV Futura
 http://turuggv.click:80/2421727/4412484/101594
 
 ########################################### INFANTIL #########################################################
 
-#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title=" Infantis",GLOOBINHO [FHD]
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title=" Infantis",GLOOBINHO HD
+http://gopower.click:80/wesleyvitor/58682594/357049
+
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title=" Infantis",GLOOBINHO FHD
 http://45.235.0.78/Gloobinho/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://images.gbound.lat/logos/eDR5nSJt_o.png" group-title=" Infantis",Cartoon Network
@@ -106,6 +144,9 @@ http://xui.brfontes.fun:80/605333374/085306810/12326299.ts
 
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://images.gbound.lat/logos/M5t2la1T_o.png" group-title=" Infantis",Cartoonito FHD
 http://xui.brfontes.fun:80/605333374/085306810/12326295.ts
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title=" Infantis",Gloob HD
+http://gopower.click:80/wesleyvitor/58682594/357046
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title=" Infantis",Gloob
 http://45.235.0.78/Gloob/playlist.m3u8
@@ -117,10 +158,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 http://xui.brfontes.fun:80/605333374/085306810/12326330.ts
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://i.ibb.co/y0W06Tf/discoverykids.png" group-title=" Infantis",Discovery Kids FHD
-http://xui.brfontes.fun:80/679962296/029478989/12326304.ts
+http://gopower.click:80/wesleyvitor/58682594/1660
 
 
 ########################################### DOCUMENTÁRIOS #########################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uS3b8sW.png" group-title=" DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://gopower.click:80/wesleyvitor/58682594/464
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uS3b8sW.png" group-title=" DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://45.235.0.78/Animal_Planet/playlist.m3u8
@@ -135,13 +179,16 @@ http://xui.brfontes.fun:80/605333374/085306810/12326977.ts
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/22304.m3u8
 
 #EXTINF:-1 tvg-id="br#fish-tv-hd" tvg-name="Fish TV FHD" tvg-logo="http://images.gbound.lat/logos/8OUuEpbB_o.png" group-title=" DOCUMENTÁRIOS",Fish TV FHD
-http://xui.brfontes.fun:80/605333374/085306810/12326595.ts
+http://gopower.click:80/wesleyvitor/58682594/1968
 
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title=" DOCUMENTÁRIOS",Discovery Science FHD
 http://xui.brfontes.fun:80/605333374/085306810/12326951.ts
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title=" DOCUMENTÁRIOS",Discovery Theater FHD
 http://xui.brfontes.fun:80/605333374/085306810/12326956.ts
+
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title=" DOCUMENTÁRIOS",Discovery Turbo HD
+http://gopower.click:80/wesleyvitor/58682594/1085
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title=" DOCUMENTÁRIOS",Discovery Turbo FHD
 http://45.235.0.78/Discovery_Turbo/playlist.m3u8
@@ -169,7 +216,7 @@ http://xui.brfontes.fun:80/605333374/085306810/12326258.ts
 ########################################### CANAIS SBT #########################################################
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",ALTEROSA
-http://srv1.cc:80/739933617/463783777/6423025.ts
+http://gopower.click:80/wesleyvitor/58682594/1560
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT MG 
 
@@ -199,6 +246,7 @@ http://xui.brfontes.fun:80/605333374/085306810/12322096.ts
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title=" SBT",SBT NOVELAS
+http://gopower.click:80/wesleyvitor/58682594/1571
 
 ######################################################## HBO MAX ########################################################
 
@@ -308,7 +356,7 @@ http://xui.brfontes.fun:80/605333374/085306810/12326850.ts
 ###########################################   NOTICIAS    #########################################################
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title=" NOTÍCIAS",Globo News
-http://xui.brfontes.fun:80/605333374/085306810/12326919.ts
+http://gopower.click:80/wesleyvitor/58682594/2350
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title=" NOTÍCIAS",Band News
 http://xui.brfontes.fun:80/605333374/085306810/12326886.ts
@@ -320,7 +368,7 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="http://images.gbound.lat/logos/889h5lwp_o.png" group-title=" NOTÍCIAS",Record News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://gopower.click:80/wesleyvitor/58682594/357497
 
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title=" NOTÍCIAS",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
@@ -354,6 +402,9 @@ http://xui.brfontes.fun:80/605333374/085306810/12326826.ts
 #EXTINF:-1 tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="http://images.gbound.lat/logos/WAMcsVqF_o.png" group-title=" FILMES E SERIES",TLC HD
 http://79.127.238.228:14433/TLChd
 
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://images.gbound.lat/logos/AsZeXT00_o.png" group-title=" FILMES E SERIES",Arte 1 HD
+http://gopower.click:80/wesleyvitor/58682594/469
+
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://images.gbound.lat/logos/AsZeXT00_o.png" group-title=" FILMES E SERIES",Arte 1 FHD
 http://45.235.0.78/Arte_1/playlist.m3u8
 
@@ -385,16 +436,16 @@ http://200.4.96.59:8825/play/a04v/index.m3u8
 http://200.4.96.59:8825/play/a0ko/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO POP
-http://xui.brfontes.fun:80/679962296/029478989/12326706.ts
+http://gopower.click:80/wesleyvitor/58682594/2219
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO XTREME
-http://xui.brfontes.fun:80/679962296/029478989/12326718.ts
+http://gopower.click:80/wesleyvitor/58682594/2246
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/IKjcTJH.png" group-title=" FILMES E SERIES",HBO SIGNATURE
-http://xui.brfontes.fun:80/679962296/029478989/12326713.ts
+http://gopower.click:80/wesleyvitor/58682594/825
 
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title=" FILMES E SERIES",HBO MUNDI HD
-http://xui.brfontes.fun:80/679962296/029478989/12326702.ts
+http://gopower.click:80/wesleyvitor/58682594/2232
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title=" FILMES E SERIES",TNT 
 http://xui.brfontes.fun:80/679962296/029478989/12326845.ts
@@ -406,13 +457,19 @@ http://79.127.238.228:14647/
 http://xui.brfontes.fun:80/679962296/029478989/12326867.ts
 
 #EXTINF:-1 tvg-id="br#studio-universal-hd" tvg-name="Studio Universal FHD" tvg-logo="http://images.gbound.lat/logos/PUZoFdtE_o.png" group-title=" FILMES E SERIES",Studio Universal FHD
-http://xui.brfontes.fun:80/605333374/085306810/12326831.ts
+http://gopower.click:80/wesleyvitor/58682594/1301
+
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL 4K" tvg-logo="https://i.postimg.cc/vBDcMgzZ/image.png" group-title=" FILMES E SERIES",UNIVERSAL 4K
+http://gopower.click:80/wesleyvitor/58682594/1083
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title=" FILMES E SERIES",Lifetime HD
+http://gopower.click:80/wesleyvitor/58682594/2307
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title=" FILMES E SERIES",Lifetime
 http://45.235.0.78/Lifetime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title=" FILMES E SERIES",Telecine Action FHD 
-http://45.235.0.78:80/Telecine_Action/playlist.m3u8
+http://gopower.click:80/wesleyvitor/58682594/316
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title=" FILMES E SERIES",Telecine Pipoca FHD
 http://200.4.96.59:8825/play/a03k/index.m3u8
@@ -420,17 +477,26 @@ http://200.4.96.59:8825/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title=" FILMES E SERIES",Telecine Premium FHD 
 http://200.4.96.59:8825/play/a03i/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title=" FILMES E SERIES",Telecine Touch HD
+http://gopower.click:80/wesleyvitor/58682594/2324
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title=" FILMES E SERIES",Telecine Touch FHD 
 http://45.235.0.78/Telecine_Touch/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title=" FILMES E SERIES",Telecine Cult HD
+http://gopower.click:80/wesleyvitor/58682594/230
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title=" FILMES E SERIES",Telecine Cult FHD 
 http://45.235.0.78/Telecine_Cult/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title=" FILMES E SERIES",Telecine Fun HD
+http://gopower.click:80/wesleyvitor/58682594/282
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title=" FILMES E SERIES",Telecine Fun FHD 
 http://45.235.0.78/Telecine_Fun/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" Sony Channel SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title=" FILMES E SERIES",Sony Channel SD
-http://xui.brfontes.fun:80/679962296/029478989/12326820.ts
+http://gopower.click:80/wesleyvitor/58682594/352
 
 #EXTINF:-1 tvg-id="" tvg-name=" Sony Movies FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjhf/sonymovies.png" group-title=" FILMES E SERIES",Sony Movies FHD
 http://xui.brfontes.fun:80/679962296/029478989/12326822.ts
@@ -465,47 +531,71 @@ http://xui.brfontes.fun:80/605333374/085306810/12326636.ts
 
 #################################################### DISNEY + ####################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 01 HD
+http://gopower.click:80/wesleyvitor/58682594/110
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 02 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 02 HD
+http://gopower.click:80/wesleyvitor/58682594/173
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1  HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1  HD*
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/62457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 03 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 03 HD
+http://gopower.click:80/wesleyvitor/58682594/2325
 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="DISNEY+ 1 HD ᶜᴰᴺ²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 1 HD ᶜᴰᴺ²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/162405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 04 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 04 HD
+http://gopower.click:80/wesleyvitor/58682594/2336
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 2 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 05 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 05 HD
+http://gopower.click:80/wesleyvitor/58682594/2326
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 2 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 06 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 06 HD
+http://gopower.click:80/wesleyvitor/58682594/115
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD*" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 2 HD*
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 07 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 07 HD
+http://gopower.click:80/wesleyvitor/58682594/862
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 3 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 08 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 08 HD
+http://gopower.click:80/wesleyvitor/58682594/215
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 3 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 09 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 09 HD
+http://gopower.click:80/wesleyvitor/58682594/219
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 4 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/64708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 10 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 10 HD
+http://gopower.click:80/wesleyvitor/58682594/130
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 4 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 11 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 11 HD
+http://gopower.click:80/wesleyvitor/58682594/2109
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD¹" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 5 HD¹
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/59972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 12 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 12 HD
+http://gopower.click:80/wesleyvitor/58682594/2133
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 5 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 13 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 13 HD
+http://gopower.click:80/wesleyvitor/58682594/2126
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD²" tvg-logo="http://contentsdeliver.link/logos/disney+hd.png" group-title=" DISNEY+ ESPORTES",DISNEY+ 6 HD²
-http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/297173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 14 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 14 HD
+http://gopower.click:80/wesleyvitor/58682594/208
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 15 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 15 HD
+http://gopower.click:80/wesleyvitor/58682594/2122
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 16 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 16 HD
+http://gopower.click:80/wesleyvitor/58682594/2123
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 17 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 17 HD
+http://gopower.click:80/wesleyvitor/58682594/750
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 18 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 18 HD
+http://gopower.click:80/wesleyvitor/58682594/214
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 19 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 19 HD
+http://gopower.click:80/wesleyvitor/58682594/940
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 20 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 20 HD
+http://gopower.click:80/wesleyvitor/58682594/213
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 21 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 21 HD
+http://gopower.click:80/wesleyvitor/58682594/165
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 22 HD" tvg-logo="https://i.postimg.cc/RZY4h6PL/image.png" group-title="DISNEY+ PPV",DISNEY+ 22 HD
+http://gopower.click:80/wesleyvitor/58682594/140
 
 ############################################ CANAIS ESPN ###############################################################
 
@@ -533,6 +623,9 @@ http://xui.brfontes.fun:80/605333374/085306810/12326671.ts
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18637.m3u8
 
 ########################################### CANAIS LUTAS ##############################################################
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title=" LUTAS",Combate HD
+http://gopower.click:80/wesleyvitor/58682594/249
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title=" LUTAS",Combate
 http://45.235.0.78/Combate/playlist.m3u8
@@ -567,7 +660,7 @@ http://xui.brfontes.fun:80/605333374/085306810/12327172.ts
 http://xui.brfontes.fun:80/605333374/085306810/12327176.ts
 
 #EXTINF:-1 tvg-id="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title=" PREMIERE",Premiere Clubes SD
-http://xui.brfontes.fun:80/605333374/085306810/12327177.ts
+http://gopower.click:80/wesleyvitor/58682594/67
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title=" PREMIERE",Premiere 2
 http://xui.brfontes.fun:80/605333374/085306810/12327140.ts
@@ -585,18 +678,18 @@ http://xui.brfontes.fun:80/605333374/085306810/12327159.ts
 http://xui.brfontes.fun:80/605333374/085306810/12327163.ts
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title=" PREMIERE",Premiere 7 
-http://xui.brfontes.fun:80/605333374/085306810/12327169.ts
+http://gopower.click:80/wesleyvitor/58682594/719
 
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title=" PREMIERE",Premiere 8
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://i.postimg.cc/NMKw1MpY/image.png" group-title=" PREMIERE",Premiere 8
 http://xui.brfontes.fun:80/605333374/085306810/12327170.ts
 
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cjjxhhynjz0RXeV6A3tP6Pr-NmW3r-HMpw&s" group-title=" Canais 24 horas",Chaves [HD]
-
+http://gopower.click:80/wesleyvitor/58682594/1911
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title=" Canais 24 horas",Chapolin Colorado 
-
+http://gopower.click:80/wesleyvitor/58682594/1579
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title=" Canais 24 horas",Escolinha do Professor Raimundo [1]
 http://15.235.9.200:14904/
@@ -647,49 +740,90 @@ https://origin-nxtv.b-cdn.net/REDETV_OPERACAO_DE_RISCO/tracks-v1a1/mono.m3u8?aut
 
 ######################################## FUTEBOL GOAT TV #########################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="GOAT 1" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 1
-http://xui.brfontes.fun:80/679962296/029478989/12326471.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 1" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 1
+http://gopower.click:80/wesleyvitor/58682594/2165
 
-#EXTINF:-1 tvg-id="" tvg-name="GOAT 2" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 2
-http://cdntac.xyz:80/659012322/931052415/2294440.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 2" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 2
+http://gopower.click:80/wesleyvitor/58682594/1980
 
-#EXTINF:-1 tvg-id="" tvg-name="GOAT 3" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 3
-http://cdntac.xyz:80/659012322/931052415/2294441.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 3" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 3
+http://gopower.click:80/wesleyvitor/58682594/2164
 
-#EXTINF:-1 tvg-id="" tvg-name="GOAT 4" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 4
-http://cdntac.xyz:80/659012322/931052415/2294442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 4" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 4
+http://gopower.click:80/wesleyvitor/58682594/2162
 
-#EXTINF:-1 tvg-id="" tvg-name="GOAT 5" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title=" GOAT TV",GOAT 5
-http://cdntac.xyz:80/659012322/931052415/2294443.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 5" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 5
+http://gopower.click:80/wesleyvitor/58682594/2069
 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 6" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 6
+http://gopower.click:80/wesleyvitor/58682594/188
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 7" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 7
+http://gopower.click:80/wesleyvitor/58682594/2124
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 8" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 8
+http://gopower.click:80/wesleyvitor/58682594/2125
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 9" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 9
+http://gopower.click:80/wesleyvitor/58682594/150
 
 ########################################## FUTEBOL CAZE TV ###########################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 1" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 1
-http://srv1.cc:80/739933617/463783777/5524558.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 1" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 1
+http://gopower.click:80/wesleyvitor/58682594/1333
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 2" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 2
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 10" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 10
+http://gopower.click:80/wesleyvitor/58682594/151
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 3" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 3
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 11" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 11
+http://gopower.click:80/wesleyvitor/58682594/809
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 3" tvg-logo="https://i.imgur.com/Xq2d0NI.png" group-title=" CAZE TV",CAZÉ TV 4
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 12" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 12
+http://gopower.click:80/wesleyvitor/58682594/696
 
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 13" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 13
+http://gopower.click:80/wesleyvitor/58682594/2121
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 14" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 14
+http://gopower.click:80/wesleyvitor/58682594/190
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 15" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 15
+http://gopower.click:80/wesleyvitor/58682594/791
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 2" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 2
+http://gopower.click:80/wesleyvitor/58682594/1760
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 3" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 3
+http://gopower.click:80/wesleyvitor/58682594/1591
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 4" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 4
+http://gopower.click:80/wesleyvitor/58682594/223
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 6" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 6
+http://gopower.click:80/wesleyvitor/58682594/175
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 7" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 7
+http://gopower.click:80/wesleyvitor/58682594/2303
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 8" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 8
+http://gopower.click:80/wesleyvitor/58682594/2213
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV FHD 9" tvg-logo="https://i.postimg.cc/7ZnL14H5/image.png" group-title="CAZÉ TV PPV",CAZÉ TV FHD 9
+http://gopower.click:80/wesleyvitor/58682594/1673
 
 #################################################### APPLE TV ##################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 01 HD¹
-http://cdntac.xyz:80/659012322/931052415/1114732.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01" tvg-logo="https://i.postimg.cc/ZnhZJ8DW/image.png" group-title="APPLE TV+ PPV",APPLE TV 01
+http://gopower.click:80/wesleyvitor/58682594/841
 
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 02 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 02 HD¹
-http://srv1.cc:80/682313609/397069395/4794833.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 02" tvg-logo="https://i.postimg.cc/ZnhZJ8DW/image.png" group-title="APPLE TV+ PPV",APPLE TV 02
+http://gopower.click:80/wesleyvitor/58682594/2108
 
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 03 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 03 HD¹
-http://srv1.cc:80/682313609/397069395/4794834.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 03" tvg-logo="https://i.postimg.cc/ZnhZJ8DW/image.png" group-title="APPLE TV+ PPV",APPLE TV 03
+http://gopower.click:80/wesleyvitor/58682594/2181
 
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 04 HD¹" tvg-logo="http://contentsdeliver.link/logos/appletvhd.png" group-title=" FUTEBOL APPLE TV",APPLE TV 04 HD¹
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 04" tvg-logo="https://i.postimg.cc/ZnhZJ8DW/image.png" group-title="APPLE TV+ PPV",APPLE TV 04
+http://gopower.click:80/wesleyvitor/58682594/357428
 
 
 
