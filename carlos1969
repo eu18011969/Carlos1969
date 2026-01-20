@@ -9,16 +9,8 @@
 
 ############################################################ FILMES ######################################################################
 
-#EXTINF:-1 tvg-name="Em Guerra com o Vovô (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/ewvz24Ck6OwWoEGOzUkTksDA9TB.jpg" group-title=" FILME DE COMÉDIA",Em Guerra com o Vovô (2020)
-http://xui.brfontes.fun:80/movie/605333374/085306810/13239056.mp4
-
-#EXTINF:-1 tvg-name="A Vida é Bela (1997)" tvg-logo="https://image.tmdb.org/t/p/w780/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg" group-title=" FILME DE COMÉDIA",A Vida é Bela (1997)
-http://xui.brfontes.fun:80/movie/605333374/085306810/13235376.mp4
-
-#EXTINF:-1 tvg-id="24HSeries" tvg-name="24H • Casseta e Planeta Urgente (1992)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title=" FILME DE COMÉDIA",Casseta e Planeta Urgente (1992)
-http://xui.brfontes.fun:80/605333374/085306810/9515590.ts
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Atentado em Oklahoma: Terror nos EUA (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ml3rgtf0RD4VFcEZyyqwEFWOlfB.jpg" group-title=" FILMES LANÇAMENTOS 2025",Atentado em Oklahoma: Terror nos EUA (2025)
+http://7semfronteiras.cc:8080/movie/5193271958/5193271ips1/348036.mp4
 
 ############################################################## CANAIS VARIEDADES ###########################################################
 
