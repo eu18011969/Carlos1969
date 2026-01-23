@@ -2,6 +2,10 @@
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
+#EXTINF:-1 tvg-name="O Agente Secreto (CAM RUIM) (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg" group-title=" CINEMA ",O Agente Secreto (CAM RUIM) (2025)
+http://83km.sbs:80/movie/411630587/258982082/13947882.mp4
+
+
 #EXTINF:-1 tvg-id="BigBrotherBrasil" tvg-name="BBB MOSAICO" tvg-logo="https://i.ibb.co/cxLgSS7/bbb.png" group-title="BBB 2026",BBB MOSAICO
 http://83km.sbs:80/411630587/258982082/13949372.ts
 
