@@ -5,6 +5,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" Atualziada em 01-03-2026 17:25:15 por CARLOS ROCHA
 
+
 ####################################################  Novelas
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novelas",Os dez mandamentos S1
@@ -16,15 +17,21 @@ https://cdn-novflix.com/storage3/ODM/ODMzJ8ZbkUekz24eeeVxdBUi002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novelas",Os dez mandamentos S3
 https://cdn-novflix.com/storage3/ODM/ODMzJ8ZbkUekz24eeeVxdBUi003.mp4
 
+#################################################### REDE TV 
 
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD²" tvg-logo="https://logapp.cyou/thumb/RedeTV-Logotipo.svg.png" group-title="REDE TV",REDE TV FHD²
+http://gopower.click:80/wesleyvitor/58682594/1462
+
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD¹" tvg-logo="https://logapp.cyou/thumb/RedeTV-Logotipo.svg.png" group-title="REDE TV",REDE TV FHD¹
+http://gopower.click:80/wesleyvitor/58682594/1477
 
 
 ##################################################### Canais Globo 
 
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO SUDESTE",GLOBO MINAS FHD
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO",GLOBO MINAS FHD
 http://gopower.click:80/wesleyvitor/58682594/661
 
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO  RJ FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO SUDESTE",GLOBO  RJ FHD
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO  RJ FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO",GLOBO  RJ FHD
 http://gopower.click:80/wesleyvitor/58682594/1101
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo RJ HD
@@ -33,10 +40,10 @@ http://79.127.238.228:14217/
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title=" GLOBO",Globo SP SD
 http://79.127.238.228:14211/
 
-#EXTINF:-1 tvg-id="RGSAOP" tvg-name="GLOBO  SP FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO SUDESTE",GLOBO  SP FHD
+#EXTINF:-1 tvg-id="RGSAOP" tvg-name="GLOBO  SP FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO",GLOBO  SP FHD
 http://gopower.click:80/wesleyvitor/58682594/1141
 
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEG. JUIZ DE FORA FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO SUDESTE",GLOBO INTEG. JUIZ DE FORA FHD
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTEG. JUIZ DE FORA FHD" tvg-logo="https://i.postimg.cc/DzjRQ1WY/image.png" group-title="GLOBO", GLOBO JUIZ DE FORA FHD
 http://gopower.click:80/wesleyvitor/58682594/1788
 
 ######################################################## SBT
@@ -62,7 +69,6 @@ http://gopower.click:80/wesleyvitor/58682594/406524
 #EXTINF:-1 tvg-id="" tvg-name="SBT+ Silvio Santos" tvg-logo="https://i.postimg.cc/Y9vHB9FP/image.png" group-title="SBT",SBT+ Silvio Santos
 http://gopower.click:80/wesleyvitor/58682594/1570
 
-
 ####################################################### BAND 
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND  RJ HD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND  RJ HD
@@ -80,13 +86,15 @@ http://gopower.click:80/wesleyvitor/58682594/1209
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND MG FHD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND MG FHD
 http://gopower.click:80/wesleyvitor/58682594/1976
 
-
 ######################################################## FILMES E SERIES
+
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.postimg.cc/DyKnPjNc/image.png" group-title="FILMES E SÉRIES",LIFETIME SD
+http://gopower.click:80/wesleyvitor/58682594/656
 
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.postimg.cc/C5ntLMgK/image.png" group-title="FILMES E SÉRIES",A&E FHD
 http://gopower.click:80/wesleyvitor/58682594/1339
 
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIN FHD" tvg-logo="https://i.postimg.cc/vZKtPqdJ/image.png" group-title="VARIEDADES",ADULT SWIN FHD
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="ADULT SWIN FHD" tvg-logo="https://i.postimg.cc/vZKtPqdJ/image.png" group-title="FILMES E SÉRIES",ADULT SWIN FHD
 http://gopower.click:80/wesleyvitor/58682594/589
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://i.postimg.cc/C5hq07fM/image.png" group-title="FILMES E SÉRIES",AMC FHD
@@ -95,7 +103,65 @@ http://gopower.click:80/wesleyvitor/58682594/1338
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/x1NDgSFY/image.png" group-title="FILMES E SÉRIES",AXN FHD
 http://gopower.click:80/wesleyvitor/58682594/1164
 
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://i.postimg.cc/fRp57D0k/image.png" group-title="FILMES E SÉRIES",CANAL BRASIL FHD
+http://gopower.click:80/wesleyvitor/58682594/1652
 
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.postimg.cc/G3sxJZx5/image.png" group-title="FILMES E SÉRIES",CINEMAX FHD
+http://gopower.click:80/wesleyvitor/58682594/378
+
+#EXTINF:-1 tvg-id="FABB" tvg-name="FILM & ARTS FHD" tvg-logo="https://i.postimg.cc/D0tC5hS2/image.png" group-title="FILMES E SÉRIES",FILM & ARTS FHD
+http://gopower.click:80/wesleyvitor/58682594/2214
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://logapp.cyou/thumb/megapix-logo-8.png" group-title="FILMES E SÉRIES",MEGAPIX FHD
+http://gopower.click:80/wesleyvitor/58682594/381
+
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="https://i.postimg.cc/0NBqCy98/image.png" group-title="FILMES E SÉRIES",SONY FHD
+http://gopower.click:80/wesleyvitor/58682594/407
+
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" group-title="FILMES E SÉRIES",SPACE FHD
+http://gopower.click:80/wesleyvitor/58682594/1539
+
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.postimg.cc/Pq979yKB/image.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://gopower.click:80/wesleyvitor/58682594/1301
+
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD²" tvg-logo="https://i.postimg.cc/qM5KH41Y/image.png" group-title="FILMES E SÉRIES",TCM FHD²
+http://gopower.click:80/wesleyvitor/58682594/390
+
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.postimg.cc/jCYsNX1g/image.png" group-title="FILMES E SÉRIES",TELECINE ACTION FHD
+http://gopower.click:80/wesleyvitor/58682594/1161
+
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://i.postimg.cc/c15R7K0B/image.png" group-title="FILMES E SÉRIES",TELECINE CULT FHD
+http://gopower.click:80/wesleyvitor/58682594/2093
+
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://i.postimg.cc/8CsM9NpV/image.png" group-title="FILMES E SÉRIES",TELECINE FUN FHD
+http://gopower.click:80/wesleyvitor/58682594/228
+
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.postimg.cc/4NbCMTyy/image.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA FHD
+http://gopower.click:80/wesleyvitor/58682594/229
+
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://i.postimg.cc/SKSvHX5t/image.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM FHD
+http://gopower.click:80/wesleyvitor/58682594/2092
+
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://i.postimg.cc/05WXQjSS/image.png" group-title="FILMES E SÉRIES",TELECINE TOUCH FHD
+http://gopower.click:80/wesleyvitor/58682594/941
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT  FHD" tvg-logo="https://i.postimg.cc/mZQwNz2w/image.png" group-title="FILMES E SÉRIES",TNT  FHD
+http://gopower.click:80/wesleyvitor/58682594/356
+
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://i.postimg.cc/L6kHzMW7/image.png" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL FHD
+http://gopower.click:80/wesleyvitor/58682594/2029
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="FILMES E SÉRIES",UNIVERSAL PREMIERE FHD
+http://gopower.click:80/wesleyvitor/58682594/1834
+
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://i.postimg.cc/QMdQzqFB/image.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD
+http://gopower.click:80/wesleyvitor/58682594/387
+
+#EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER CHANNEL HD 
+http://79.127.238.228:14647/
+
+#EXTINF:-1 tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="http://images.gbound.lat/logos/WAMcsVqF_o.png" group-title="FILMES E SERIES",TLC HD
+http://79.127.238.228:14433/TLChd
 
 
 
@@ -110,7 +176,6 @@ http://gopower.click:80/wesleyvitor/58682594/1519
 
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RIO FHD" tvg-logo="https://logapp.cyou/thumb/recordtv-logo-C6BEA35FBB-seeklogo.com.png" group-title="RECORD TV",RECORD RIO FHD
 http://gopower.click:80/wesleyvitor/58682594/17
-
 
 ##################################################### CANAIS NOTICIAS NEWS
 
@@ -137,10 +202,6 @@ http://gopower.click:80/wesleyvitor/58682594/2149
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://i.imgur.com/FzZsHzC.jpeg" group-title="NOTICIAS",CNN BRASIL MONEY FHD
 http://gopower.click:80/wesleyvitor/58682594/377
-
-
-
-
 
 ################################################### BBB 2026
 
@@ -182,8 +243,6 @@ http://gopower.click:80/wesleyvitor/58682594/407275
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB SALA SONHO MILIONARIO" tvg-logo="https://i.postimg.cc/YSm4sLnP/image.png" group-title="BBB 26",BBB CAM11
 http://gopower.click:80/wesleyvitor/58682594/407276
-
-
 
 ####################################################### CANAL GOAT
 
@@ -331,7 +390,6 @@ http://gopower.click:80/wesleyvitor/58682594/140
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/Z5pd1XTm/image.png" group-title="DAZN PPV",DAZN 1 HD
 http://gopower.click:80/wesleyvitor/58682594/2129
 
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/Z5pd1XTm/image.png" group-title="DAZN PPV",DAZN 2 HD
 http://gopower.click:80/wesleyvitor/58682594/2128
 
@@ -374,7 +432,6 @@ http://gopower.click:80/wesleyvitor/58682594/1706
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 15 HD" tvg-logo="https://i.postimg.cc/Z5pd1XTm/image.png" group-title="DAZN PPV",DAZN 15 HD
 http://gopower.click:80/wesleyvitor/58682594/2134
 
-
 ############################################################## ESPN
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN  FHD" tvg-logo="https://i.postimg.cc/kg03NfrY/image.png" group-title="ESPN",ESPN  FHD
@@ -407,7 +464,6 @@ http://gopower.click:80/wesleyvitor/58682594/650
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 FHD²" tvg-logo="https://i.postimg.cc/kg03NfrY/image.png" group-title="ESPN",ESPN 6 FHD
 http://gopower.click:80/wesleyvitor/58682594/1990
 
-
 ############################################################ FISH YV
 
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://i.postimg.cc/zfWgYbkr/image.png" group-title="ESPORTES",FISH TV FHD
@@ -427,7 +483,6 @@ http://gopower.click:80/wesleyvitor/58682594/966
 
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD²" tvg-logo="https://i.postimg.cc/zfWgYbkr/image.png" group-title="ESPORTES",FISH TV SD²
 http://gopower.click:80/wesleyvitor/58682594/926
-
 
 ################################################  NSPORTS
 
@@ -569,7 +624,6 @@ http://gopower.click:80/wesleyvitor/58682594/715
 #EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8" tvg-logo="https://i.postimg.cc/NMKw1MpY/image.png" group-title="PREMIERE",PREMIERE 8 SD
 http://gopower.click:80/wesleyvitor/58682594/742
 
-
 ######################################################   PRIME VIDEO AMAZOM
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 1" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 1
@@ -607,4 +661,103 @@ http://gopower.click:80/wesleyvitor/58682594/2116
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO AMAZON 6²" tvg-logo="https://i.postimg.cc/3NWBmhPp/image.png" group-title="PRIME VIDEO PPV",PRIME VIDEO AMAZON 6²
 http://gopower.click:80/wesleyvitor/58682594/272
+
+##############################################################  BAND SPORTES
+
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS FHD
+http://gopower.click:80/wesleyvitor/58682594/779
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS FHD²
+http://gopower.click:80/wesleyvitor/58682594/5
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS H265" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS H265
+http://gopower.click:80/wesleyvitor/58682594/781
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS HD
+http://gopower.click:80/wesleyvitor/58682594/1747
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS HD²
+http://gopower.click:80/wesleyvitor/58682594/1379
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS SD
+http://gopower.click:80/wesleyvitor/58682594/2
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS SD²
+http://gopower.click:80/wesleyvitor/58682594/6
+
+
+########################################################### CANAIS 24 H
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-AS VISOES DE RAVEN" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="CANAIS 24H",AS VISOES DE RAVEN
+http://gopower.click:80/wesleyvitor/58682594/1909
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="CANAIS 24H",CHAPOLIN
+http://gopower.click:80/wesleyvitor/58682594/1579
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="CANAIS 24H",CHAVES
+http://gopower.click:80/wesleyvitor/58682594/1911
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-FAMILIA DINOSSAURO" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="CANAIS 24H",FAMILIA DINOSSAURO
+http://gopower.click:80/wesleyvitor/58682594/260
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="CANAIS 24H",ESCOLINHA DO PROFESSOR RAIMUNDO FHD
+http://gopower.click:80/wesleyvitor/58682594/1908
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="http://img1.wikia.nocookie.net/__cb20130808140522/logopedia/images/9/93/Escolinha-do-professor-raimundo-1990.jpg" group-title="CANAIS 24H",ESCOLINHA DO PROFESSOR RAIMUNDO HD
+http://15.235.9.200:14904/
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JOAO KLEBER" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="CANAIS 24H",PEGADINHAS JOAO KLEBER
+http://gopower.click:80/wesleyvitor/58682594/1977
+
+############################################################# VARIEDADES
+
+EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.postimg.cc/x8vJXf4R/image.png" group-title="VARIEDADES",ANIMAL PLANET FHD
+http://gopower.click:80/wesleyvitor/58682594/1014
+
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title=" VARIEDADES",MASTER CHEF
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/115.m3u8
+
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://i.postimg.cc/XYmNMjJw/image.png" group-title="VARIEDADES",ARTE 1 FHD
+http://gopower.click:80/wesleyvitor/58682594/469
+
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://i.postimg.cc/2Sbm7sw3/image.png" group-title="VARIEDADES",BIS FHD
+http://gopower.click:80/wesleyvitor/58682594/526
+
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.postimg.cc/5tDZNjdm/image.png" group-title="VARIEDADES",MULTISHOW FHD
+http://gopower.click:80/wesleyvitor/58682594/476
+
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="https://i.postimg.cc/Wzvc1TrT/image.png" group-title="VARIEDADES",CATVE HD
+http://gopower.click:80/wesleyvitor/58682594/494
+
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://i.postimg.cc/wxn78QGt/image.png" group-title="VARIEDADES",GNT FHD
+http://gopower.click:80/wesleyvitor/58682594/508
+
+
+
+###############################################################  NOVELAS
+
+#EXTINF:-1 tvg-id="viva.br" tvg-name="GLOBOPLAY NOVELAS 4K" tvg-logo="https://i.postimg.cc/zfSZs1q3/image.png" group-title="NOVELAS",GLOBOPLAY NOVELAS 4K
+http://gopower.click:80/wesleyvitor/58682594/1082
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVELAS",ViVA HD
+http://79.127.238.228:14455/VIVA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
