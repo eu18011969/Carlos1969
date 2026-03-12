@@ -127,9 +127,6 @@ http://gopower.click:80/wesleyvitor/58682594/1549
 #EXTINF:-1 tvg-id="" tvg-name="SBT+ Kids" tvg-logo="https://i.postimg.cc/Y9vHB9FP/image.png" group-title="SBT",SBT+ Kids
 http://gopower.click:80/wesleyvitor/58682594/1574
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ Novelas" tvg-logo="https://i.postimg.cc/Y9vHB9FP/image.png" group-title="SBT",SBT+ Novelas
-http://gopower.click:80/wesleyvitor/58682594/1571
-
 #EXTINF:-1 tvg-id="" tvg-name="SBT+ Raiz" tvg-logo="https://i.postimg.cc/Y9vHB9FP/image.png" group-title="SBT",SBT+ Raiz
 http://gopower.click:80/wesleyvitor/58682594/406524
 
@@ -230,9 +227,6 @@ http://79.127.238.228:14647/
 #EXTINF:-1 tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="http://images.gbound.lat/logos/WAMcsVqF_o.png" group-title="FILMES E SERIES",TLC HD
 http://79.127.238.228:14433/TLChd
 
-
-
-
 ##################################################### RECORDTV
 
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD  SP FHD" tvg-logo="https://logapp.cyou/thumb/recordtv-logo-C6BEA35FBB-seeklogo.com.png" group-title="RECORD TV",RECORD  SP FHD
@@ -244,12 +238,42 @@ http://gopower.click:80/wesleyvitor/58682594/1519
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RIO FHD" tvg-logo="https://logapp.cyou/thumb/recordtv-logo-C6BEA35FBB-seeklogo.com.png" group-title="RECORD TV",RECORD RIO FHD
 http://gopower.click:80/wesleyvitor/58682594/17
 
+################################################### INFANTIS
+
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO FHD" tvg-logo="https://i.postimg.cc/CLkhkTL7/image.png" group-title="INFANTIS",GLOOBINHO FHD
+http://gopower.click:80/wesleyvitor/58682594/357049
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://i.postimg.cc/c6qz0bp4/image.png" group-title="INFANTIS",GLOOB FHD
+http://gopower.click:80/wesleyvitor/58682594/357046
+
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://i.postimg.cc/4NDGx86c/image.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://gopower.click:80/wesleyvitor/58682594/2148
+
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="INFANTIS",CARTOONITO FHD
+http://gopower.click:80/wesleyvitor/58682594/357039
+
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON FHD²" tvg-logo="https://i.postimg.cc/MZjqJ2Rw/image.png" group-title="INFANTIS",NICKELODEON FHD²
+http://gopower.click:80/wesleyvitor/58682594/2226
+
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://i.postimg.cc/5t1Mw6kN/image.png" group-title="INFANTIS",DISCOVERY KIDS FHD
+http://gopower.click:80/wesleyvitor/58682594/357043
+
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="DUMDUM FHD²" tvg-logo="https://i.postimg.cc/Y0pvvvJs/image.png" group-title="INFANTIS",DUMDUM FHD²
+http://gopower.click:80/wesleyvitor/58682594/357058
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS MAIS HD²" tvg-logo="https://i.imgur.com/sJY0K4y.png" group-title="INFANTIS",KIDS MAIS HD²
+http://gopower.click:80/wesleyvitor/58682594/1444
+
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/jqymhsPD/image.png" group-title="INFANTIS",TOONCAST HD
+http://gopower.click:80/wesleyvitor/58682594/830
+
+
 ##################################################### CANAIS NOTICIAS NEWS
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.postimg.cc/8k0fhT6w/2560px-Band-News-TV-logo-2010-svg.png" group-title="NOTICIAS",BAND NEWS FHD
 http://gopower.click:80/wesleyvitor/58682594/2172
 
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="https://logapp.cyou/thumb/novo-logo-globonews-2022jpg.jpg" group-title="CANAIS 4k",GLOBO NEWS 4K
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="https://logapp.cyou/thumb/novo-logo-globonews-2022jpg.jpg" group-title="NOTICIAS",GLOBO NEWS 4K
 http://gopower.click:80/wesleyvitor/58682594/2350
 
 #EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://logapp.cyou/thumb/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD
@@ -264,7 +288,7 @@ http://gopower.click:80/wesleyvitor/58682594/405112
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://logapp.cyou/thumb/cnn.jpg" group-title="NOTICIAS",CNN BRASIL SD
 http://gopower.click:80/wesleyvitor/58682594/774
 
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL 4K" tvg-logo="https://logapp.cyou/thumb/cnn.jpg" group-title="CANAIS 4k",CNN BRASIL 4K
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL 4K" tvg-logo="https://logapp.cyou/thumb/cnn.jpg" group-title="NOTICIAS",CNN BRASIL 4K
 http://gopower.click:80/wesleyvitor/58682594/2149
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://i.imgur.com/FzZsHzC.jpeg" group-title="NOTICIAS",CNN BRASIL MONEY FHD
@@ -339,6 +363,14 @@ http://gopower.click:80/wesleyvitor/58682594/2125
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 9" tvg-logo="https://i.postimg.cc/L6KFP3D5/image.png" group-title="PAY-PER-VIEW",CANAL GOAT 9
 http://gopower.click:80/wesleyvitor/58682594/150
+
+############################################################ GE TV
+
+#EXTINF:-1 tvg-id="" tvg-name="GE TV" tvg-logo="https://i.postimg.cc/5t7zWd0L/image.png" group-title="GE TV",GE TV
+http://gopower.click:80/wesleyvitor/58682594/1735
+
+
+
 
 ##########################################################  CAZÉ TV
 
@@ -519,7 +551,7 @@ http://gopower.click:80/wesleyvitor/58682594/2315
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 H265" tvg-logo="https://i.postimg.cc/kg03NfrY/image.png" group-title="ESPN",ESPN 3 H265
 http://gopower.click:80/wesleyvitor/58682594/1577
 
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://i.postimg.cc/FR4JrrPJ/image.png" group-title="CANAIS 4k",ESPN 4 4K
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://i.postimg.cc/FR4JrrPJ/image.png" group-title="ESPN",ESPN 4 4K
 http://gopower.click:80/wesleyvitor/58682594/1070
 
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.postimg.cc/kg03NfrY/image.png" group-title="ESPN",ESPN 4 FHD
@@ -634,7 +666,7 @@ http://gopower.click:80/wesleyvitor/58682594/37
 
 ##############################################################  PREMIERE 
 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://i.postimg.cc/NMKw1MpY/image.png" group-title="CANAIS 4k",PREMIERE CLUBES 4K
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://i.postimg.cc/NMKw1MpY/image.png" group-title="PREMIERE",PREMIERE CLUBES 4K
 http://gopower.click:80/wesleyvitor/58682594/1080
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE  CLUBES 60FPS" tvg-logo="https://i.postimg.cc/NMKw1MpY/image.png" group-title="PREMIERE",PREMIERE  CLUBES 60FPS
@@ -779,7 +811,7 @@ http://gopower.click:80/wesleyvitor/58682594/1977
 
 ############################################################# VARIEDADES
 
-EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.postimg.cc/x8vJXf4R/image.png" group-title="VARIEDADES",ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.postimg.cc/x8vJXf4R/image.png" group-title="VARIEDADES",ANIMAL PLANET FHD
 http://gopower.click:80/wesleyvitor/58682594/1014
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://i.imgur.com/W6s8vWC.png" group-title=" VARIEDADES",MASTER CHEF
@@ -810,7 +842,8 @@ http://gopower.click:80/wesleyvitor/58682594/1082
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="NOVELAS",ViVA HD
 http://79.127.238.228:14455/VIVA
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Novelas" tvg-logo="https://i.postimg.cc/Y9vHB9FP/image.png" group-title="NOVELAS",SBT NOVELAS
+http://gopower.click:80/wesleyvitor/58682594/1571
 
 
 
