@@ -206,7 +206,7 @@ http://gopower.click:80/wesleyvitor/58682594/1539
 #EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.postimg.cc/Pq979yKB/image.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD
 http://gopower.click:80/wesleyvitor/58682594/1301
 
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL 4K" tvg-logo="https://i.postimg.cc/vBDcMgzZ/image.png" group-title="CANAIS 4k",UNIVERSAL 4K
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL 4K" tvg-logo="https://i.postimg.cc/vBDcMgzZ/image.png" group-title="FILMES E SÉRIES",UNIVERSAL 4K
 http://gopower.click:80/wesleyvitor/58682594/1083
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD²" tvg-logo="https://i.postimg.cc/qM5KH41Y/image.png" group-title="FILMES E SÉRIES",TCM FHD²
@@ -241,9 +241,6 @@ http://gopower.click:80/wesleyvitor/58682594/1834
 
 #EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://i.postimg.cc/QMdQzqFB/image.png" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD
 http://gopower.click:80/wesleyvitor/58682594/387
-
-#EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SÉRIES",WARNER CHANNEL HD 
-http://79.127.238.228:14647/
 
 #EXTINF:-1 tvg-id="br#tlc-hd" tvg-name="TLC HD" tvg-logo="http://images.gbound.lat/logos/WAMcsVqF_o.png" group-title="FILMES E SÉRIES",TLC HD
 http://79.127.238.228:14433/TLChd
