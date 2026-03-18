@@ -898,6 +898,13 @@ http://gopower.click:80/wesleyvitor/58682594/1085
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://i.postimg.cc/2yNTfNWH/image.png" group-title="DISCOVERY",DISCOVERY WORLD FHD
 http://gopower.click:80/wesleyvitor/58682594/583
 
+#############################################################  RELIGIOSOS
+
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
+http://gopower.click:80/wesleyvitor/58682594/579
+
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA FHD" tvg-logo="https://i.postimg.cc/fbXhdYvP/image.png" group-title="RELIGIOSOS",TV APARECIDA FHD
+http://gopower.click:80/wesleyvitor/58682594/18
 
 
 ###############################################################  NOVELAS
