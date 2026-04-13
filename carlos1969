@@ -150,13 +150,13 @@ http://gopower.click:80/wesleyvitor/58682594/449
 
 ####################################################### BAND 
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND  RJ HD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND  RJ HD
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND  RJ HD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND RJ HD
 http://gopower.click:80/wesleyvitor/58682594/2209
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND  RS FHD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND  RS FHD
 http://gopower.click:80/wesleyvitor/58682594/1545
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND  SD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND  SD
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND  SD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND SP SD
 http://gopower.click:80/wesleyvitor/58682594/1597
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND  SP FHD" tvg-logo="https://logapp.cyou/thumb/Rede_Bandeirantes_logo_2011.svg.png" group-title="BAND",BAND  SP FHD
@@ -793,25 +793,25 @@ http://gopower.click:80/wesleyvitor/58682594/272
 ##############################################################  BAND SPORTES
 
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS FHD
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS FHD
 http://gopower.click:80/wesleyvitor/58682594/779
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS FHD²
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS FHD²
 http://gopower.click:80/wesleyvitor/58682594/5
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS H265" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS H265
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS H265" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS H265
 http://gopower.click:80/wesleyvitor/58682594/781
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS HD
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS HD
 http://gopower.click:80/wesleyvitor/58682594/1747
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS HD²
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS HD²
 http://gopower.click:80/wesleyvitor/58682594/1379
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS SD
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS SD
 http://gopower.click:80/wesleyvitor/58682594/2
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="ESPORTES",BAND SPORTS SD²
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://i.postimg.cc/wBh7GK6x/image.png" group-title="BAND SPORTS",BAND SPORTS SD²
 http://gopower.click:80/wesleyvitor/58682594/6
 
 
