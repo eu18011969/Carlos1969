@@ -5,6 +5,21 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" Atualziada em 01-03-2026 17:25:15 por CARLOS ROCHA
 
+
+##############################################################  RADIOS
+
+#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/62/29/de62296b-e746-c04c-1eef-f1b5f6c0ee84/source/512x512bb.jpg" group-title="CANAIS • RADIOS",Radio Muriaé 99-5 FM
+https://5a57bda70564a.streamlock.net/muriaeamhd/muriaeamhd.stream/chunklist_w417143985.m3u8
+
+#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/601/jovem-pan-fm-sao-paulo.c88a6569.png" group-title="CANAIS • RADIOS",Jovem Pan 
+https://stream-167.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxtRi1aRUJHU0o2cUJZRm0waVBfU2ciLCJpYXQiOjE3MjY1OTg1NTYsImV4cCI6MTcyNjU5ODYxNn0.Cj4W3dVzsiGOMlLO0zw8hETBdwABBJmnUsq44x9fKWI
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="CANAIS • NOVELAS",ViVA HD
+http://79.127.238.228:14455/VIVA
+
+
+
+
 ##################################################################################################################
 #EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/ae-fhd-alt.png" group-title="CANAIS • FILMES E SÉRIES",A&E FHD
 http://imxm.best:80/02984331/02990764/9014398
@@ -2391,11 +2406,4 @@ http://imxm.best:80/02984331/02990764/14571754
 
 
 
-##############################################################  RADIOS
-
-#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/62/29/de62296b-e746-c04c-1eef-f1b5f6c0ee84/source/512x512bb.jpg" group-title="RADIOS",Radio Muriaé 99-5 FM
-https://5a57bda70564a.streamlock.net/muriaeamhd/muriaeamhd.stream/chunklist_w417143985.m3u8
-
-#EXTINF:-1 tvg-id="Radio ao vivo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/601/jovem-pan-fm-sao-paulo.c88a6569.png" group-title="RADIOS",Jovem Pan 
-https://stream-167.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxtRi1aRUJHU0o2cUJZRm0waVBfU2ciLCJpYXQiOjE3MjY1OTg1NTYsImV4cCI6MTcyNjU5ODYxNn0.Cj4W3dVzsiGOMlLO0zw8hETBdwABBJmnUsq44x9fKWI
 
